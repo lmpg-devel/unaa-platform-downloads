@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>UNAA - telechargements</title>
+    <link rel="icon" href="./assets/icons/unaa-plateforme.png" />
+    <style>
+      :root {
+        --ink: #22313c;
+        --muted: #667085;
+        --line: #d8dee8;
+        --surface: #ffffff;
+        --bg: #f5f7fa;
+        --accent: #71856d;
+        font-family: Inter, "Segoe UI", Arial, sans-serif;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        color: var(--ink);
+        background: var(--bg);
+      }
+
+      main {
+        max-width: 920px;
+        margin: 0 auto;
+        padding: 26px;
+      }
+
+      header,
+      .card {
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--surface);
+      }
+
+      header {
+        display: flex;
+        gap: 16px;
+        align-items: center;
+        padding: 18px;
+        margin-bottom: 14px;
+      }
+
+      header img {
+        width: 58px;
+        height: 58px;
+      }
+
+      h1,
+      h2,
+      p {
+        margin: 0;
+      }
+
+      h1 {
+        font-size: clamp(28px, 5vw, 42px);
+      }
+
+      p {
+        color: var(--muted);
+        line-height: 1.45;
+      }
+
+      .card {
+        display: grid;
+        gap: 14px;
+        padding: 18px;
+      }
+
+      .actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+      }
+
+      a.button {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 46px;
+        padding: 0 14px;
+        border-radius: 7px;
+        color: #fff;
+        background: var(--accent);
+        font-weight: 850;
+        text-decoration: none;
+      }
+
+      a.secondary {
+        color: var(--ink);
+        background: #eef2f7;
+      }
+
+      @media (max-width: 560px) {
+        main {
+          padding: 16px;
+        }
+
+        header {
+          align-items: flex-start;
+        }
+
+        .actions,
+        a.button {
+          width: 100%;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <header>
+        <img src="./assets/icons/unaa-plateforme.png" alt="" />
+        <div>
+          <h1>UNAA Plateforme</h1>
+          <p>Artefacts publics de consultation et d'installation.</p>
+        </div>
+      </header>
+
+      <section class="card">
+        <h2>Veille Archi Marches</h2>
+        <p>Premiere application stable de la plateforme : veille quotidienne des marches publics d'architecture.</p>
+        <div class="actions">
+          <a class="button" href="./apps/veille-archi-marches/">Ouvrir la version mobile/PWA</a>
+          <a class="button secondary" href="./data/veille-archi-marches/latest-opportunities.json">Donnees publiques JSON</a>
+          <a class="button secondary" href="https://github.com/lmpg-devel/veille-archi-marches/releases">Releases EXE/APK</a>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>

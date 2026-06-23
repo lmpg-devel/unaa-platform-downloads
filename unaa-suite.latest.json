@@ -1,0 +1,14 @@
+{
+  "schemaVersion": "unaa-suite-public.v1",
+  "generatedAt": "2026-06-23T00:00:00.000Z",
+  "modules": [
+    {
+      "id": "veille-archi-marches",
+      "title": "Veille Archi Marches",
+      "version": "1.0.0",
+      "mobilePwa": "apps/veille-archi-marches/",
+      "publicData": "data/veille-archi-marches/latest-opportunities.json",
+      "releases": "https://github.com/lmpg-devel/veille-archi-marches/releases"
+    }
+  ]
+}

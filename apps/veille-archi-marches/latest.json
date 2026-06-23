@@ -1,0 +1,7 @@
+{
+  "moduleId": "veille-archi-marches",
+  "version": "1.0.0",
+  "mobileHtml": "index.html",
+  "data": "../../data/veille-archi-marches/latest-opportunities.json",
+  "releases": "https://github.com/lmpg-devel/veille-archi-marches/releases"
+}
