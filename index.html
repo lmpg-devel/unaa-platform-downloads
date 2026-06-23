@@ -73,6 +73,22 @@
         padding: 18px;
       }
 
+      .card + .card {
+        margin-top: 14px;
+      }
+
+      .module-head {
+        display: flex;
+        gap: 14px;
+        align-items: center;
+      }
+
+      .module-head img {
+        width: 52px;
+        height: 52px;
+        border-radius: 12px;
+      }
+
       .actions {
         display: flex;
         flex-wrap: wrap;
@@ -128,7 +144,10 @@
       </header>
 
       <section class="card">
-        <h2>UNAA Veille Archi Marches</h2>
+        <div class="module-head">
+          <img src="./assets/icons/unaa-plateforme.png" alt="" />
+          <h2>UNAA Veille Archi Marches</h2>
+        </div>
         <p>Premiere application stable officielle de la plateforme : veille quotidienne des marches publics d'architecture.</p>
         <p class="meta">Version stable v1.0.4 - artefacts publics sans source privee, secrets, credentials ou chemins locaux.</p>
         <div class="actions">
@@ -138,6 +157,23 @@
           <a class="button secondary" href="https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/veille-archi-marches/v1.0.4/veille-archi-marches-v1.0.4-android-debug.apk">Android APK test</a>
           <a class="button secondary" href="./data/veille-archi-marches/latest-opportunities.json">Donnees publiques JSON</a>
           <a class="button secondary" href="https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/veille-archi-marches/v1.0.4/SHA256SUMS.txt">Checksums SHA256</a>
+        </div>
+      </section>
+
+      <section class="card">
+        <div class="module-head">
+          <img src="./assets/icons/unaa-analyse-de-marches.png" alt="" />
+          <h2>UNAA Analyse de Marches</h2>
+        </div>
+        <p>Application stable d'analyse, scoring, matching references/marche et generation de livrables.</p>
+        <p class="meta">Version stable v1.0.1 - artefacts publics sans source privee, secrets, credentials ou chemins locaux.</p>
+        <div class="actions">
+          <a class="button" href="./apps/os-marches-unaa/">Ouvrir la version mobile/PWA</a>
+          <a class="button secondary" href="https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.1/os-marches-unaa-v1.0.1-win-x64-setup.exe">Windows setup EXE</a>
+          <a class="button secondary" href="https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.1/os-marches-unaa-v1.0.1-win-x64-portable.zip">Windows portable ZIP</a>
+          <a class="button secondary" href="https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.1/os-marches-unaa-v1.0.1-android-debug.apk">Android APK test</a>
+          <a class="button secondary" href="./apps/os-marches-unaa/latest.json">Manifeste JSON</a>
+          <a class="button secondary" href="https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.1/SHA256SUMS.txt">Checksums SHA256</a>
         </div>
       </section>
     </main>

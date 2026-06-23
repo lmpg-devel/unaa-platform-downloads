@@ -1,0 +1,18 @@
+{
+  "id": "os-marches-unaa",
+  "title": "UNAA Analyse de Marches",
+  "version": "1.0.1",
+  "channel": "stable",
+  "publishedAt": "2026-06-23T21:00:00.000Z",
+  "entrypoints": {
+    "pwa": "https://lmpg-devel.github.io/unaa-platform-downloads/apps/os-marches-unaa/",
+    "windowsSetup": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.1/os-marches-unaa-v1.0.1-win-x64-setup.exe",
+    "windowsPortable": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.1/os-marches-unaa-v1.0.1-win-x64-portable.zip",
+    "androidDebugApk": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.1/os-marches-unaa-v1.0.1-android-debug.apk",
+    "checksums": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.1/SHA256SUMS.txt"
+  },
+  "sourceRelease": "https://github.com/lmpg-devel/os-marches-unaa/releases/tag/v1.0.1",
+  "integrity": {
+    "checksumsFile": "downloads/os-marches-unaa/v1.0.1/SHA256SUMS.txt"
+  }
+}
