@@ -1,6 +1,6 @@
 {
   "schemaVersion": "unaa-suite-public.v1",
-  "generatedAt": "2026-06-23T21:00:00.000Z",
+  "generatedAt": "2026-06-24T00:05:00.000Z",
   "modules": [
     {
       "id": "veille-archi-marches",
@@ -29,6 +29,15 @@
         "checksums": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.1/SHA256SUMS.txt"
       },
       "releases": "https://github.com/lmpg-devel/os-marches-unaa/releases/tag/v1.0.1"
+    },
+    {
+      "id": "unaa-tri-visuels",
+      "title": "UNAA TH-Visuels",
+      "version": "0.2.0",
+      "mobilePwa": "apps/unaa-tri-visuels/",
+      "publicData": "apps/unaa-tri-visuels/latest.json",
+      "downloads": {},
+      "releases": "https://github.com/lmpg-devel/unaa-tri-visuels"
     }
   ]
 }

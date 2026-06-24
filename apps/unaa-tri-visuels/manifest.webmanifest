@@ -1,0 +1,18 @@
+{
+  "name": "UNAA TH-Visuels",
+  "short_name": "TH-Visuels",
+  "description": "Tri local et qualification editoriale des visuels de references UNA/A.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef3f7",
+  "theme_color": "#4d6279",
+  "icons": [
+    {
+      "src": "./assets/unaa-th-visuels.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

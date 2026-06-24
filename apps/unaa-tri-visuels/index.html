@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>UNAA TH-Visuels</title>
+    <meta name="theme-color" content="#4d6279" />
+    <link rel="icon" href="./assets/unaa-th-visuels.png" />
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="rail" aria-label="Pilotage">
+        <div class="brand">
+          <img src="./assets/unaa-th-visuels.png" alt="" />
+          <div>
+            <strong>UNAA</strong>
+            <span>TH-Visuels</span>
+          </div>
+        </div>
+
+        <section class="panel import-panel" aria-label="Import local">
+          <h2>Import local</h2>
+          <label class="file-command">
+            <input id="manifestInput" type="file" accept=".csv,text/csv" />
+            <span>Importer manifeste CSV</span>
+          </label>
+          <label class="file-command">
+            <input id="imageInput" type="file" accept="image/*" multiple />
+            <span>Importer images</span>
+          </label>
+          <label class="file-command">
+            <input id="labelsInput" type="file" accept=".json,application/json" />
+            <span>Reprendre labels JSON</span>
+          </label>
+          <p>Aucune image n'est envoyee. Les fichiers restent dans le navigateur de cet appareil.</p>
+        </section>
+
+        <section class="panel">
+          <h2>Exports</h2>
+          <button id="exportSelection" class="quiet-button" type="button">Exporter visual-selection.v1.json</button>
+          <button id="exportProfile" class="quiet-button" type="button">Exporter profil editorial</button>
+          <button id="clearSession" class="danger-button" type="button">Vider la session locale</button>
+        </section>
+      </aside>
+
+      <main class="workspace">
+        <header class="topbar">
+          <div>
+            <h1>Tri visuel references</h1>
+            <p>Qualification locale des images de references pour les dossiers de candidature.</p>
+          </div>
+          <div class="status-strip" aria-label="Statut session">
+            <span><strong id="candidateCount">0</strong> images</span>
+            <span><strong id="reviewedCount">0</strong> traitees</span>
+            <span><strong id="okCount">0</strong> OK</span>
+          </div>
+        </header>
+
+        <section class="control-band" aria-label="Reglages lot">
+          <label>
+            Categorie
+            <select id="categorySelect"></select>
+          </label>
+          <label>
+            Taille du lot
+            <input id="batchSize" type="number" min="3" max="30" value="9" />
+          </label>
+          <label>
+            Recherche
+            <input id="searchInput" type="search" placeholder="Projet, fichier, source..." />
+          </label>
+          <button id="nextBatch" type="button">Nouveau lot</button>
+        </section>
+
+        <nav id="categoryNav" class="category-nav" aria-label="Categories"></nav>
+
+        <section id="emptyState" class="empty-state">
+          <img src="./assets/unaa-th-visuels.png" alt="" />
+          <h2>Aucun visuel charge</h2>
+          <p>Importe un manifeste CSV, puis les images correspondantes. Tu peux aussi importer directement un lot d'images sans manifeste pour un tri rapide.</p>
+        </section>
+
+        <section id="cardGrid" class="card-grid" aria-live="polite"></section>
+      </main>
+    </div>
+
+    <template id="cardTemplate">
+      <article class="visual-card">
+        <div class="media-frame"></div>
+        <div class="card-body">
+          <div class="card-title">
+            <strong></strong>
+            <span></span>
+          </div>
+          <p class="source-line"></p>
+          <div class="vote-row">
+            <button class="vote-ok" type="button">OK</button>
+            <button class="vote-ko" type="button">Pas OK</button>
+            <button class="vote-out" type="button">Hors corpus</button>
+          </div>
+          <div class="rating-row" aria-label="Note qualite">
+            <button type="button" data-rating="1">1</button>
+            <button type="button" data-rating="2">2</button>
+            <button type="button" data-rating="3">3</button>
+            <button type="button" data-rating="4">4</button>
+            <button type="button" data-rating="5">5</button>
+          </div>
+          <label class="reclass-row">
+            Correction categorie
+            <select></select>
+          </label>
+        </div>
+      </article>
+    </template>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>

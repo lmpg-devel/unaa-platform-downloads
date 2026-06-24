@@ -1,0 +1,21 @@
+{
+  "id": "unaa-tri-visuels",
+  "title": "UNAA TH-Visuels",
+  "version": "0.2.0",
+  "channel": "pwa-preview",
+  "publishedAt": "2026-06-24T00:05:00.000Z",
+  "entrypoints": {
+    "pwa": "https://lmpg-devel.github.io/unaa-platform-downloads/apps/unaa-tri-visuels/"
+  },
+  "exports": [
+    "visual-selection.v1.json",
+    "visual-learning-profile.v1.json"
+  ],
+  "privacy": {
+    "embeddedImages": false,
+    "embeddedDemoData": false,
+    "uploadsToServer": false,
+    "notes": "Les images restent locales dans le navigateur de l'appareil."
+  },
+  "sourceRepo": "https://github.com/lmpg-devel/unaa-tri-visuels"
+}
