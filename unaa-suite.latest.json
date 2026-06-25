@@ -1,21 +1,21 @@
 {
   "schemaVersion": "unaa-suite-public.v1",
-  "generatedAt": "2026-06-25T13:18:00.000Z",
+  "generatedAt": "2026-06-25T13:55:00.000Z",
   "modules": [
     {
       "id": "veille-archi-marches",
       "title": "UNAA Veille Marches Publics",
-      "version": "1.0.7",
+      "version": "1.0.8",
       "mobilePwa": "apps/veille-archi-marches/",
       "publicData": "data/veille-archi-marches/latest-opportunities.json",
       "downloads": {
-        "windowsSetup": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/veille-archi-marches/v1.0.4/veille-archi-marches-v1.0.4-win-x64-setup.exe",
-        "windowsPortable": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/veille-archi-marches/v1.0.4/veille-archi-marches-v1.0.4-win-x64-portable.zip",
-        "androidDebugApk": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/veille-archi-marches/v1.0.4/veille-archi-marches-v1.0.4-android-debug.apk",
-        "checksums": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/veille-archi-marches/v1.0.4/SHA256SUMS.txt"
+        "windowsSetup": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/veille-archi-marches/v1.0.8/veille-archi-marches-v1.0.8-win-x64-setup.exe",
+        "windowsPortable": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/veille-archi-marches/v1.0.8/veille-archi-marches-v1.0.8-win-x64-portable.zip",
+        "androidDebugApk": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/veille-archi-marches/v1.0.8/veille-archi-marches-v1.0.8-android-debug.apk",
+        "checksums": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/veille-archi-marches/v1.0.8/SHA256SUMS.txt"
       },
-      "releases": "https://github.com/lmpg-devel/veille-archi-marches/releases/tag/v1.0.7",
-      "note": "Web/PWA et donnees publiques en v1.0.7 avec prescripteurs publics bruxellois prioritaires. Les artefacts Windows/Android pointent encore vers v1.0.4 jusqu'a la fin de la release v1.0.7."
+      "releases": "https://github.com/lmpg-devel/veille-archi-marches/releases/tag/v1.0.8",
+      "note": "Package complet v1.0.8: web/PWA, EXE Windows, ZIP portable, APK Android debug, donnees publiques et checksums."
     },
     {
       "id": "os-marches-unaa",
