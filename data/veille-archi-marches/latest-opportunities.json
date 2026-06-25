@@ -1,8 +1,8 @@
 {
   "schemaVersion": "market-opportunity.v1",
   "moduleId": "veille-archi-marches",
-  "generatedAt": "2026-06-23T17:06:07.606Z",
-  "count": 51,
+  "generatedAt": "2026-06-25T12:04:13.851Z",
+  "count": 48,
   "opportunities": [
     {
       "id": "TED-298826-2026",
@@ -519,52 +519,6 @@
         "71200000"
       ],
       "firstSeenAt": "2026-06-15T00:00:00.000Z"
-    },
-    {
-      "id": "TED-410355-2026",
-      "realNotice": true,
-      "sourceId": "ted",
-      "noticeId": "410355-2026",
-      "noticeIdentifier": "9cfabc68-b007-44f6-9b33-94bcaade89d7",
-      "publicationNumber": "410355-2026",
-      "retrievedAt": "2026-06-23T09:50:38.726Z",
-      "retrievalMethod": "TED Search API v3",
-      "noticeUrl": "https://ted.europa.eu/fr/notice/-/detail/410355-2026",
-      "rawHtmlUrl": "https://ted.europa.eu/fr/notice/410355-2026/html",
-      "documentsUrl": "https://ted.europa.eu/nl/notice/410355-2026/pdfs",
-      "language": "NL",
-      "title": "Raamovereenkomst begeleiding van onderhouds- en instandhoudingswerken aan de mijngebouwen site C-Mine",
-      "buyer": "Stad Genk",
-      "buyerGroupId": "communes-cpas",
-      "region": "Flandre",
-      "serviceType": "Architecture",
-      "procedure": "Procedure ouverte",
-      "cpv": [
-        "71221000",
-        "71000000",
-        "71200000"
-      ],
-      "worksAmount": null,
-      "feeAmount": null,
-      "publishedAt": "2026-06-16",
-      "deadline": "2026-06-23",
-      "status": "Avis TED reel",
-      "risk": "Eleve",
-      "matchBase": 80,
-      "summary": "Avis TED 410355-2026, publie le 2026-06-16. Donnees issues de TED Search API v3. Montant des travaux non transmis par TED: a determiner.",
-      "keywords": [
-        "Architecture",
-        "Flandre",
-        "NL",
-        "TED",
-        "marches publics",
-        "architecture",
-        "Belgique – Services d'architecte pour les bâtiments – Raamovereenkomst begeleiding van onderhouds- en instandhoudingswerken aan de mijngebouwen site C-Mine",
-        "71221000",
-        "71000000",
-        "71200000"
-      ],
-      "firstSeenAt": "2026-06-16T00:00:00.000Z"
     },
     {
       "id": "TED-412337-2026",
@@ -1338,63 +1292,6 @@
         "Architectural and related services"
       ],
       "firstSeenAt": "2026-06-11T00:00:00.000Z"
-    },
-    {
-      "id": "BOSA-8640910a-dfcf-42c0-a246-3adb9ff657fc",
-      "realNotice": true,
-      "sourceId": "bosa",
-      "noticeId": "0248b205-c67d-41e6-807d-b55c16151874",
-      "noticeIds": [
-        "0248b205-c67d-41e6-807d-b55c16151874"
-      ],
-      "publicationWorkspaceId": "8640910a-dfcf-42c0-a246-3adb9ff657fc",
-      "publicationReferenceNumbersBDA": [
-        "MA12052600083_pub01"
-      ],
-      "retrievedAt": "2026-06-23T10:11:17.306Z",
-      "retrievalMethod": "BOSA e-Procurement Search API",
-      "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/8640910a-dfcf-42c0-a246-3adb9ff657fc/general",
-      "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/8640910a-dfcf-42c0-a246-3adb9ff657fc/documents",
-      "authenticatedUrl": "https://www.publicprocurement.be/supplier/enterprises/0/tendering-workspaces/publication-workspace-detail/8640910a-dfcf-42c0-a246-3adb9ff657fc",
-      "authenticationMode": "BOSA supplier portal login",
-      "language": "FR/NL/EN",
-      "title": "Consultation préalable du marché relative à une étude de faisabilité pour la mise en œuvre d’un Green Shipping Corridor",
-      "buyer": "Direction Générale Navigation",
-      "buyerGroupId": "regions-provinces",
-      "region": "Bruxelles",
-      "serviceType": "Masterplan",
-      "procedure": "Procedure ouverte",
-      "cpv": [
-        "71241000"
-      ],
-      "worksAmount": null,
-      "feeAmount": null,
-      "publishedAt": "2026-06-08",
-      "deadline": "2026-06-24",
-      "status": "Avis BOSA reel",
-      "risk": "Eleve",
-      "matchBase": 82,
-      "summary": "Conformément aux ambitions climatiques belges et européennes, ainsi qu'aux engagements internationaux pris lors de la COP26 à Glasgow, le Service public fédéral belge Mobilité et Transports, et plus particulièrement la Direction générale Navigation (DGN), étudie la possibilité de mettre en place un corridor maritime vert entre la Belgique et le Royaume-Uni. Donnees issues de BOSA e-Procurement. Montants travaux et honoraires non transmis par la recherche publique: a determiner.",
-      "keywords": [
-        "Masterplan",
-        "Bruxelles",
-        "FR/NL/EN",
-        "BOSA",
-        "e-Procurement",
-        "marches publics",
-        "architecture",
-        "architectuur",
-        "ontwerper",
-        "auteur de projet",
-        "Consultation préalable du marché relative à une étude de faisabilité pour la mise en œuvre d’un Green Shipping Corridor",
-        "Direction Générale Navigation",
-        "71241000",
-        "Haalbaarheidsstudie, adviesverlening, analyse",
-        "Feasibility study, advisory service, analysis",
-        "Études de faisabilité, service de conseil, analyse",
-        "Durchführbarkeitsstudie, Beratung, Analyse"
-      ],
-      "firstSeenAt": "2026-06-08T00:00:00.000Z"
     },
     {
       "id": "BOSA-5fb09dbf-3b64-4e29-acbc-bc032b9fbda3",
@@ -2634,69 +2531,6 @@
         "Volledige of gedeeltelijke bouw- en civieltechnische werkzaamheden",
         "Komplett- oder Teilbauleistungen im Hochbau sowie Tiefbauarbeiten",
         "Travaux de construction complète ou partielle et travaux de génie civil"
-      ],
-      "firstSeenAt": "2026-06-23T10:06:22.555Z"
-    },
-    {
-      "id": "BOSA-b3ac79b4-d4a9-4644-afb7-2332be786064",
-      "realNotice": true,
-      "sourceId": "bosa",
-      "noticeId": "01e0021a-027c-463d-949e-b10e15b4ea0d",
-      "noticeIds": [
-        "01e0021a-027c-463d-949e-b10e15b4ea0d"
-      ],
-      "publicationWorkspaceId": "b3ac79b4-d4a9-4644-afb7-2332be786064",
-      "publicationReferenceNumbersBDA": [
-        "PPP04Y-2725/6094/2026/010_001"
-      ],
-      "retrievedAt": "2026-06-23T10:11:17.306Z",
-      "retrievalMethod": "BOSA e-Procurement Search API",
-      "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/b3ac79b4-d4a9-4644-afb7-2332be786064/general",
-      "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/b3ac79b4-d4a9-4644-afb7-2332be786064/documents",
-      "authenticatedUrl": "https://www.publicprocurement.be/supplier/enterprises/0/tendering-workspaces/publication-workspace-detail/b3ac79b4-d4a9-4644-afb7-2332be786064",
-      "authenticationMode": "BOSA supplier portal login",
-      "language": "NL",
-      "title": "Aanstellen van een ontwerpteam voor de studieopdracht, coördinatie, realisatie en werfopvolging van een nieuw kwalitatief, hedendaags en toekomstgericht cultuurcentrum",
-      "buyer": "Zottegem",
-      "buyerGroupId": "culture",
-      "region": "Flandre",
-      "serviceType": "PPP / Developpement",
-      "procedure": "Procedure negociee",
-      "cpv": [
-        "71000000"
-      ],
-      "worksAmount": null,
-      "feeAmount": null,
-      "publishedAt": "2026-05-26",
-      "deadline": "2026-06-23",
-      "status": "Avis PPP reel",
-      "risk": "Eleve",
-      "matchBase": 88,
-      "summary": "De stad Zottegem beoogt de realisatie van een kwalitatief, hedendaags en toekomstgericht cultuurcentrum, dat fungeert als een open, warme en toegankelijke ontmoetingsplek voor alle inwoners en bezoekers.  Deze opdracht betreft specifiek het aanstellen van een ontwerpteam voor de studieopdracht, coördinatie, realisatie en werfopvolging van een nieuw kwalitatief, hedendaags en toekomstgericht cultuurcentrum. Het project situeert zich op de percelen van de voormalige Heliossite en omvat twee samenhangende onderdelen :   - het historisch herenhuis (voormalig Centrum voor Streekgeschiedenis) gelegen aan de Nieuwstraat 40; - de voormalige sporthal Helios met bijhorende gebouwen, toegankelijk via de Kazernstraat 21.   Het project omvat:  • de doordachte herbestemming van het historisch herenhuis, Nieuwstraat 40; • de vernieuwing, verbouwing en (gedeeltelijke) heropbouw van de site Helios; • de architecturale en functionele koppeling van beide gebouwen en hun buitenruimte tot één leesbaar en coherent cultuurcentrum. Het cultuurcentrum verenigt: • culturele beleving;  • podiumkunsten;  • ontmoeting;  • publieksfuncties en ondersteunende voorzieningen in één samenhangend geheel. Van het ontwerpteam wordt verwacht dat het deze opdracht benadert vanuit een kwaliteitsvolle, duurzame en toekomstgerichte ontwerpvisie, met bijzondere aandacht voor: • een evenwichtige afweging tussen erfgoedzorg, functionaliteit en betaalbaarheid; • integrale toegankelijkheid en gebruikscomfort; • vergroening en duurzame materiaal- en energiekeuzes; • een zorgvuldige stedelijke inpassing en een respectvolle relatie met de omgeving. Deze uitgangspunten vormen het inhoudelijk kader waarbinnen het ontwerpteam zijn studieopdracht zal uitvoeren.  De benaming “Helios” wordt in dit bestek voorlopig gehanteerd als werknaam, verwijzend naar de voormalige sportzaal. Deze benaming is niet definitief en maakt geen deel uit van de opdracht, noch van latere keuzes inzake exploitatie of branding.    Het ontwerpteam staat na gunning in voor de integrale uitvoering van de studieopdracht en de coördinatie van alle betrokken disciplines binnen de scope van dit bestek, met inbegrip van (niet limitatief):  I.2 Door de ontwerper te leveren diensten  I.2.1 Scope en coördinatie  Studie- en ontwerpdisciplines  • Architecturaal ontwerp met opmaak van de plannen, bestekken voor de opdracht voor de uitvoering van de werken; • Stabiliteitsstudies door gespecialiseerde ingenieurs; • Studie van de technische installaties (HVAC, sanitair, elektriciteit, electronica, liften, brandveiligheidsinstallaties, gebouwbeheer, enz.) door gespecialiseerde ingenieurs en/of deskundigen; • Studieopdracht theatertechnieken inclusief esthetische begeleiding voor de telescopische tribune. • Akoestische studie, met inbegrip van de nodige maatregelen conform de geldende regelgeving (o.m. VLAREM) inzake geluidsoverdracht binnen het gebouw en naar de omgeving; • Studieopdracht brandcompartimentering en brandveiligheidsconcept; • Studies naar toegankelijkheid in afstemming met INTER; • Vaste binneninrichting; • Losse binneninrichting (voor zover opgenomen binnen het projectbudget); • Ontwerp van beperkte omgevingsaanleg binnen de projectsite (verharding, groenaanleg, waterhuishouding, etc).  Coördinatie en bijkomende opdrachten  De opdracht omvat tevens:  • Controle correctheid en vervolledigen info bestaande toestand o.b.v. digitale info (dwg-plannen) en originele handgetekende plannen • Onderzoek, opmeten en verifiëren van de bestaande toestand (o.b.v. de beschikbare plannen) • Opmaak sloopopvolgingsplan indien vereist • Het voeren van verkennende en structurele overlegmomenten met het college van burgemeester en schepenen, de betrokken stedelijke diensten en andere relevante actoren; • Overleg met zowel de bevoegde diensten voor de omgevingsvergunning, de dienst brandpreventie i.v.m. de brandveiligheid; • Ondersteuning en aanleveren van presentatiemateriaal voor de communicatie en het participatietraject naar de stakeholders in de stad; • Het (verder) uitwerken en finaliseren van het programma van eisen in samenspraak met de opdrachtgever; • De integrale coördinatie tussen de verschillende disciplines, in nauw overleg met de opdrachtgever, tot en met het einde van de aannemingsopdracht ; • Het voorbereiden en indienen van subsidieaanvragen, indien van toepassing; • Het voorbereiden en indienen van de omgevingsvergunning. • De veiligheidscoördinatie, zowel in ontwerpfase als in verwezenlijkingsfase, conform de geldende regelgeving; • De EPB studie, advies,verslaggeving en aanverwante energieprestatieverplichtingen; • BIM management; • Opvolging, leiding, en coördinatie van de uitvoering van de werken; • De opvolging van de opleveringen; • De opvolging en levering van alle bouwkundige of technische documenten en attesten voor eventuele erkenningen en/of keuringen; • De opvolging tot het leveren van het as-built dossier en postinterventiedossier door de aannemers; • Het aanleveren van alle nodige documenten, ondersteuning en indienen van dossiers voor vergunningen; • De budgetopvolging en (financiële) rapportering aan het aanbestedend bestuur met betrekking tot zowel de ontwerpopdracht als met betrekking tot de uitvoering der werken. Budgetbewaking is hierbij van groot belang. • De opmaak van een archeologienota, indien vereist conform de toepasselijke regelgeving. Het ontwerpteam is verantwoordelijk voor de samenhang tussen alle deelstudies en voor de kwalitatieve, technische en budgettaire integratie ervan binnen één coherent projectdossier. Het voorlopig programma van eisen is opgenomen als bijlage 1 bij het bestek. Na gunning wordt dit programma, in overleg met de bouwheer, verder verfijnd en definitief vastgesteld. Het project dient te worden uitgewerkt als één samenhangend geheel, waarbij het herenhuis (voormalig Centrum voor Streekgeschiedenis) en de voormalige sporthal Helios met bijhorend... Donnees issues de BOSA e-Procurement. Avis integre par la veille PPP/developpement car le CPV principal peut etre travaux, concession ou services generaux. Montants travaux et honoraires non transmis par la recherche publique: a determiner.",
-      "keywords": [
-        "PPP / Developpement",
-        "Flandre",
-        "NL",
-        "BOSA",
-        "e-Procurement",
-        "marches publics",
-        "architecture",
-        "architectuur",
-        "PPP",
-        "PPS",
-        "partenariat public-prive",
-        "developpement immobilier",
-        "concession",
-        "design build",
-        "ontwerper",
-        "auteur de projet",
-        "Aanstellen van een ontwerpteam voor de studieopdracht, coördinatie, realisatie en werfopvolging van een nieuw kwalitatief, hedendaags en toekomstgericht cultuurcentrum",
-        "Zottegem",
-        "71000000",
-        "Services d'architecture, services de construction, services d'ingénierie et services d'inspection",
-        "Dienstverlening op het gebied van architectuur, bouwkunde, civiele techniek en inspectie",
-        "Architectural, construction, engineering and inspection services",
-        "Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen"
       ],
       "firstSeenAt": "2026-06-23T10:06:22.555Z"
     },
