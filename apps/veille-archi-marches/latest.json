@@ -1,7 +1,7 @@
 {
   "moduleId": "veille-archi-marches",
   "title": "UNAA Veille Marches Publics",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "mobileHtml": "index.html",
   "data": "../../data/veille-archi-marches/latest-opportunities.json",
   "downloads": {
@@ -10,6 +10,6 @@
     "androidDebugApk": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/veille-archi-marches/v1.0.4/veille-archi-marches-v1.0.4-android-debug.apk",
     "checksums": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/veille-archi-marches/v1.0.4/SHA256SUMS.txt"
   },
-  "releases": "https://github.com/lmpg-devel/veille-archi-marches/releases/tag/v1.0.5",
-  "note": "Correctif web/data v1.0.5: exclusion des avis expires et horodatage d import public. Les artefacts Windows/Android restent les derniers builds disponibles tant que la release v1.0.5 n est pas terminee."
+  "releases": "https://github.com/lmpg-devel/veille-archi-marches/releases/tag/v1.0.6",
+  "note": "Correctif web/data v1.0.6: ouverture des avis en nouvel onglet sans remplacer la page de veille, exclusion des avis expires et horodatage d import public. Les artefacts Windows/Android restent les derniers builds disponibles tant que la release v1.0.6 n est pas terminee."
 }
