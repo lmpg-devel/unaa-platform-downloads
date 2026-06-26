@@ -11,5 +11,5 @@
     "checksums": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/veille-archi-marches/v1.0.11/SHA256SUMS.txt"
   },
   "releases": "https://github.com/lmpg-devel/veille-archi-marches/releases/tag/v1.0.11",
-  "note": "Package complet v1.0.11: web/PWA, EXE Windows, ZIP portable, APK Android signee stable, donnees publiques et checksums. Premiere installation signee: desinstaller une ancienne APK debug si Android refuse la mise a jour. Flux public: 62 avis actifs."
+  "note": "Package complet v1.0.11: web/PWA, EXE Windows, ZIP portable, APK Android signee stable, donnees publiques et checksums. Premiere installation signee: desinstaller une ancienne APK debug si Android refuse la mise a jour. Flux public: 63 avis actifs."
 }
