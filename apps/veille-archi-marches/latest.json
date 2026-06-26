@@ -1,15 +1,15 @@
 {
   "moduleId": "veille-archi-marches",
   "title": "UNAA Veille Marches Publics",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "mobileHtml": "index.html",
   "data": "../../data/veille-archi-marches/latest-opportunities.json",
   "downloads": {
-    "windowsSetup": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/veille-archi-marches/v1.0.8/veille-archi-marches-v1.0.8-win-x64-setup.exe",
-    "windowsPortable": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/veille-archi-marches/v1.0.8/veille-archi-marches-v1.0.8-win-x64-portable.zip",
-    "androidDebugApk": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/veille-archi-marches/v1.0.8/veille-archi-marches-v1.0.8-android-debug.apk",
-    "checksums": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/veille-archi-marches/v1.0.8/SHA256SUMS.txt"
+    "windowsSetup": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/veille-archi-marches/v1.0.9/veille-archi-marches-v1.0.9-win-x64-setup.exe",
+    "windowsPortable": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/veille-archi-marches/v1.0.9/veille-archi-marches-v1.0.9-win-x64-portable.zip",
+    "androidDebugApk": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/veille-archi-marches/v1.0.9/veille-archi-marches-v1.0.9-android-debug.apk",
+    "checksums": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/veille-archi-marches/v1.0.9/SHA256SUMS.txt"
   },
-  "releases": "https://github.com/lmpg-devel/veille-archi-marches/releases/tag/v1.0.8",
-  "note": "Package complet v1.0.8: web/PWA, EXE Windows, ZIP portable, APK Android debug, donnees publiques et checksums. Flux public: 61 avis actifs, 0 avis expire."
+  "releases": "https://github.com/lmpg-devel/veille-archi-marches/releases/tag/v1.0.9",
+  "note": "Package complet v1.0.9: web/PWA, EXE Windows, ZIP portable, APK Android debug, donnees publiques et checksums. Flux public: 62 avis actifs."
 }
