@@ -1,6 +1,6 @@
 {
   "schemaVersion": "unaa-suite-public.v1",
-  "generatedAt": "2026-06-30T16:53:40.000Z",
+  "generatedAt": "2026-06-30T17:50:30.000Z",
   "modules": [
     {
       "id": "veille-archi-marches",
@@ -24,13 +24,13 @@
       "mobilePwa": "apps/os-marches-unaa/",
       "publicData": "apps/os-marches-unaa/latest.json",
       "downloads": {
-        "windowsSetup": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.1/os-marches-unaa-v1.0.1-win-x64-setup.exe",
-        "windowsPortable": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.1/os-marches-unaa-v1.0.1-win-x64-portable.zip",
-        "androidDebugApk": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.1/os-marches-unaa-v1.0.1-android-debug.apk",
-        "checksums": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.1/SHA256SUMS.txt"
+        "windowsSetup": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.5/os-marches-unaa-v1.0.5-win-x64-setup.exe",
+        "windowsPortable": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.5/os-marches-unaa-v1.0.5-win-x64-portable.zip",
+        "androidDebugApk": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.5/os-marches-unaa-v1.0.5-android-debug.apk",
+        "checksums": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.5/SHA256SUMS.txt"
       },
       "releases": "https://github.com/lmpg-devel/os-marches-unaa",
-      "note": "PWA v1.0.5 publiee: correction du validateur JSON et normalisation automatique des valeurs confidence non conformes, dont fallback vers faible. EXE/APK encore v1.0.1."
+      "note": "Pack complet v1.0.5 publie: correction du validateur JSON, normalisation automatique des valeurs confidence non conformes, installateur Windows, ZIP portable, APK Android debug et checksums."
     },
     {
       "id": "unaa-tri-visuels",

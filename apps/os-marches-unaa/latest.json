@@ -3,19 +3,19 @@
   "id": "os-marches-unaa",
   "title": "UNAA Analyse de Marches",
   "version": "1.0.5",
-  "publishedAt": "2026-06-30T16:53:40Z",
-  "sourceCommit": "22bdae9",
+  "publishedAt": "2026-06-30T17:50:30Z",
+  "sourceCommit": "d778127",
   "mobilePwa": "https://lmpg-devel.github.io/unaa-platform-downloads/apps/os-marches-unaa/",
   "downloads": {
-    "windowsSetup": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.1/os-marches-unaa-v1.0.1-win-x64-setup.exe",
-    "windowsPortable": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.1/os-marches-unaa-v1.0.1-win-x64-portable.zip",
-    "androidDebugApk": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.1/os-marches-unaa-v1.0.1-android-debug.apk",
-    "checksums": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.1/SHA256SUMS.txt"
+    "windowsSetup": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.5/os-marches-unaa-v1.0.5-win-x64-setup.exe",
+    "windowsPortable": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.5/os-marches-unaa-v1.0.5-win-x64-portable.zip",
+    "androidDebugApk": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.5/os-marches-unaa-v1.0.5-android-debug.apk",
+    "checksums": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.5/SHA256SUMS.txt"
   },
   "notes": [
     "PWA v1.0.5: correction du validateur JSON étape 4.",
     "Les valeurs confidence non conformes comme fallback, default, unknown, high, medium, low ou eleve sont normalisées automatiquement.",
     "confidence: fallback est converti en confidence: faible avant validation et stockage.",
-    "EXE/APK non regeneres dans cette passe: les liens binaires restent sur v1.0.1."
+    "Pack complet v1.0.5 publie: installateur Windows, ZIP portable, APK Android debug et checksums."
   ]
 }
