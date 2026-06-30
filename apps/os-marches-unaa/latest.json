@@ -1,9 +1,9 @@
 {
   "id": "os-marches-unaa",
   "title": "UNAA Analyse de Marches",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "channel": "stable",
-  "publishedAt": "2026-06-23T21:00:00.000Z",
+  "publishedAt": "2026-06-30T15:21:00.000Z",
   "entrypoints": {
     "pwa": "https://lmpg-devel.github.io/unaa-platform-downloads/apps/os-marches-unaa/",
     "windowsSetup": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.1/os-marches-unaa-v1.0.1-win-x64-setup.exe",
@@ -11,8 +11,11 @@
     "androidDebugApk": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.1/os-marches-unaa-v1.0.1-android-debug.apk",
     "checksums": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.1/SHA256SUMS.txt"
   },
-  "sourceRelease": "https://github.com/lmpg-devel/os-marches-unaa/releases/tag/v1.0.1",
-  "integrity": {
-    "checksumsFile": "downloads/os-marches-unaa/v1.0.1/SHA256SUMS.txt"
-  }
+  "sourceCommit": "aa7b784",
+  "source": "https://github.com/lmpg-devel/os-marches-unaa",
+  "notes": [
+    "PWA mise a jour avec pipeline manuel etape 4 prompts + JSON.",
+    "Ajout option backend OpenAI securise, inactive tant qu'aucun endpoint n'est configure.",
+    "EXE et APK restent ceux de v1.0.1 jusqu'au prochain package binaire."
+  ]
 }

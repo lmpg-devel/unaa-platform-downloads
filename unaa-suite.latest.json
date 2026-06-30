@@ -1,6 +1,6 @@
 {
   "schemaVersion": "unaa-suite-public.v1",
-  "generatedAt": "2026-06-30T12:58:53.822Z",
+  "generatedAt": "2026-06-30T15:21:00.000Z",
   "modules": [
     {
       "id": "veille-archi-marches",
@@ -20,7 +20,7 @@
     {
       "id": "os-marches-unaa",
       "title": "UNAA Analyse de Marches",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "mobilePwa": "apps/os-marches-unaa/",
       "publicData": "apps/os-marches-unaa/latest.json",
       "downloads": {
@@ -29,7 +29,8 @@
         "androidDebugApk": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.1/os-marches-unaa-v1.0.1-android-debug.apk",
         "checksums": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.1/SHA256SUMS.txt"
       },
-      "releases": "https://github.com/lmpg-devel/os-marches-unaa/releases/tag/v1.0.1"
+      "releases": "https://github.com/lmpg-devel/os-marches-unaa",
+      "note": "PWA v1.0.2 publiee: pipeline manuel etape 4 prompts + JSON, import groupe des reponses, option backend OpenAI securise. EXE/APK encore v1.0.1."
     },
     {
       "id": "unaa-tri-visuels",
