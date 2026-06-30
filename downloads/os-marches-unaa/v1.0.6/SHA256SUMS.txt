@@ -1,0 +1,4 @@
+a59813e809af6b1859447623da551e296d7b5640915efbcb9523f9b035346c92  os-marches-unaa-v1.0.6-android-debug.apk
+8503b1eebae25b6d23f3b57b4bfb55a7b7d3479766871e152b1b955c2cc33aa6  os-marches-unaa-v1.0.6-win-x64-portable.zip
+cb29d9bccb6593dd499361efe9b4b60b1802627f6885e574925b84ae1e3e6a6f  os-marches-unaa-v1.0.6-win-x64-setup.exe
+a89421d14c272c359d54d41653c037035027161e6eab5b66bd39f12bd3fdcda9  RELEASE_NOTES.md

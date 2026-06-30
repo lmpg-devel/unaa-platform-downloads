@@ -1,6 +1,6 @@
 {
   "schemaVersion": "unaa-suite-public.v1",
-  "generatedAt": "2026-06-30T17:50:30.000Z",
+  "generatedAt": "2026-06-30T20:05:00.000Z",
   "modules": [
     {
       "id": "veille-archi-marches",
@@ -20,17 +20,17 @@
     {
       "id": "os-marches-unaa",
       "title": "UNAA Analyse de Marches",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "mobilePwa": "apps/os-marches-unaa/",
       "publicData": "apps/os-marches-unaa/latest.json",
       "downloads": {
-        "windowsSetup": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.5/os-marches-unaa-v1.0.5-win-x64-setup.exe",
-        "windowsPortable": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.5/os-marches-unaa-v1.0.5-win-x64-portable.zip",
-        "androidDebugApk": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.5/os-marches-unaa-v1.0.5-android-debug.apk",
-        "checksums": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.5/SHA256SUMS.txt"
+        "windowsSetup": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.6/os-marches-unaa-v1.0.6-win-x64-setup.exe",
+        "windowsPortable": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.6/os-marches-unaa-v1.0.6-win-x64-portable.zip",
+        "androidDebugApk": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.6/os-marches-unaa-v1.0.6-android-debug.apk",
+        "checksums": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.6/SHA256SUMS.txt"
       },
       "releases": "https://github.com/lmpg-devel/os-marches-unaa",
-      "note": "Pack complet v1.0.5 publie: correction du validateur JSON, normalisation automatique des valeurs confidence non conformes, installateur Windows, ZIP portable, APK Android debug et checksums."
+      "note": "Pack complet v1.0.6 publie: correction de l'export dossier etape 4, telechargements ZIP/JSON robustes desktop/mobile, installateur Windows, ZIP portable, APK Android debug et checksums."
     },
     {
       "id": "unaa-tri-visuels",

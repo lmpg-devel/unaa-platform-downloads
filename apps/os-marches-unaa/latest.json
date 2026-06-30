@@ -2,20 +2,20 @@
   "schemaVersion": "unaa-app-public.v1",
   "id": "os-marches-unaa",
   "title": "UNAA Analyse de Marches",
-  "version": "1.0.5",
-  "publishedAt": "2026-06-30T17:50:30Z",
-  "sourceCommit": "d778127",
+  "version": "1.0.6",
+  "publishedAt": "2026-06-30T20:05:00Z",
+  "sourceCommit": "eb28e7e",
   "mobilePwa": "https://lmpg-devel.github.io/unaa-platform-downloads/apps/os-marches-unaa/",
   "downloads": {
-    "windowsSetup": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.5/os-marches-unaa-v1.0.5-win-x64-setup.exe",
-    "windowsPortable": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.5/os-marches-unaa-v1.0.5-win-x64-portable.zip",
-    "androidDebugApk": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.5/os-marches-unaa-v1.0.5-android-debug.apk",
-    "checksums": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.5/SHA256SUMS.txt"
+    "windowsSetup": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.6/os-marches-unaa-v1.0.6-win-x64-setup.exe",
+    "windowsPortable": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.6/os-marches-unaa-v1.0.6-win-x64-portable.zip",
+    "androidDebugApk": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.6/os-marches-unaa-v1.0.6-android-debug.apk",
+    "checksums": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.6/SHA256SUMS.txt"
   },
   "notes": [
-    "PWA v1.0.5: correction du validateur JSON étape 4.",
-    "Les valeurs confidence non conformes comme fallback, default, unknown, high, medium, low ou eleve sont normalisées automatiquement.",
-    "confidence: fallback est converti en confidence: faible avant validation et stockage.",
-    "Pack complet v1.0.5 publie: installateur Windows, ZIP portable, APK Android debug et checksums."
+    "PWA v1.0.6: correction de l'export dossier étape 4.",
+    "Les téléchargements ZIP/JSON utilisent maintenant une ancre DOM attachée avec révocation différée.",
+    "Fallback mobile/iOS/Capacitor via partage natif de fichier lorsque disponible.",
+    "Pack complet v1.0.6 publie: installateur Windows, ZIP portable, APK Android debug et checksums."
   ]
 }
