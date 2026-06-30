@@ -1,21 +1,21 @@
 {
   "schemaVersion": "unaa-suite-public.v1",
-  "generatedAt": "2026-06-26T16:30:42.427Z",
+  "generatedAt": "2026-06-30T12:58:53.822Z",
   "modules": [
     {
       "id": "veille-archi-marches",
       "title": "UNAA Veille Marches Publics",
-      "version": "1.0.12",
+      "version": "1.0.14",
       "mobilePwa": "apps/veille-archi-marches/",
       "publicData": "data/veille-archi-marches/latest-opportunities.json",
       "downloads": {
-        "windowsSetup": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/veille-archi-marches/v1.0.12/veille-archi-marches-v1.0.12-win-x64-setup.exe",
-        "windowsPortable": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/veille-archi-marches/v1.0.12/veille-archi-marches-v1.0.12-win-x64-portable.zip",
-        "androidApk": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/veille-archi-marches/v1.0.12/veille-archi-marches-v1.0.12-android.apk",
-        "checksums": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/veille-archi-marches/v1.0.12/SHA256SUMS.txt"
+        "windowsSetup": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/veille-archi-marches/v1.0.14/veille-archi-marches-v1.0.14-win-x64-setup.exe",
+        "windowsPortable": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/veille-archi-marches/v1.0.14/veille-archi-marches-v1.0.14-win-x64-portable.zip",
+        "androidApk": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/veille-archi-marches/v1.0.14/veille-archi-marches-v1.0.14-android.apk",
+        "checksums": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/veille-archi-marches/v1.0.14/SHA256SUMS.txt"
       },
-      "releases": "https://github.com/lmpg-devel/veille-archi-marches/releases/tag/v1.0.12",
-      "note": "Package complet v1.0.12: web/PWA, EXE Windows, ZIP portable, APK Android signee stable, donnees publiques et checksums. L'application ne demande plus de cle GitHub; Actualiser donnees recharge le flux public."
+      "releases": "https://github.com/lmpg-devel/veille-archi-marches/releases/tag/v1.0.14",
+      "note": "Package complet v1.0.14: Actualiser donnees lit le flux public via GitHub Contents anti-cache, web/PWA, EXE Windows, ZIP portable, APK Android signee stable."
     },
     {
       "id": "os-marches-unaa",
