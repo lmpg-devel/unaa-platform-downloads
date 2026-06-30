@@ -2,9 +2,9 @@
   "schemaVersion": "unaa-app-public.v1",
   "id": "os-marches-unaa",
   "title": "UNAA Analyse de Marches",
-  "version": "1.0.4",
-  "publishedAt": "2026-06-30T16:09:18Z",
-  "sourceCommit": "8aaba1d",
+  "version": "1.0.5",
+  "publishedAt": "2026-06-30T16:53:40Z",
+  "sourceCommit": "22bdae9",
   "mobilePwa": "https://lmpg-devel.github.io/unaa-platform-downloads/apps/os-marches-unaa/",
   "downloads": {
     "windowsSetup": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.1/os-marches-unaa-v1.0.1-win-x64-setup.exe",
@@ -13,10 +13,9 @@
     "checksums": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.1/SHA256SUMS.txt"
   },
   "notes": [
-    "PWA v1.0.4: procedure ChatGPT detaillee directement dans l'application.",
-    "Le ZIP exporte contient maintenant 00_START_HERE_CHATGPT.md comme fichier de demarrage.",
-    "Le message exact a copier dans ChatGPT est visible et copiable depuis l'interface.",
-    "Titre HTML aligne sur v1.0.4.",
+    "PWA v1.0.5: correction du validateur JSON étape 4.",
+    "Les valeurs confidence non conformes comme fallback, default, unknown, high, medium, low ou eleve sont normalisées automatiquement.",
+    "confidence: fallback est converti en confidence: faible avant validation et stockage.",
     "EXE/APK non regeneres dans cette passe: les liens binaires restent sur v1.0.1."
   ]
 }
