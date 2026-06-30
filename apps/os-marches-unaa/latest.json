@@ -1,22 +1,21 @@
 {
+  "schemaVersion": "unaa-app-public.v1",
   "id": "os-marches-unaa",
   "title": "UNAA Analyse de Marches",
-  "version": "1.0.3",
-  "channel": "stable",
-  "publishedAt": "2026-06-30T15:38:00.000Z",
-  "entrypoints": {
-    "pwa": "https://lmpg-devel.github.io/unaa-platform-downloads/apps/os-marches-unaa/",
+  "version": "1.0.4",
+  "publishedAt": "2026-06-30T16:03:44Z",
+  "sourceCommit": "493a9fb",
+  "mobilePwa": "https://lmpg-devel.github.io/unaa-platform-downloads/apps/os-marches-unaa/",
+  "downloads": {
     "windowsSetup": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.1/os-marches-unaa-v1.0.1-win-x64-setup.exe",
     "windowsPortable": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.1/os-marches-unaa-v1.0.1-win-x64-portable.zip",
     "androidDebugApk": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.1/os-marches-unaa-v1.0.1-android-debug.apk",
     "checksums": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.1/SHA256SUMS.txt"
   },
-  "sourceCommit": "04a469e",
-  "source": "https://github.com/lmpg-devel/os-marches-unaa",
   "notes": [
-    "PWA mise a jour avec prompt unique ChatGPT pour produire results.json en une passe.",
-    "Le package etape 4 inclut documents_extraits.json, schemas et 00_PROMPT_UNIQUE_CHATGPT.md.",
-    "Import groupe accepte maintenant un results.json unique contenant toutes les sous-etapes.",
-    "EXE et APK restent ceux de v1.0.1 jusqu'au prochain package binaire."
+    "PWA v1.0.4: procedure ChatGPT detaillee directement dans l'application.",
+    "Le ZIP exporte contient maintenant 00_START_HERE_CHATGPT.md comme fichier de demarrage.",
+    "Le message exact a copier dans ChatGPT est visible et copiable depuis l'interface.",
+    "EXE/APK non regeneres dans cette passe: les liens binaires restent sur v1.0.1."
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": "unaa-suite-public.v1",
-  "generatedAt": "2026-06-30T15:38:00.000Z",
+  "generatedAt": "2026-06-30T16:03:44.000Z",
   "modules": [
     {
       "id": "veille-archi-marches",
@@ -20,7 +20,7 @@
     {
       "id": "os-marches-unaa",
       "title": "UNAA Analyse de Marches",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "mobilePwa": "apps/os-marches-unaa/",
       "publicData": "apps/os-marches-unaa/latest.json",
       "downloads": {
@@ -30,7 +30,7 @@
         "checksums": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/os-marches-unaa/v1.0.1/SHA256SUMS.txt"
       },
       "releases": "https://github.com/lmpg-devel/os-marches-unaa",
-      "note": "PWA v1.0.3 publiee: prompt unique ChatGPT pour generer results.json en une passe, import groupe du results.json, option backend OpenAI securise. EXE/APK encore v1.0.1."
+      "note": "PWA v1.0.4 publiee: procedure ChatGPT pas-a-pas visible dans l'app, message exact a copier, fichier 00_START_HERE_CHATGPT.md ajoute dans le ZIP. EXE/APK encore v1.0.1."
     },
     {
       "id": "unaa-tri-visuels",
