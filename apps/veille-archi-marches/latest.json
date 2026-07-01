@@ -1,15 +1,15 @@
 {
   "moduleId": "veille-archi-marches",
   "title": "UNAA Veille Marches Publics",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "mobileHtml": "index.html",
   "data": "../../data/veille-archi-marches/latest-opportunities.json",
   "downloads": {
-    "windowsSetup": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/veille-archi-marches/v1.0.16/veille-archi-marches-v1.0.16-win-x64-setup.exe",
-    "windowsPortable": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/veille-archi-marches/v1.0.16/veille-archi-marches-v1.0.16-win-x64-portable.zip",
-    "androidApk": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/veille-archi-marches/v1.0.16/veille-archi-marches-v1.0.16-android.apk",
-    "checksums": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/veille-archi-marches/v1.0.16/SHA256SUMS.txt"
+    "windowsSetup": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/veille-archi-marches/v1.0.17/veille-archi-marches-v1.0.17-win-x64-setup.exe",
+    "windowsPortable": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/veille-archi-marches/v1.0.17/veille-archi-marches-v1.0.17-win-x64-portable.zip",
+    "androidApk": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/veille-archi-marches/v1.0.17/veille-archi-marches-v1.0.17-android.apk",
+    "checksums": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/veille-archi-marches/v1.0.17/SHA256SUMS.txt"
   },
-  "releases": "https://github.com/lmpg-devel/veille-archi-marches/releases/tag/v1.0.16",
-  "note": "Package complet v1.0.16: correction publication latest-opportunities.json, horodatage import reel, anti-cache PWA, EXE Windows, ZIP portable, APK Android et checksums."
+  "releases": "https://github.com/lmpg-devel/veille-archi-marches/releases/tag/v1.0.17",
+  "note": "Package complet v1.0.17: web/PWA, EXE Windows, ZIP portable, APK Android signee stable, donnees publiques et checksums."
 }
