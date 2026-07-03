@@ -1,11 +1,11 @@
-const CACHE_NAME = "unaa-th-visuels-shell-v0.2.0";
+const CACHE_NAME = "unaa-th-visuels-shell-v0.3.2";
 const SHELL = [
   "./",
   "./index.html",
   "./styles.css",
   "./app.js",
   "./manifest.webmanifest",
-  "./assets/unaa-th-visuels.png",
+  "./assets/unaa-th-visuels-circle.png",
 ];
 
 self.addEventListener("install", (event) => {

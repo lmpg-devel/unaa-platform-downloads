@@ -1,6 +1,6 @@
 {
   "schemaVersion": "unaa-suite-public.v1",
-  "generatedAt": "2026-07-01T09:00:29.559Z",
+<<  "generatedAt": "2026-07-03T19:39:58.882Z",
   "modules": [
     {
       "id": "veille-archi-marches",
@@ -35,11 +35,16 @@
     {
       "id": "unaa-tri-visuels",
       "title": "UNAA TH-Visuels",
-      "version": "0.2.0",
+      "version": "0.3.0",
       "mobilePwa": "apps/unaa-tri-visuels/",
       "publicData": "apps/unaa-tri-visuels/latest.json",
-      "downloads": {},
-      "releases": "https://github.com/lmpg-devel/unaa-tri-visuels"
+      "downloads": {
+        "androidDebugApk": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/unaa-tri-visuels/v0.3.0/unaa-tri-visuels-v0.3.0-android-debug.apk",
+        "checksums": "https://raw.githubusercontent.com/lmpg-devel/unaa-platform-downloads/main/downloads/unaa-tri-visuels/v0.3.0/SHA256SUMS.txt"
+      },
+      "releases": "https://github.com/lmpg-devel/unaa-tri-visuels/releases/tag/v0.3.0",
+      "note": "APK Android debug v0.3.0 publie via pipeline GitHub Actions; interface TH-Visuels alignee sur le style References."
     }
   ]
 }
+
