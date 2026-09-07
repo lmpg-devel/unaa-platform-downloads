@@ -1,0 +1,7 @@
+e5220e46a0547233e136cccb6fd55f75ffac3ccba2868daf2b2c877da37fdcd9  QA-1.0.20.md
+9dc1df7de7ae2a7573971a1268ca688cea5883f2c8698a1f1c5be8ef3c3ecba3  RELEASE_NOTES.md
+35f617629f05a37500ee952d887fe57cc2649a1bcb753331f0dc1ec21ef20789  latest-opportunities.json
+2d8d4ea03f1277a91a350be8a82cced1ef6aeb534f26524df3da5a69ba12c388  veille-archi-marches-v1.0.20-android.apk
+b0f8dbe36b2f3e0f9811bbc85ebca32ec5929ce9fee2c1460cf2b169558dfffb  veille-archi-marches-v1.0.20-mobile.html
+7489139e58aed410fffec8f35cff4d98f10060d2c6ba2956c39df0aa24e22983  veille-archi-marches-v1.0.20-win-x64-portable.zip
+ad67723f8f209a98b48ad4dcbcc9f1238121a1b3347320f9cc59475dc364f253  veille-archi-marches-v1.0.20-win-x64-setup.exe
