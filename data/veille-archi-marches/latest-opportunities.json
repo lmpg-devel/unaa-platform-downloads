@@ -1,25 +1,25 @@
 {
   "schemaVersion": "market-opportunity.v1",
   "moduleId": "veille-archi-marches",
-  "generatedAt": "2026-11-12T13:53:05.238Z",
-  "exportedAt": "2026-11-12T13:53:07.241Z",
-  "count": 81,
+  "generatedAt": "2026-11-13T13:15:58.677Z",
+  "exportedAt": "2026-11-13T13:16:00.000Z",
+  "count": 82,
   "changes": {
     "baselineAvailable": true,
     "added": 2,
     "removed": 1,
-    "updated": 6,
+    "updated": 67,
     "addedKeys": [
-      "ted:787902-2026",
-      "bosa:8cff3b1b-6d46-4427-99bc-34ca21d20427"
+      "bosa:bf5957c8-d437-4f62-aaf5-24cb77bfd0fb",
+      "bosa:b07daf8a-ac84-440c-ab2b-661196d79ad0"
     ],
     "removedKeys": [
-      "ted:725197-2026"
+      "bosa:46d30fdd-ffc2-411a-a512-c584f7f6b261"
     ]
   },
   "sourceCounts": {
     "ted": 11,
-    "bosa": 67,
+    "bosa": 68,
     "bma": 2,
     "vlaams": 1
   },
@@ -31,7 +31,7 @@
       "noticeId": "722881-2026",
       "noticeIdentifier": "ad4e1255-289d-42a8-8f4b-1cde242d1770",
       "publicationNumber": "722881-2026",
-      "retrievedAt": "2026-11-12T13:52:41.030Z",
+      "retrievedAt": "2026-11-13T13:15:38.179Z",
       "retrievalMethod": "TED Search API v3",
       "noticeUrl": "https://ted.europa.eu/fr/notice/-/detail/722881-2026",
       "rawHtmlUrl": "https://ted.europa.eu/fr/notice/722881-2026/html",
@@ -73,7 +73,7 @@
       "noticeId": "734783-2026",
       "noticeIdentifier": "58e2370c-e7a3-4f0d-b90b-efe31dc0d7aa",
       "publicationNumber": "734783-2026",
-      "retrievedAt": "2026-11-12T13:52:41.030Z",
+      "retrievedAt": "2026-11-13T13:15:38.179Z",
       "retrievalMethod": "TED Search API v3",
       "noticeUrl": "https://ted.europa.eu/fr/notice/-/detail/734783-2026",
       "rawHtmlUrl": "https://ted.europa.eu/fr/notice/734783-2026/html",
@@ -117,7 +117,7 @@
       "noticeId": "738968-2026",
       "noticeIdentifier": "724a8118-c476-4de9-8f1b-cf04d26510e3",
       "publicationNumber": "738968-2026",
-      "retrievedAt": "2026-11-12T13:52:41.030Z",
+      "retrievedAt": "2026-11-13T13:15:38.179Z",
       "retrievalMethod": "TED Search API v3",
       "noticeUrl": "https://ted.europa.eu/fr/notice/-/detail/738968-2026",
       "rawHtmlUrl": "https://ted.europa.eu/fr/notice/738968-2026/html",
@@ -161,7 +161,7 @@
       "noticeId": "743413-2026",
       "noticeIdentifier": "8669bdfb-0baf-41fa-b27e-5d9aa48bf6f1",
       "publicationNumber": "743413-2026",
-      "retrievedAt": "2026-11-12T13:52:41.030Z",
+      "retrievedAt": "2026-11-13T13:15:38.179Z",
       "retrievalMethod": "TED Search API v3",
       "noticeUrl": "https://ted.europa.eu/fr/notice/-/detail/743413-2026",
       "rawHtmlUrl": "https://ted.europa.eu/fr/notice/743413-2026/html",
@@ -203,7 +203,7 @@
       "noticeId": "744444-2026",
       "noticeIdentifier": "6b923207-6bb8-4fd2-9e0b-90ef42c59626",
       "publicationNumber": "744444-2026",
-      "retrievedAt": "2026-11-12T13:52:41.030Z",
+      "retrievedAt": "2026-11-13T13:15:38.179Z",
       "retrievalMethod": "TED Search API v3",
       "noticeUrl": "https://ted.europa.eu/fr/notice/-/detail/744444-2026",
       "rawHtmlUrl": "https://ted.europa.eu/fr/notice/744444-2026/html",
@@ -245,7 +245,7 @@
       "noticeId": "760661-2026",
       "noticeIdentifier": "4c0c001d-b0bb-4a36-ad1e-e4b5958baf47",
       "publicationNumber": "760661-2026",
-      "retrievedAt": "2026-11-12T13:52:41.030Z",
+      "retrievedAt": "2026-11-13T13:15:38.179Z",
       "retrievalMethod": "TED Search API v3",
       "noticeUrl": "https://ted.europa.eu/fr/notice/-/detail/760661-2026",
       "rawHtmlUrl": "https://ted.europa.eu/fr/notice/760661-2026/html",
@@ -287,7 +287,7 @@
       "noticeId": "767737-2026",
       "noticeIdentifier": "b3b93723-87d3-477c-8925-78c1f1ea899f",
       "publicationNumber": "767737-2026",
-      "retrievedAt": "2026-11-12T13:52:41.030Z",
+      "retrievedAt": "2026-11-13T13:15:38.179Z",
       "retrievalMethod": "TED Search API v3",
       "noticeUrl": "https://ted.europa.eu/fr/notice/-/detail/767737-2026",
       "rawHtmlUrl": "https://ted.europa.eu/fr/notice/767737-2026/html",
@@ -329,7 +329,7 @@
       "noticeId": "767854-2026",
       "noticeIdentifier": "6efe404d-0a34-47b3-97b5-381ff876d52e",
       "publicationNumber": "767854-2026",
-      "retrievedAt": "2026-11-12T13:52:41.030Z",
+      "retrievedAt": "2026-11-13T13:15:38.179Z",
       "retrievalMethod": "TED Search API v3",
       "noticeUrl": "https://ted.europa.eu/fr/notice/-/detail/767854-2026",
       "rawHtmlUrl": "https://ted.europa.eu/fr/notice/767854-2026/html",
@@ -371,7 +371,7 @@
       "noticeId": "770895-2026",
       "noticeIdentifier": "80e598c8-0859-4849-bfc9-7d1b3f918d0f",
       "publicationNumber": "770895-2026",
-      "retrievedAt": "2026-11-12T13:52:41.030Z",
+      "retrievedAt": "2026-11-13T13:15:38.179Z",
       "retrievalMethod": "TED Search API v3",
       "noticeUrl": "https://ted.europa.eu/fr/notice/-/detail/770895-2026",
       "rawHtmlUrl": "https://ted.europa.eu/fr/notice/770895-2026/html",
@@ -419,7 +419,7 @@
       "noticeId": "785758-2026",
       "noticeIdentifier": "38fd698b-94e9-42fe-b50c-c058c46fb42b",
       "publicationNumber": "785758-2026",
-      "retrievedAt": "2026-11-12T13:52:41.030Z",
+      "retrievedAt": "2026-11-13T13:15:38.179Z",
       "retrievalMethod": "TED Search API v3",
       "noticeUrl": "https://ted.europa.eu/fr/notice/-/detail/785758-2026",
       "rawHtmlUrl": "https://ted.europa.eu/fr/notice/785758-2026/html",
@@ -461,7 +461,7 @@
       "noticeId": "787902-2026",
       "noticeIdentifier": "f00fa7fa-0f66-44c2-b69c-27bcc2572b5c",
       "publicationNumber": "787902-2026",
-      "retrievedAt": "2026-11-12T13:52:41.030Z",
+      "retrievedAt": "2026-11-13T13:15:38.179Z",
       "retrievalMethod": "TED Search API v3",
       "noticeUrl": "https://ted.europa.eu/fr/notice/-/detail/787902-2026",
       "rawHtmlUrl": "https://ted.europa.eu/fr/notice/787902-2026/html",
@@ -497,6 +497,77 @@
       "firstSeenAt": "2026-11-12T13:52:41.030Z"
     },
     {
+      "id": "BOSA-143c3b29-0ad4-4149-ba84-67c8d9602dcb",
+      "realNotice": true,
+      "sourceId": "bosa",
+      "noticeId": "bf5957c8-d437-4f62-aaf5-24cb77bfd0fb",
+      "noticeIds": [
+        "bf5957c8-d437-4f62-aaf5-24cb77bfd0fb"
+      ],
+      "publicationWorkspaceId": "143c3b29-0ad4-4149-ba84-67c8d9602dcb",
+      "publicationReferenceNumbersBDA": [
+        "PPP0HR-1423/6053/2026008_001"
+      ],
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievalMethod": "BOSA e-Procurement Search API",
+      "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/143c3b29-0ad4-4149-ba84-67c8d9602dcb/general",
+      "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/143c3b29-0ad4-4149-ba84-67c8d9602dcb/documents",
+      "authenticatedUrl": "https://www.publicprocurement.be/supplier/enterprises/0/tendering-workspaces/publication-workspace-detail/143c3b29-0ad4-4149-ba84-67c8d9602dcb",
+      "authenticationMode": "BOSA supplier portal login",
+      "language": "NL",
+      "title": "Integrale Ontwerpopdracht voor de realisatie van GO! Next Future Proof Campus Park Hasselt",
+      "buyer": "Scholengroep 16 Midden Limburg",
+      "buyerGroupId": "regions-provinces",
+      "region": "Flandre",
+      "serviceType": "Architecture",
+      "relevance": {
+        "version": "2026-10-20.1",
+        "category": "design",
+        "decision": "include",
+        "reason": "explicit-design-mission"
+      },
+      "requiresRelevanceReview": false,
+      "procedure": "Procedure negociee",
+      "cpv": [
+        "71000000",
+        "71200000"
+      ],
+      "contractNatures": [
+        "SERVICES"
+      ],
+      "worksAmount": null,
+      "feeAmount": null,
+      "publishedAt": "2026-11-13",
+      "deadline": "2027-01-11",
+      "status": "Avis BOSA reel",
+      "risk": "Faible",
+      "matchBase": 82,
+      "summary": "De aanbestedende overheid wenst, in samenwerking met Stad Hasselt, een duurzaam en toekomstgericht inrichtingsplan te laten uitwerken voor haar Campus Elfde Linie gecombineerd met het projectmanagement.  De campus, gelegen nabij het stadscentrum en de Demerzone, is zeer sterk verouderd, gefragmenteerd en verhard en past niet binnen de toekomstvisie voor de campus. Naar analogie met diverse kleinere campussen wenst GO! Next, in samenwerking met stad Hasselt in te zetten op ontharding, vergroening en verduurzaming.   GO! Next ziet veel, nieuwe duurzame initiatieven rondom haar campus zoals de uitbreiding van het Kapermolenpark, vergroening van de elfde-Liniestraat, het EFRO-project PXL Greenovation, de aanleg van de Campusbrug door AWV, etc. Dit is dan ook het perfecte moment om zelf in actie te schieten om een meer duurzame en toekomstbestendige inrichting van haar Campus Elfde Linie te verwezenlijken met als doel het verhogen van de weerbaarheid tegen extreme klimaatverschijnselen en het verbeteren van de ruimtelijke kwaliteit voor de gebruikers van de campus.  De aanbestedende overheid heeft voor de herinrichting van de Campus (GO! Next Futureproof Campuspark Hasselt) EFRO-subsidies verkregen (Annex 1). De in het subsidiedossier vermelde doelstellingen, indicatoren, mijlpalen en timing dienen door de opdrachtnemer strikt opgevolgd te worden (zie verderop meer info hieromtrent). Als bijkomende voorwaarde gekoppeld aan de EFRO-subsidies dient de opdrachtnemer ook strikt de doelstellingen, indicatoren, mijlpalen en timing van het bijhorende Salk Turbo dossier (Annex 2) op te volgen. Via het project GO!Next Campuspark Hasselt wil GO!Next, in een partnerschap met de Stad Hasselt, (wederzijdse intentieverklaring in Annex 3)  werken aan klimaatrobuuste oplossingen om de ruimte op de Campus Elfde Linie multifunctioneel in te zetten. Via een optimalisatie van de functies op de campus kan er zeer veel verharde ruimte op een duurzame wijze onthard worden. Zo kan men actief werken aan waterhuishouding met een collectieve impact. De impact gaat namelijk veel verder dan enkel de terreinen van GO! Next of de campus Elfde Linie. Door de aansluiting van deze terreinen op de Demervallei en zelfs het Kapermolenpark, ontstaat er een impact die in een groot deel van Hasselt te voelen zal zijn. Enerzijds zal door ontharding een actieve bijdrage geleverd worden naar waterhuishouding (overstromingsgevaar) toe en anderzijds door vergroening van de ruimte zal een merkbaar effect gecreëerd worden op het verminderen van hittestress en een stand still van de plaatselijke biodiversiteit. De integratie van de campus Elfde Linie als publieke groene ruimte vormt een belangrijke versterking van de aaneenschakeling van groenblauwe structuren in Hasselt die in de toekomst alleen maar crucialer worden.  Campus Elfde Linie kan alzo, in het kader van het Groenstructuurplan van de stad Hasselt, fungeren als een belangrijke groene stapsteen ter versterking van de groenpool Demervallei binnen de Grote Ring. De Demer vormt een essentiële ecologische levensader voor de natuur in Hasselt. In het Groenstructuurplan wordt de Demervallei binnen de Grote Ring dan ook aangeduid als een cruciale ontbrekende schakel voor het verbinden van natuurgebieden.  Gelet op de verkregen EFRO-subsidies, moet er rekening worden gehouden met volgende plafondbudgetten die op heden als volgt werden vastgelegd    Plafondbudget voorliggende opdracht: 140.000 euro (incl. btw);   Plafondbudget realisatie project: 1.500.000 euro (incl. btw).   Samengevat omvat de opdracht  twee onderdelen (dit zijn geen percelen)  i. De  integrale ontwerpopdracht voor de heraanleg van de campus overeenkomstig de eisen zoals geformuleerd in onderhavig bestek ii. Het projectmanagement  van het project (incl de noodzakelijke administratieve opvolging voor het verkrijgen van de volledige subisidie van het EFRO/Salk Turbo dossier) Donnees issues de BOSA e-Procurement. Montants travaux et honoraires non transmis par la recherche publique: a determiner.",
+      "keywords": [
+        "Architecture",
+        "Flandre",
+        "NL",
+        "BOSA",
+        "e-Procurement",
+        "marches publics",
+        "architecture",
+        "architectuur",
+        "Integrale Ontwerpopdracht voor de realisatie van GO! Next Future Proof Campus Park Hasselt",
+        "Scholengroep 16 Midden Limburg",
+        "71000000",
+        "71200000",
+        "Architectural, construction, engineering and inspection services",
+        "Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen",
+        "Services d'architecture, services de construction, services d'ingénierie et services d'inspection",
+        "Dienstverlening op het gebied van architectuur, bouwkunde, civiele techniek en inspectie",
+        "Services d'architecture",
+        "Architectural and related services",
+        "Dienstverlening op het gebied van architectuur en dergelijke",
+        "Dienstleistungen von Architekturbüros"
+      ],
+      "firstSeenAt": "2026-11-13T13:15:39.735Z"
+    },
+    {
       "id": "BOSA-7b7379be-037c-4570-a5b4-b372172cee4b",
       "realNotice": true,
       "sourceId": "bosa",
@@ -508,7 +579,7 @@
       "publicationReferenceNumbersBDA": [
         "Toremansmolen_architectuuropdracht_pub01"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/7b7379be-037c-4570-a5b4-b372172cee4b/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/7b7379be-037c-4570-a5b4-b372172cee4b/documents",
@@ -559,17 +630,17 @@
         "71250000",
         "92522200",
         "Diensten door architectenbureaus voor gebouwen",
-        "Dienstleistungen von Architekturbüros bei Gebäuden",
         "Services d'architecte pour les bâtiments",
+        "Dienstleistungen von Architekturbüros bei Gebäuden",
         "Architectural services for buildings",
         "Dienstverlening van architecten en bouwkundigen, en controles",
-        "Architectural, engineering and surveying services",
-        "Dienstleistungen von Architektur- und Ingenieurbüros sowie Vermessungsdienste",
         "Services d'architecture, d'ingénierie et de métrage",
-        "Preservation services of historical buildings",
-        "Services de conservation des monuments historiques",
+        "Dienstleistungen von Architektur- und Ingenieurbüros sowie Vermessungsdienste",
+        "Architectural, engineering and surveying services",
         "Maßnahmen zur Erhaltung von historischen Gebäuden",
-        "Monumentenzorg voor historische gebouwen"
+        "Monumentenzorg voor historische gebouwen",
+        "Services de conservation des monuments historiques",
+        "Preservation services of historical buildings"
       ],
       "firstSeenAt": "2026-11-12T13:52:42.594Z"
     },
@@ -586,7 +657,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP011-874/6065/2026/136_001"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/748aa097-a150-417e-9b0a-e2807b22fafe/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/748aa097-a150-417e-9b0a-e2807b22fafe/documents",
@@ -608,8 +679,8 @@
       "procedure": "Procedure negociee",
       "cpv": [
         "71400000",
-        "79311000",
-        "71410000"
+        "71410000",
+        "79311000"
       ],
       "contractNatures": [
         "SERVICES"
@@ -634,20 +705,20 @@
         "Aanstellen ontwerper voor de opmaak van een gemeentelijk ruimtelijk beleidsplan",
         "Linter",
         "71400000",
-        "79311000",
         "71410000",
-        "Urban planning and landscape architectural services",
-        "Dienstverlening op het gebied van stedenbouw en landschapsarchitectuur",
+        "79311000",
         "Services d'urbanisme et d'architecture paysagère",
+        "Dienstverlening op het gebied van stedenbouw en landschapsarchitectuur",
         "Stadtplanung und Landschaftsgestaltung",
-        "Survey services",
-        "Services d'études",
+        "Urban planning and landscape architectural services",
+        "Stedenbouw",
+        "Urban planning services",
+        "Stadtplanung",
+        "Services d'urbanisme",
         "Uitvoeren van studies",
         "Umfragen",
-        "Urban planning services",
-        "Stedenbouw",
-        "Services d'urbanisme",
-        "Stadtplanung"
+        "Services d'études",
+        "Survey services"
       ],
       "firstSeenAt": "2026-10-28T11:26:54.012Z"
     },
@@ -664,7 +735,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP0CX-675/6170/2027.04/POM_001"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/cd76123f-915e-4023-a564-7ea7b4b6e56e/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/cd76123f-915e-4023-a564-7ea7b4b6e56e/documents",
@@ -686,10 +757,10 @@
       "procedure": "Procedure negociee",
       "cpv": [
         "79311000",
-        "71322500",
-        "71242000",
         "71220000",
-        "71322000"
+        "71322500",
+        "71322000",
+        "71242000"
       ],
       "contractNatures": [
         "SERVICES"
@@ -712,30 +783,30 @@
         "Raamovereenkomst ontwerp/studiebureau publieke ruimte",
         "Haacht",
         "79311000",
-        "71322500",
-        "71242000",
         "71220000",
+        "71322500",
         "71322000",
-        "Survey services",
-        "Services d'études",
+        "71242000",
         "Uitvoeren van studies",
         "Umfragen",
-        "Services de conception technique pour installations de transport",
-        "Technische ontwerpen van verkeersinstallaties",
-        "Engineering-design services for traffic installations",
-        "Technische Planungsleistungen für Verkehrsanlagen",
-        "Préparation du projet et de la conception, estimation des coûts",
-        "Entwurf und Gestaltung, Kostenschätzung",
-        "Project and design preparation, estimation of costs",
-        "Project- en ontwerpvoorbereiding, kostenraming",
+        "Services d'études",
+        "Survey services",
+        "Services de création architecturale",
+        "Architekturentwurf",
         "Maken van bouwkundige ontwerpen",
         "Architectural design services",
-        "Architekturentwurf",
-        "Services de création architecturale",
-        "Engineering design services for the construction of civil engineering works",
+        "Technische ontwerpen van verkeersinstallaties",
+        "Services de conception technique pour installations de transport",
+        "Technische Planungsleistungen für Verkehrsanlagen",
+        "Engineering-design services for traffic installations",
         "Technische Planungsleistungen im Tief- und Hochbau",
+        "Engineering design services for the construction of civil engineering works",
+        "Technische ontwerpen voor constructie van civieltechnische werken",
         "Services de conception technique pour la construction d'ouvrages de génie civil",
-        "Technische ontwerpen voor constructie van civieltechnische werken"
+        "Préparation du projet et de la conception, estimation des coûts",
+        "Project and design preparation, estimation of costs",
+        "Project- en ontwerpvoorbereiding, kostenraming",
+        "Entwurf und Gestaltung, Kostenschätzung"
       ],
       "firstSeenAt": "2026-11-05T14:49:56.043Z"
     },
@@ -752,7 +823,7 @@
       "publicationReferenceNumbersBDA": [
         "2026-RPAST-REET_pub01"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/6b61fe81-1e7f-4376-9ccc-2fd863b6e9b3/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/6b61fe81-1e7f-4376-9ccc-2fd863b6e9b3/documents",
@@ -774,9 +845,9 @@
       "procedure": "Procedure negociee",
       "cpv": [
         "71220000",
-        "92522100",
         "92522000",
         "92522200",
+        "92522100",
         "71240000"
       ],
       "contractNatures": [
@@ -802,30 +873,30 @@
         "Aanstellen ontwerper restauratie en herbestemming van de voormalige pastorie te Reet",
         "Stichting Kempens Landschap",
         "71220000",
-        "92522100",
         "92522000",
         "92522200",
+        "92522100",
         "71240000",
+        "Services de création architecturale",
+        "Architekturentwurf",
         "Maken van bouwkundige ontwerpen",
         "Architectural design services",
-        "Architekturentwurf",
-        "Services de création architecturale",
-        "Monumentenzorgdiensten voor historische plaatsen",
-        "Services de conservation des sites historiques",
-        "Maßnahmen zur Erhaltung von historisch bedeutsamen Stätten",
-        "Preservation services of historical sites",
-        "Services de conservation des sites et des monuments historiques",
         "Preservation services of historical sites and buildings",
         "Monumentenzorgdiensten",
+        "Services de conservation des sites et des monuments historiques",
         "Dienstleistungen im Bereich Denkmalschutz",
-        "Preservation services of historical buildings",
-        "Services de conservation des monuments historiques",
         "Maßnahmen zur Erhaltung von historischen Gebäuden",
         "Monumentenzorg voor historische gebouwen",
-        "Dienstleistungen von Architektur- und Ingenieurbüros sowie planungsbezogene Leistungen",
+        "Services de conservation des monuments historiques",
+        "Preservation services of historical buildings",
+        "Monumentenzorgdiensten voor historische plaatsen",
+        "Preservation services of historical sites",
+        "Maßnahmen zur Erhaltung von historisch bedeutsamen Stätten",
+        "Services de conservation des sites historiques",
+        "Services d'architecture, d'ingénierie et de planification",
         "Dienstverlening op het gebied van architectuur, bouwkunde en planning",
         "Architectural, engineering and planning services",
-        "Services d'architecture, d'ingénierie et de planification"
+        "Dienstleistungen von Architektur- und Ingenieurbüros sowie planungsbezogene Leistungen"
       ],
       "firstSeenAt": "2026-10-19T10:59:01.535Z"
     },
@@ -841,7 +912,7 @@
       "publicationReferenceNumbersBDA": [
         "2026-047-OD_pub01"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/aafcd3a2-242e-4a61-988f-dfce60de94e8/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/aafcd3a2-242e-4a61-988f-dfce60de94e8/documents",
@@ -887,14 +958,14 @@
         "Leuven",
         "71000000",
         "71240000",
-        "Dienstverlening op het gebied van architectuur, bouwkunde, civiele techniek en inspectie",
-        "Services d'architecture, services de construction, services d'ingénierie et services d'inspection",
-        "Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen",
         "Architectural, construction, engineering and inspection services",
-        "Dienstleistungen von Architektur- und Ingenieurbüros sowie planungsbezogene Leistungen",
+        "Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen",
+        "Services d'architecture, services de construction, services d'ingénierie et services d'inspection",
+        "Dienstverlening op het gebied van architectuur, bouwkunde, civiele techniek en inspectie",
+        "Services d'architecture, d'ingénierie et de planification",
         "Dienstverlening op het gebied van architectuur, bouwkunde en planning",
         "Architectural, engineering and planning services",
-        "Services d'architecture, d'ingénierie et de planification"
+        "Dienstleistungen von Architektur- und Ingenieurbüros sowie planungsbezogene Leistungen"
       ],
       "firstSeenAt": "2026-11-06T13:03:51.363Z"
     },
@@ -910,7 +981,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP0A2-1070/6158/20260025COM_001"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/8fe832a3-f712-4a9d-8505-9ea16b71c127/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/8fe832a3-f712-4a9d-8505-9ea16b71c127/documents",
@@ -956,10 +1027,10 @@
         "Désignation d'un auteur de projet pour la révision totale du schéma de développement communal global",
         "Colfontaine",
         "71410000",
-        "Urban planning services",
         "Stedenbouw",
-        "Services d'urbanisme",
-        "Stadtplanung"
+        "Urban planning services",
+        "Stadtplanung",
+        "Services d'urbanisme"
       ],
       "firstSeenAt": "2026-11-05T14:49:56.043Z"
     },
@@ -976,7 +1047,7 @@
       "publicationReferenceNumbersBDA": [
         "HER/ARW/2026/AAN/002_pub01"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/68d36b51-5fa2-45cf-8e89-2bfd03d5008e/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/68d36b51-5fa2-45cf-8e89-2bfd03d5008e/documents",
@@ -1022,14 +1093,14 @@
         "HERITA VZW",
         "45232440",
         "71421000",
-        "Bauarbeiten für Abwasserrohre",
         "Construction work for sewage pipes",
-        "Travaux de construction de conduites d'eaux d'égouts",
+        "Bauarbeiten für Abwasserrohre",
         "Aanleggen van rioleringsbuizen",
-        "Landschaftsgärtnerische Gestaltung",
+        "Travaux de construction de conduites d'eaux d'égouts",
         "Landscape gardening services",
-        "Services d'architecture des jardins",
-        "Landschaps- en tuinaanlegdiensten"
+        "Landschaftsgärtnerische Gestaltung",
+        "Landschaps- en tuinaanlegdiensten",
+        "Services d'architecture des jardins"
       ],
       "firstSeenAt": "2026-10-10T12:48:30.771Z"
     },
@@ -1045,7 +1116,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP0ZT-5283/6060/5283_CSC_Stratégie de stockage d’énergie_001"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/58a25d4d-18ca-4095-abc2-c7ac151214f4/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/58a25d4d-18ca-4095-abc2-c7ac151214f4/documents",
@@ -1091,10 +1162,10 @@
         "Etude de rentabilité et faisabilité sur le choix technologique le plus approprié de stockage d’énergie",
         "Société wallonne des eaux",
         "71241000",
+        "Haalbaarheidsstudie, adviesverlening, analyse",
         "Études de faisabilité, service de conseil, analyse",
-        "Feasibility study, advisory service, analysis",
         "Durchführbarkeitsstudie, Beratung, Analyse",
-        "Haalbaarheidsstudie, adviesverlening, analyse"
+        "Feasibility study, advisory service, analysis"
       ],
       "firstSeenAt": "2026-11-04T13:07:17.848Z"
     },
@@ -1110,7 +1181,7 @@
       "publicationReferenceNumbersBDA": [
         "FAC-3454_pub01"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/5e50b6fb-30a8-4f08-9d0c-f42ec414aae1/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/5e50b6fb-30a8-4f08-9d0c-f42ec414aae1/documents",
@@ -1156,10 +1227,10 @@
         "Suivi des travaux de restauration de la Ferme du Rouge-Cloître  située à 1160 Bruxelles",
         "Service Facilities",
         "71200000",
-        "Dienstleistungen von Architekturbüros",
-        "Architectural and related services",
         "Services d'architecture",
-        "Dienstverlening op het gebied van architectuur en dergelijke"
+        "Architectural and related services",
+        "Dienstverlening op het gebied van architectuur en dergelijke",
+        "Dienstleistungen von Architekturbüros"
       ],
       "firstSeenAt": "2026-11-03T12:53:50.315Z"
     },
@@ -1175,7 +1246,7 @@
       "publicationReferenceNumbersBDA": [
         "DGEM/BioGov/LS/26087_pub01"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/95acb614-ea29-4c74-9c11-8bf57d8dec8f/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/95acb614-ea29-4c74-9c11-8bf57d8dec8f/documents",
@@ -1221,10 +1292,10 @@
         "Rapport d'impact environnemental des OLO Vertes 2026/2027/2028",
         "DGEM",
         "71241000",
+        "Haalbaarheidsstudie, adviesverlening, analyse",
         "Études de faisabilité, service de conseil, analyse",
-        "Feasibility study, advisory service, analysis",
         "Durchführbarkeitsstudie, Beratung, Analyse",
-        "Haalbaarheidsstudie, adviesverlening, analyse"
+        "Feasibility study, advisory service, analysis"
       ],
       "firstSeenAt": "2026-11-03T12:53:50.315Z"
     },
@@ -1240,7 +1311,7 @@
       "publicationReferenceNumbersBDA": [
         "VGC2026/DFBA/Aankoop/BD/28_pub01"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/323271bf-2a1b-4ad8-8432-d8bc966435ad/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/323271bf-2a1b-4ad8-8432-d8bc966435ad/documents",
@@ -1286,10 +1357,10 @@
         "Uitvoeren van een haalbaarheidsstudie voor het gemeenschapscentrum Ten Weyngaert en het  kinderdagverblijf Mallemuis",
         "VLAAMSE GEMEENSCHAPSCOMMISSIE",
         "71241000",
+        "Haalbaarheidsstudie, adviesverlening, analyse",
         "Études de faisabilité, service de conseil, analyse",
-        "Feasibility study, advisory service, analysis",
         "Durchführbarkeitsstudie, Beratung, Analyse",
-        "Haalbaarheidsstudie, adviesverlening, analyse"
+        "Feasibility study, advisory service, analysis"
       ],
       "firstSeenAt": "2026-10-30T11:28:42.924Z"
     },
@@ -1305,7 +1376,7 @@
       "publicationReferenceNumbersBDA": [
         "Viv 5672 Aanstellen ontwerpteam_pub01"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/856aebfc-2752-4aad-b45f-20384981c4ac/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/856aebfc-2752-4aad-b45f-20384981c4ac/documents",
@@ -1351,10 +1422,10 @@
         "Aanstellen van een ontwerpteam voor de renovatie van negen woningen aan het Stationsplein te Loppem, waarvan één woning als vast gedeelte en acht woningen als voorwaardelijke gedeelten",
         "Vivendo",
         "71200000",
-        "Dienstleistungen von Architekturbüros",
-        "Architectural and related services",
         "Services d'architecture",
-        "Dienstverlening op het gebied van architectuur en dergelijke"
+        "Architectural and related services",
+        "Dienstverlening op het gebied van architectuur en dergelijke",
+        "Dienstleistungen von Architekturbüros"
       ],
       "firstSeenAt": "2026-10-30T11:28:42.924Z"
     },
@@ -1371,7 +1442,7 @@
       "publicationReferenceNumbersBDA": [
         "2026-064_pub01"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/99ef04c2-4cf1-4b7c-9352-98a1b54004c0/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/99ef04c2-4cf1-4b7c-9352-98a1b54004c0/documents",
@@ -1421,17 +1492,17 @@
         "71241000",
         "71315200",
         "71312000",
-        "Études de faisabilité, service de conseil, analyse",
-        "Feasibility study, advisory service, analysis",
-        "Durchführbarkeitsstudie, Beratung, Analyse",
         "Haalbaarheidsstudie, adviesverlening, analyse",
-        "Building consultancy services",
-        "Services de conseil en bâtiment",
+        "Études de faisabilité, service de conseil, analyse",
+        "Durchführbarkeitsstudie, Beratung, Analyse",
+        "Feasibility study, advisory service, analysis",
         "Bautechnische Beratung",
+        "Services de conseil en bâtiment",
         "Bouwadvies",
+        "Building consultancy services",
         "Bouwkundig advies",
-        "Beratung im Hochbau",
         "Structural engineering consultancy services",
+        "Beratung im Hochbau",
         "Services de conseil en ingénierie de la construction"
       ],
       "firstSeenAt": "2026-10-29T11:37:20.968Z"
@@ -1448,7 +1519,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP0M2-271/6052/2026/099_001"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/0fa36e8c-e686-463e-a0ba-f6c3e45bca5a/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/0fa36e8c-e686-463e-a0ba-f6c3e45bca5a/documents",
@@ -1494,10 +1565,10 @@
         "Raamcontract voor het uitvoeren van haalbaarheidsstudies",
         "Woonpunt Zennevallei",
         "71200000",
-        "Dienstleistungen von Architekturbüros",
-        "Architectural and related services",
         "Services d'architecture",
-        "Dienstverlening op het gebied van architectuur en dergelijke"
+        "Architectural and related services",
+        "Dienstverlening op het gebied van architectuur en dergelijke",
+        "Dienstleistungen von Architekturbüros"
       ],
       "firstSeenAt": "2026-10-29T11:37:20.968Z"
     },
@@ -1514,7 +1585,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP02R-1725/6064/NJ2026D02_001"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/0b118534-e185-4a50-8f55-8e44f28d8eb2/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/0b118534-e185-4a50-8f55-8e44f28d8eb2/documents",
@@ -1536,11 +1607,11 @@
       "procedure": "Procedure negociee",
       "cpv": [
         "71335000",
+        "92512000",
         "71240000",
         "71000000",
-        "79311000",
         "71241000",
-        "92512000"
+        "79311000"
       ],
       "contractNatures": [
         "SERVICES"
@@ -1563,35 +1634,35 @@
         "Historisch archivalisch - en materiaaltechnisch vooronderzoek orgel Sint Catharinakerk",
         "Diest",
         "71335000",
+        "92512000",
         "71240000",
         "71000000",
-        "79311000",
         "71241000",
-        "92512000",
-        "Engineering studies",
-        "Études techniques",
+        "79311000",
         "Technische Studien",
+        "Études techniques",
+        "Engineering studies",
         "Technische onderzoeken",
-        "Dienstleistungen von Architektur- und Ingenieurbüros sowie planungsbezogene Leistungen",
+        "Dienstleistungen von Archiven",
+        "Archiefdiensten",
+        "Archive services",
+        "Services d'archives",
+        "Services d'architecture, d'ingénierie et de planification",
         "Dienstverlening op het gebied van architectuur, bouwkunde en planning",
         "Architectural, engineering and planning services",
-        "Services d'architecture, d'ingénierie et de planification",
-        "Dienstverlening op het gebied van architectuur, bouwkunde, civiele techniek en inspectie",
+        "Dienstleistungen von Architektur- und Ingenieurbüros sowie planungsbezogene Leistungen",
         "Architectural, construction, engineering and inspection services",
         "Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen",
         "Services d'architecture, services de construction, services d'ingénierie et services d'inspection",
-        "Survey services",
-        "Services d'études",
+        "Dienstverlening op het gebied van architectuur, bouwkunde, civiele techniek en inspectie",
+        "Haalbaarheidsstudie, adviesverlening, analyse",
+        "Études de faisabilité, service de conseil, analyse",
+        "Durchführbarkeitsstudie, Beratung, Analyse",
+        "Feasibility study, advisory service, analysis",
         "Uitvoeren van studies",
         "Umfragen",
-        "Études de faisabilité, service de conseil, analyse",
-        "Feasibility study, advisory service, analysis",
-        "Durchführbarkeitsstudie, Beratung, Analyse",
-        "Haalbaarheidsstudie, adviesverlening, analyse",
-        "Archive services",
-        "Dienstleistungen von Archiven",
-        "Services d'archives",
-        "Archiefdiensten"
+        "Services d'études",
+        "Survey services"
       ],
       "firstSeenAt": "2026-10-13T12:48:38.011Z"
     },
@@ -1607,7 +1678,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP03B-4039/6378/2026/398_001"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/d9d5904a-2071-4611-80ea-1eb0d662a15b/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/d9d5904a-2071-4611-80ea-1eb0d662a15b/documents",
@@ -1653,10 +1724,10 @@
         "Masterplan welzijn-, zorg en wooncampus Solveld/Gerhagenstraat",
         "Ham",
         "71241000",
+        "Haalbaarheidsstudie, adviesverlening, analyse",
         "Études de faisabilité, service de conseil, analyse",
-        "Feasibility study, advisory service, analysis",
         "Durchführbarkeitsstudie, Beratung, Analyse",
-        "Haalbaarheidsstudie, adviesverlening, analyse"
+        "Feasibility study, advisory service, analysis"
       ],
       "firstSeenAt": "2026-10-29T11:37:20.968Z"
     },
@@ -1672,7 +1743,7 @@
       "publicationReferenceNumbersBDA": [
         "WWV/INV/N34/5/S1_pub01"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/867a58c2-65d6-49ac-a36a-b82dfb534b74/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/867a58c2-65d6-49ac-a36a-b82dfb534b74/documents",
@@ -1694,25 +1765,25 @@
       "procedure": "Procedure ouverte",
       "cpv": [
         "71300000",
-        "71000000",
+        "71311300",
+        "71320000",
+        "71311210",
+        "71322500",
+        "71242000",
         "79930000",
+        "72242000",
         "71400000",
-        "75130000",
+        "73110000",
         "71322000",
-        "71244000",
+        "71247000",
+        "79311000",
+        "71000000",
         "71220000",
         "71241000",
         "71243000",
-        "71322500",
-        "71242000",
-        "71355000",
-        "72242000",
-        "71311300",
-        "73110000",
-        "71320000",
-        "71311210",
-        "79311000",
-        "71247000"
+        "75130000",
+        "71244000",
+        "71355000"
       ],
       "contractNatures": [
         "SERVICES"
@@ -1735,105 +1806,105 @@
         "WWV/INV/N34/5/S1_ Studie van de N34 Nieuwpoort – Herinrichting Albert I laan fase 2",
         "Mobiliteit en Openbare Werken, Agentschap Wegen en Verkeer",
         "71300000",
-        "71000000",
+        "71311300",
+        "71320000",
+        "71311210",
+        "71322500",
+        "71242000",
         "79930000",
+        "72242000",
         "71400000",
-        "75130000",
+        "73110000",
         "71322000",
-        "71244000",
+        "71247000",
+        "79311000",
+        "71000000",
         "71220000",
         "71241000",
         "71243000",
-        "71322500",
-        "71242000",
+        "75130000",
+        "71244000",
         "71355000",
-        "72242000",
-        "71311300",
-        "73110000",
-        "71320000",
-        "71311210",
-        "79311000",
-        "71247000",
-        "Dienstleistungen von Ingenieurbüros",
-        "Engineering services",
-        "Dienstverlening door ingenieurs",
         "Services d'ingénierie",
-        "Dienstverlening op het gebied van architectuur, bouwkunde, civiele techniek en inspectie",
+        "Dienstverlening door ingenieurs",
+        "Engineering services",
+        "Dienstleistungen von Ingenieurbüros",
+        "Beratung im Bereich Infrastrukturen",
+        "Infrastructure works consultancy services",
+        "Adviezen inzake infrastructuur",
+        "Services de conseil en matière d'infrastructure",
+        "Technische ontwerpdiensten",
+        "Planungsleistungen im Bauwesen",
+        "Engineering design services",
+        "Services de conception technique",
+        "Highways consultancy services",
+        "Services de conseil en matière d'autoroutes",
+        "Adviezen inzake wegenbouw",
+        "Beratung im Bereich Straßenbau",
+        "Technische ontwerpen van verkeersinstallaties",
+        "Services de conception technique pour installations de transport",
+        "Technische Planungsleistungen für Verkehrsanlagen",
+        "Engineering-design services for traffic installations",
+        "Préparation du projet et de la conception, estimation des coûts",
+        "Project and design preparation, estimation of costs",
+        "Project- en ontwerpvoorbereiding, kostenraming",
+        "Entwurf und Gestaltung, Kostenschätzung",
+        "Specialty design services",
+        "Gespecialiseerd ontwerpen",
+        "Conception de modèles",
+        "Dienstleistungen bezüglich Produktdesign",
+        "Design-modelling services",
+        "Maken van ontwerp modellen",
+        "Entwurfsmodellierung",
+        "Services de modélisation de projets",
+        "Services d'urbanisme et d'architecture paysagère",
+        "Dienstverlening op het gebied van stedenbouw en landschapsarchitectuur",
+        "Stadtplanung und Landschaftsgestaltung",
+        "Urban planning and landscape architectural services",
+        "Uitvoeren van onderzoek",
+        "Forschungsdienste",
+        "Research services",
+        "Services de recherche",
+        "Technische Planungsleistungen im Tief- und Hochbau",
+        "Engineering design services for the construction of civil engineering works",
+        "Technische ontwerpen voor constructie van civieltechnische werken",
+        "Services de conception technique pour la construction d'ouvrages de génie civil",
+        "Toezicht op bouwwerkzaamheden",
+        "Supervision of building work",
+        "Beaufsichtigung der Bauarbeiten",
+        "Supervision des travaux de construction",
+        "Uitvoeren van studies",
+        "Umfragen",
+        "Services d'études",
+        "Survey services",
         "Architectural, construction, engineering and inspection services",
         "Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen",
         "Services d'architecture, services de construction, services d'ingénierie et services d'inspection",
-        "Dienstleistungen bezüglich Produktdesign",
-        "Gespecialiseerd ontwerpen",
-        "Conception de modèles",
-        "Specialty design services",
-        "Urban planning and landscape architectural services",
-        "Dienstverlening op het gebied van stedenbouw en landschapsarchitectuur",
-        "Services d'urbanisme et d'architecture paysagère",
-        "Stadtplanung und Landschaftsgestaltung",
-        "Unterstützende Dienste für die öffentliche Verwaltung",
-        "Supporting services for the government",
-        "Ondersteunende diensten voor de overheid",
-        "Services d'appui aux pouvoirs publics",
-        "Engineering design services for the construction of civil engineering works",
-        "Technische Planungsleistungen im Tief- und Hochbau",
-        "Services de conception technique pour la construction d'ouvrages de génie civil",
-        "Technische ontwerpen voor constructie van civieltechnische werken",
-        "Calcul des coûts, contrôle des coûts",
-        "Calculation of costs, monitoring of costs",
-        "Kostenberekening en -bewaking",
-        "Kalkulation und Überwachung der Kosten",
+        "Dienstverlening op het gebied van architectuur, bouwkunde, civiele techniek en inspectie",
+        "Services de création architecturale",
+        "Architekturentwurf",
         "Maken van bouwkundige ontwerpen",
         "Architectural design services",
-        "Architekturentwurf",
-        "Services de création architecturale",
-        "Études de faisabilité, service de conseil, analyse",
-        "Feasibility study, advisory service, analysis",
-        "Durchführbarkeitsstudie, Beratung, Analyse",
         "Haalbaarheidsstudie, adviesverlening, analyse",
-        "Ontwerpplannen (systemen en integratie)",
+        "Études de faisabilité, service de conseil, analyse",
+        "Durchführbarkeitsstudie, Beratung, Analyse",
+        "Feasibility study, advisory service, analysis",
         "Draft plans (systems and integration)",
-        "Projets de plans (systémes et intégration)",
         "Planentwürfe (Systeme und Integration)",
-        "Services de conception technique pour installations de transport",
-        "Technische ontwerpen van verkeersinstallaties",
-        "Engineering-design services for traffic installations",
-        "Technische Planungsleistungen für Verkehrsanlagen",
-        "Préparation du projet et de la conception, estimation des coûts",
-        "Entwurf und Gestaltung, Kostenschätzung",
-        "Project and design preparation, estimation of costs",
-        "Project- en ontwerpvoorbereiding, kostenraming",
-        "Vermessungsarbeiten",
+        "Ontwerpplannen (systemen en integratie)",
+        "Projets de plans (systémes et intégration)",
+        "Services d'appui aux pouvoirs publics",
+        "Ondersteunende diensten voor de overheid",
+        "Supporting services for the government",
+        "Unterstützende Dienste für die öffentliche Verwaltung",
+        "Kostenberekening en -bewaking",
+        "Calcul des coûts, contrôle des coûts",
+        "Kalkulation und Überwachung der Kosten",
+        "Calculation of costs, monitoring of costs",
         "Surveying services",
-        "Services d'arpentage",
+        "Vermessungsarbeiten",
         "Landmeetkundige diensten",
-        "Maken van ontwerp modellen",
-        "Services de modélisation de projets",
-        "Entwurfsmodellierung",
-        "Design-modelling services",
-        "Infrastructure works consultancy services",
-        "Services de conseil en matière d'infrastructure",
-        "Beratung im Bereich Infrastrukturen",
-        "Adviezen inzake infrastructuur",
-        "Research services",
-        "Uitvoeren van onderzoek",
-        "Services de recherche",
-        "Forschungsdienste",
-        "Engineering design services",
-        "Planungsleistungen im Bauwesen",
-        "Technische ontwerpdiensten",
-        "Services de conception technique",
-        "Beratung im Bereich Straßenbau",
-        "Services de conseil en matière d'autoroutes",
-        "Adviezen inzake wegenbouw",
-        "Highways consultancy services",
-        "Survey services",
-        "Services d'études",
-        "Uitvoeren van studies",
-        "Umfragen",
-        "Supervision des travaux de construction",
-        "Toezicht op bouwwerkzaamheden",
-        "Beaufsichtigung der Bauarbeiten",
-        "Supervision of building work"
+        "Services d'arpentage"
       ],
       "firstSeenAt": "2026-10-28T11:26:54.012Z"
     },
@@ -1849,7 +1920,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP0H0-922/6136/20260023_001"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/678cdb9e-c6a9-4aa3-bca7-3fccd0041195/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/678cdb9e-c6a9-4aa3-bca7-3fccd0041195/documents",
@@ -1895,10 +1966,10 @@
         "Désignation d'un auteur de projet pour la mise en oeuvre de la fiche-projet n°1 du PATO - réaménagement de la Place Saint-Remacle, de la rue du Vinâve et de la rue Général Jacques",
         "Stavelot",
         "71240000",
-        "Dienstleistungen von Architektur- und Ingenieurbüros sowie planungsbezogene Leistungen",
+        "Services d'architecture, d'ingénierie et de planification",
         "Dienstverlening op het gebied van architectuur, bouwkunde en planning",
         "Architectural, engineering and planning services",
-        "Services d'architecture, d'ingénierie et de planification"
+        "Dienstleistungen von Architektur- und Ingenieurbüros sowie planungsbezogene Leistungen"
       ],
       "firstSeenAt": "2026-10-28T11:26:54.012Z"
     },
@@ -1914,7 +1985,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP0IE-3112/6200/2026-0166_001"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/fc6ac4f3-25bd-43e3-a7fb-ad3eed0396df/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/fc6ac4f3-25bd-43e3-a7fb-ad3eed0396df/documents",
@@ -1961,8 +2032,8 @@
         "WOONBOOG",
         "71221000",
         "Diensten door architectenbureaus voor gebouwen",
-        "Dienstleistungen von Architekturbüros bei Gebäuden",
         "Services d'architecte pour les bâtiments",
+        "Dienstleistungen von Architekturbüros bei Gebäuden",
         "Architectural services for buildings"
       ],
       "firstSeenAt": "2026-10-23T10:15:44.246Z"
@@ -1979,7 +2050,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP05A-1343/6115/ST-MD-24/26_001"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/7f4255eb-6857-4d85-85e5-4aac8b0fe4e8/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/7f4255eb-6857-4d85-85e5-4aac8b0fe4e8/documents",
@@ -2025,80 +2096,12 @@
         "Marché de services - auteur de projet : étude USR vestiaire buvette",
         "Rebecq",
         "71200000",
-        "Dienstleistungen von Architekturbüros",
-        "Architectural and related services",
         "Services d'architecture",
-        "Dienstverlening op het gebied van architectuur en dergelijke"
+        "Architectural and related services",
+        "Dienstverlening op het gebied van architectuur en dergelijke",
+        "Dienstleistungen von Architekturbüros"
       ],
       "firstSeenAt": "2026-10-24T09:38:23.646Z"
-    },
-    {
-      "id": "BOSA-8bca5ba5-4db7-44ac-a91a-28a665114334",
-      "realNotice": true,
-      "sourceId": "bosa",
-      "noticeId": "46d30fdd-ffc2-411a-a512-c584f7f6b261",
-      "noticeIds": [
-        "46d30fdd-ffc2-411a-a512-c584f7f6b261",
-        "60916359-b025-4048-9e02-9e252ce3fe16",
-        "5e1aaaf9-2213-4667-a241-d62620a6a2f9",
-        "51f4d2ca-c5a9-4744-8638-96ed093b74db"
-      ],
-      "publicationWorkspaceId": "8bca5ba5-4db7-44ac-a91a-28a665114334",
-      "publicationReferenceNumbersBDA": [
-        "PPP0CX-670/6122/2026.21/POM_001"
-      ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
-      "retrievalMethod": "BOSA e-Procurement Search API",
-      "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/8bca5ba5-4db7-44ac-a91a-28a665114334/general",
-      "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/8bca5ba5-4db7-44ac-a91a-28a665114334/documents",
-      "authenticatedUrl": "https://www.publicprocurement.be/supplier/enterprises/0/tendering-workspaces/publication-workspace-detail/8bca5ba5-4db7-44ac-a91a-28a665114334",
-      "authenticationMode": "BOSA supplier portal login",
-      "language": "NL",
-      "title": "Studieopdracht - Herbestemming kerk Wespelaar",
-      "buyer": "Haacht",
-      "buyerGroupId": "culture",
-      "region": "Flandre",
-      "serviceType": "Architecture",
-      "relevance": {
-        "version": "2026-10-20.1",
-        "category": "design",
-        "decision": "include",
-        "reason": "architectural-or-planning-cpv"
-      },
-      "requiresRelevanceReview": false,
-      "procedure": "Procedure negociee",
-      "cpv": [
-        "71221000"
-      ],
-      "contractNatures": [
-        "SERVICES"
-      ],
-      "worksAmount": null,
-      "feeAmount": null,
-      "publishedAt": "2026-10-22",
-      "deadline": "2026-11-12",
-      "status": "Avis BOSA reel",
-      "risk": "Eleve",
-      "matchBase": 82,
-      "summary": "Studieopdracht - Herbestemming kerk Wespelaar Donnees issues de BOSA e-Procurement. Montants travaux et honoraires non transmis par la recherche publique: a determiner.",
-      "keywords": [
-        "Architecture",
-        "Flandre",
-        "NL",
-        "BOSA",
-        "e-Procurement",
-        "marches publics",
-        "architecture",
-        "architectuur",
-        "Studieopdracht - Herbestemming kerk Wespelaar",
-        "Haacht",
-        "71221000",
-        "Diensten door architectenbureaus voor gebouwen",
-        "Dienstleistungen von Architekturbüros bei Gebäuden",
-        "Services d'architecte pour les bâtiments",
-        "Architectural services for buildings"
-      ],
-      "firstSeenAt": "2026-09-29T11:26:38.869Z"
     },
     {
       "id": "BOSA-3d464fb7-ccf9-43c6-97dd-54e641b17836",
@@ -2113,7 +2116,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP0B1-627/6061/2026-026_001"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/3d464fb7-ccf9-43c6-97dd-54e641b17836/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/3d464fb7-ccf9-43c6-97dd-54e641b17836/documents",
@@ -2159,10 +2162,10 @@
         "Mission complète d'auteur de projet relative à l'étude, la conception et le suivi des travaux d'aménagement du centre de Wodecq (fiche 16 - PCDR)",
         "Ellezelles",
         "71240000",
-        "Dienstleistungen von Architektur- und Ingenieurbüros sowie planungsbezogene Leistungen",
+        "Services d'architecture, d'ingénierie et de planification",
         "Dienstverlening op het gebied van architectuur, bouwkunde en planning",
         "Architectural, engineering and planning services",
-        "Services d'architecture, d'ingénierie et de planification"
+        "Dienstleistungen von Architektur- und Ingenieurbüros sowie planungsbezogene Leistungen"
       ],
       "firstSeenAt": "2026-09-30T11:14:28.898Z"
     },
@@ -2178,7 +2181,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP06V-2392/6497/2026304_001"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/6dedc187-6480-4fc1-9370-95f83d2eb7ee/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/6dedc187-6480-4fc1-9370-95f83d2eb7ee/documents",
@@ -2200,8 +2203,8 @@
       "procedure": "Procedure negociee",
       "cpv": [
         "71400000",
-        "71240000",
-        "71200000"
+        "71200000",
+        "71240000"
       ],
       "contractNatures": [
         "SERVICES"
@@ -2226,20 +2229,20 @@
         "Opmaak van een Masterplan voor het projectgebied Grooten Singel in Turnhout",
         "Turnhout",
         "71400000",
-        "71240000",
         "71200000",
-        "Urban planning and landscape architectural services",
-        "Dienstverlening op het gebied van stedenbouw en landschapsarchitectuur",
+        "71240000",
         "Services d'urbanisme et d'architecture paysagère",
+        "Dienstverlening op het gebied van stedenbouw en landschapsarchitectuur",
         "Stadtplanung und Landschaftsgestaltung",
-        "Dienstleistungen von Architektur- und Ingenieurbüros sowie planungsbezogene Leistungen",
+        "Urban planning and landscape architectural services",
+        "Services d'architecture",
+        "Architectural and related services",
+        "Dienstverlening op het gebied van architectuur en dergelijke",
+        "Dienstleistungen von Architekturbüros",
+        "Services d'architecture, d'ingénierie et de planification",
         "Dienstverlening op het gebied van architectuur, bouwkunde en planning",
         "Architectural, engineering and planning services",
-        "Services d'architecture, d'ingénierie et de planification",
-        "Dienstleistungen von Architekturbüros",
-        "Architectural and related services",
-        "Services d'architecture",
-        "Dienstverlening op het gebied van architectuur en dergelijke"
+        "Dienstleistungen von Architektur- und Ingenieurbüros sowie planungsbezogene Leistungen"
       ],
       "firstSeenAt": "2026-10-23T10:15:44.246Z"
     },
@@ -2255,7 +2258,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP0DC-15169/6109/2026-15169_001"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/98fc040a-357a-4086-8cc6-195767e48c64/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/98fc040a-357a-4086-8cc6-195767e48c64/documents",
@@ -2302,8 +2305,8 @@
         "Herk-de-Stad",
         "71221000",
         "Diensten door architectenbureaus voor gebouwen",
-        "Dienstleistungen von Architekturbüros bei Gebäuden",
         "Services d'architecte pour les bâtiments",
+        "Dienstleistungen von Architekturbüros bei Gebäuden",
         "Architectural services for buildings"
       ],
       "firstSeenAt": "2026-10-20T10:12:26.291Z"
@@ -2320,7 +2323,7 @@
       "publicationReferenceNumbersBDA": [
         "FbINFRA.NvA/04.01-00.5561/26.684_pub01"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/39d44437-5cbe-4fa2-886e-3e5a3af6ea5c/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/39d44437-5cbe-4fa2-886e-3e5a3af6ea5c/documents",
@@ -2369,13 +2372,13 @@
         "71221000",
         "71200000",
         "Diensten door architectenbureaus voor gebouwen",
-        "Dienstleistungen von Architekturbüros bei Gebäuden",
         "Services d'architecte pour les bâtiments",
+        "Dienstleistungen von Architekturbüros bei Gebäuden",
         "Architectural services for buildings",
-        "Dienstleistungen von Architekturbüros",
-        "Architectural and related services",
         "Services d'architecture",
-        "Dienstverlening op het gebied van architectuur en dergelijke"
+        "Architectural and related services",
+        "Dienstverlening op het gebied van architectuur en dergelijke",
+        "Dienstleistungen von Architekturbüros"
       ],
       "firstSeenAt": "2026-10-20T10:12:26.291Z"
     },
@@ -2393,7 +2396,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP0YB-416/6165/INFRA/26/05/416_001"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/30c30fec-6b4b-4956-93fc-9de5507063bb/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/30c30fec-6b4b-4956-93fc-9de5507063bb/documents",
@@ -2439,10 +2442,10 @@
         "Service d'Audit et analyse des besoins dans le cadre de la construction d'une nouvelle pharmacie",
         "CRP Les Marronniers",
         "71241000",
+        "Haalbaarheidsstudie, adviesverlening, analyse",
         "Études de faisabilité, service de conseil, analyse",
-        "Feasibility study, advisory service, analysis",
         "Durchführbarkeitsstudie, Beratung, Analyse",
-        "Haalbaarheidsstudie, adviesverlening, analyse"
+        "Feasibility study, advisory service, analysis"
       ],
       "firstSeenAt": "2026-09-25T10:19:05.407Z"
     },
@@ -2458,7 +2461,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP00T-4140/6735/2026123_001"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/ad2bfdd0-f6cf-4427-8c2c-4e3de23a1a7e/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/ad2bfdd0-f6cf-4427-8c2c-4e3de23a1a7e/documents",
@@ -2504,10 +2507,10 @@
         "Uitbreiding en herinrichting van Sociaal Huis naar Huis van Verbinding - aanstelling ontwerper",
         "Koksijde",
         "71200000",
-        "Dienstleistungen von Architekturbüros",
-        "Architectural and related services",
         "Services d'architecture",
-        "Dienstverlening op het gebied van architectuur en dergelijke"
+        "Architectural and related services",
+        "Dienstverlening op het gebied van architectuur en dergelijke",
+        "Dienstleistungen von Architekturbüros"
       ],
       "firstSeenAt": "2026-10-13T12:48:38.011Z"
     },
@@ -2523,7 +2526,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP0CS-2959/6446/2026-1122_001"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/3b81ba48-e9f4-4d6f-9c05-5ba699c7f209/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/3b81ba48-e9f4-4d6f-9c05-5ba699c7f209/documents",
@@ -2575,22 +2578,22 @@
         "71420000",
         "71200000",
         "71400000",
-        "Dienstverlening op het gebied van architectuur, bouwkunde, civiele techniek en inspectie",
-        "Services d'architecture, services de construction, services d'ingénierie et services d'inspection",
-        "Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen",
         "Architectural, construction, engineering and inspection services",
-        "Services d'architecture paysagère",
+        "Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen",
+        "Services d'architecture, services de construction, services d'ingénierie et services d'inspection",
+        "Dienstverlening op het gebied van architectuur, bouwkunde, civiele techniek en inspectie",
         "Landscape architectural services",
-        "Landschaftsgestaltung",
+        "Services d'architecture paysagère",
         "Landschapsarchitectuurdiensten",
-        "Dienstleistungen von Architekturbüros",
-        "Architectural and related services",
+        "Landschaftsgestaltung",
         "Services d'architecture",
+        "Architectural and related services",
         "Dienstverlening op het gebied van architectuur en dergelijke",
-        "Urban planning and landscape architectural services",
-        "Dienstverlening op het gebied van stedenbouw en landschapsarchitectuur",
+        "Dienstleistungen von Architekturbüros",
         "Services d'urbanisme et d'architecture paysagère",
-        "Stadtplanung und Landschaftsgestaltung"
+        "Dienstverlening op het gebied van stedenbouw en landschapsarchitectuur",
+        "Stadtplanung und Landschaftsgestaltung",
+        "Urban planning and landscape architectural services"
       ],
       "firstSeenAt": "2026-10-13T12:48:38.011Z"
     },
@@ -2608,7 +2611,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP0BT-458/6085/2026458_001"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/0f27e12e-14df-42cf-91b0-4c0d848157c6/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/0f27e12e-14df-42cf-91b0-4c0d848157c6/documents",
@@ -2630,13 +2633,13 @@
       "procedure": "Procedure negociee",
       "cpv": [
         "71321000",
-        "71240000",
         "71320000",
         "71310000",
         "71300000",
         "79311000",
         "71000000",
-        "71318000"
+        "71318000",
+        "71240000"
       ],
       "contractNatures": [
         "SERVICES"
@@ -2659,45 +2662,45 @@
         "Aanstellen studiebureau technieken renovatie gemeentehuis",
         "Hove",
         "71321000",
-        "71240000",
         "71320000",
         "71310000",
         "71300000",
         "79311000",
         "71000000",
         "71318000",
+        "71240000",
         "Technische ontwerpdiensten voor mechanische en elektrische installaties voor gebouwen",
-        "Services de conception technique des installations mécaniques et électriques de bâtiments",
-        "Technische Planungsleistungen für maschinen- und elektrotechnische Gebäudeanlagen",
         "Engineering design services for mechanical and electrical installations for buildings",
-        "Dienstleistungen von Architektur- und Ingenieurbüros sowie planungsbezogene Leistungen",
-        "Dienstverlening op het gebied van architectuur, bouwkunde en planning",
-        "Architectural, engineering and planning services",
-        "Services d'architecture, d'ingénierie et de planification",
-        "Engineering design services",
-        "Planungsleistungen im Bauwesen",
+        "Technische Planungsleistungen für maschinen- und elektrotechnische Gebäudeanlagen",
+        "Services de conception technique des installations mécaniques et électriques de bâtiments",
         "Technische ontwerpdiensten",
+        "Planungsleistungen im Bauwesen",
+        "Engineering design services",
         "Services de conception technique",
-        "Services de conseil en matière d'ingénierie et de construction",
         "Technische Beratung und Konstruktionsberatung",
         "Consultative engineering and construction services",
+        "Services de conseil en matière d'ingénierie et de construction",
         "Adviezen inzake techniek en bouw",
-        "Dienstleistungen von Ingenieurbüros",
-        "Engineering services",
-        "Dienstverlening door ingenieurs",
         "Services d'ingénierie",
-        "Survey services",
-        "Services d'études",
+        "Dienstverlening door ingenieurs",
+        "Engineering services",
+        "Dienstleistungen von Ingenieurbüros",
         "Uitvoeren van studies",
         "Umfragen",
-        "Dienstverlening op het gebied van architectuur, bouwkunde, civiele techniek en inspectie",
+        "Services d'études",
+        "Survey services",
         "Architectural, construction, engineering and inspection services",
         "Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen",
         "Services d'architecture, services de construction, services d'ingénierie et services d'inspection",
-        "Advisory and consultative engineering services",
+        "Dienstverlening op het gebied van architectuur, bouwkunde, civiele techniek en inspectie",
         "Technische advies- en raadgevingsdiensten",
+        "Advisory and consultative engineering services",
+        "Beratungsdienste von Ingenieurbüros",
         "Services de conseil et de consultation en ingénierie",
-        "Beratungsdienste von Ingenieurbüros"
+        "Services d'architecture, d'ingénierie et de planification",
+        "Dienstverlening op het gebied van architectuur, bouwkunde en planning",
+        "Architectural, engineering and planning services",
+        "Dienstleistungen von Architektur- und Ingenieurbüros sowie planungsbezogene Leistungen"
       ],
       "firstSeenAt": "2026-10-06T12:07:00.288Z"
     },
@@ -2713,7 +2716,7 @@
       "publicationReferenceNumbersBDA": [
         "2026-AANSTELLING ONTWERPTEAM ASSENEDE=SINT BERNARDUS FASE III (BLIJ LEVEN)_pub01"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/1f04b6e9-c13a-4983-bbbe-9623b06e1d2f/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/1f04b6e9-c13a-4983-bbbe-9623b06e1d2f/documents",
@@ -2759,10 +2762,10 @@
         "Prijsvraag ontwerpteam voor het bouwen van een 20-tal sociale gemeenschapswoningen gelegen in de Nieuwe Boekhoutestraat 7 te 9968 ASSENEDE(BASSEVELDE)",
         "Meetjeslandse Bouwmaatschappij voor Volkswoningen c.v.b.a.",
         "71200000",
-        "Dienstleistungen von Architekturbüros",
-        "Architectural and related services",
         "Services d'architecture",
-        "Dienstverlening op het gebied van architectuur en dergelijke"
+        "Architectural and related services",
+        "Dienstverlening op het gebied van architectuur en dergelijke",
+        "Dienstleistungen von Architekturbüros"
       ],
       "firstSeenAt": "2026-10-05T12:24:49.525Z"
     },
@@ -2779,7 +2782,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP01B-855/6137/855_001"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/c126db38-07e9-49f8-8c17-0029c4aae5df/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/c126db38-07e9-49f8-8c17-0029c4aae5df/documents",
@@ -2826,11 +2829,146 @@
         "Kortenberg",
         "71221000",
         "Diensten door architectenbureaus voor gebouwen",
-        "Dienstleistungen von Architekturbüros bei Gebäuden",
         "Services d'architecte pour les bâtiments",
+        "Dienstleistungen von Architekturbüros bei Gebäuden",
         "Architectural services for buildings"
       ],
       "firstSeenAt": "2026-09-09T09:55:23.305Z"
+    },
+    {
+      "id": "BOSA-832a43e9-080c-4903-805a-92ed92e740a9",
+      "realNotice": true,
+      "sourceId": "bosa",
+      "noticeId": "b07daf8a-ac84-440c-ab2b-661196d79ad0",
+      "noticeIds": [
+        "b07daf8a-ac84-440c-ab2b-661196d79ad0"
+      ],
+      "publicationWorkspaceId": "832a43e9-080c-4903-805a-92ed92e740a9",
+      "publicationReferenceNumbersBDA": [
+        "03.02.00.00A-26-2920_pub01"
+      ],
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievalMethod": "BOSA e-Procurement Search API",
+      "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/832a43e9-080c-4903-805a-92ed92e740a9/general",
+      "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/832a43e9-080c-4903-805a-92ed92e740a9/documents",
+      "authenticatedUrl": "https://www.publicprocurement.be/supplier/enterprises/0/tendering-workspaces/publication-workspace-detail/832a43e9-080c-4903-805a-92ed92e740a9",
+      "authenticationMode": "BOSA supplier portal login",
+      "language": "FR",
+      "title": "Conception, réalisation et diffusion d’une campagne de communication visant à promouvoir l’aération des espaces intérieurs dans les logements",
+      "buyer": "O3.02.00.00A Cellule Environnement - Santé",
+      "buyerGroupId": "regions-provinces",
+      "region": "Wallonie",
+      "serviceType": "PPP / Developpement",
+      "relevance": {
+        "version": "2026-10-20.1",
+        "category": "design-build",
+        "decision": "include",
+        "reason": "explicit-design-and-build"
+      },
+      "requiresRelevanceReview": false,
+      "procedure": "Procedure negociee",
+      "cpv": [
+        "79952000",
+        "79341400"
+      ],
+      "contractNatures": [
+        "SERVICES"
+      ],
+      "worksAmount": null,
+      "feeAmount": null,
+      "publishedAt": "2026-11-13",
+      "deadline": "2026-12-10",
+      "status": "Avis PPP reel",
+      "risk": "Faible",
+      "matchBase": 88,
+      "summary": "Le présent marché vise à concevoir et mettre en œuvre une campagne régionale de communication destinée à sensibiliser les citoyens aux bonnes pratiques d'aération des logements. L'objectif est d'améliorer la qualité de l'air intérieur et de contribuer à la prévention de problèmes de santé liés à une ventilation insuffisante des habitations. La campagne devra promouvoir des messages simples et concrets, déconstruire certaines idées reçues et être diffusée via différents canaux afin de toucher un large public. Donnees issues de BOSA e-Procurement. Avis integre par la veille PPP/developpement car le CPV principal peut etre travaux, concession ou services generaux. Montants travaux et honoraires non transmis par la recherche publique: a determiner.",
+      "keywords": [
+        "PPP / Developpement",
+        "Wallonie",
+        "FR",
+        "BOSA",
+        "e-Procurement",
+        "marches publics",
+        "design build",
+        "Conception, réalisation et diffusion d’une campagne de communication visant à promouvoir l’aération des espaces intérieurs dans les logements",
+        "O3.02.00.00A Cellule Environnement - Santé",
+        "79952000",
+        "79341400",
+        "Diensten voor het organiseren van evenementen",
+        "Event-Organisation",
+        "Event services",
+        "Services d'organisation d'événements",
+        "Advertising campaign services",
+        "Werbekampagnen",
+        "Services de campagne publicitaire",
+        "Reclamecampagnediensten"
+      ],
+      "firstSeenAt": "2026-11-13T13:15:39.735Z"
+    },
+    {
+      "id": "BOSA-3052e87a-0728-4cd9-89af-aa2553d3927c",
+      "realNotice": true,
+      "sourceId": "bosa",
+      "noticeId": "e0b5549f-3141-424c-9e58-8954aab0da20",
+      "noticeIds": [
+        "e0b5549f-3141-424c-9e58-8954aab0da20",
+        "aeb0108c-f3d7-489a-ac32-e3ffe9e5fe89"
+      ],
+      "publicationWorkspaceId": "3052e87a-0728-4cd9-89af-aa2553d3927c",
+      "publicationReferenceNumbersBDA": [
+        "PPP0UX-545/6097/AB-510_001"
+      ],
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievalMethod": "BOSA e-Procurement Search API",
+      "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/3052e87a-0728-4cd9-89af-aa2553d3927c/general",
+      "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/3052e87a-0728-4cd9-89af-aa2553d3927c/documents",
+      "authenticatedUrl": "https://www.publicprocurement.be/supplier/enterprises/0/tendering-workspaces/publication-workspace-detail/3052e87a-0728-4cd9-89af-aa2553d3927c",
+      "authenticationMode": "BOSA supplier portal login",
+      "language": "NL/FR",
+      "title": "DBFMO – Piscine Site Abattoir",
+      "buyer": "Société d'aménagement urbain, société anonyme de droit public",
+      "buyerGroupId": "regions-provinces",
+      "region": "Bruxelles",
+      "serviceType": "PPP / Developpement",
+      "relevance": {
+        "version": "2026-10-20.1",
+        "category": "design-build",
+        "decision": "include",
+        "reason": "explicit-design-and-build"
+      },
+      "requiresRelevanceReview": false,
+      "procedure": "Procedure negociee",
+      "cpv": [
+        "45212212"
+      ],
+      "contractNatures": [
+        "WORKS"
+      ],
+      "worksAmount": null,
+      "feeAmount": null,
+      "publishedAt": "2026-11-13",
+      "deadline": "2027-01-06",
+      "status": "Avis PPP reel",
+      "risk": "Faible",
+      "matchBase": 88,
+      "summary": "La Région de Bruxelles-Capitale souhaite développer en collaboration avec la VGC (la Vlaamse Gemeenschapscommissie, la Commission communautaire flamande) et la Commune d’Anderlecht une infrastructure de natation combinée sur le site Abattoirs à Anderlecht. Pour les détails de cet coopération, il est fait référence à la définition du projet.  L’objet du Marché est exposé dans la Définition du projet ci-jointe (Annexe 3 du Guide de sélection) et sera complété et affiné dans la partie B du Guide de soumission. Donnees issues de BOSA e-Procurement. Avis integre par la veille PPP/developpement car le CPV principal peut etre travaux, concession ou services generaux. Montants travaux et honoraires non transmis par la recherche publique: a determiner.",
+      "keywords": [
+        "PPP / Developpement",
+        "Bruxelles",
+        "NL/FR",
+        "BOSA",
+        "e-Procurement",
+        "marches publics",
+        "design build",
+        "DBFMO – Piscine Site Abattoir",
+        "Société d'aménagement urbain, société anonyme de droit public",
+        "45212212",
+        "Construction work for swimming pool",
+        "Travaux de construction de piscines",
+        "Bauarbeiten für Schwimmbäder",
+        "Bouwwerkzaamheden voor zwembad"
+      ],
+      "firstSeenAt": "2026-10-21T10:21:29.368Z"
     },
     {
       "id": "BOSA-3ffc8455-2c7d-4e80-92ea-5b533ba9188f",
@@ -2846,7 +2984,7 @@
       "publicationReferenceNumbersBDA": [
         "Beliris-6.25.1.9_pub01"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/3ffc8455-2c7d-4e80-92ea-5b533ba9188f/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/3ffc8455-2c7d-4e80-92ea-5b533ba9188f/documents",
@@ -2893,10 +3031,10 @@
         "6.25.1.9 Mission d’auteur de projet pour la restauration des façades du Musée Art et Histoire dans le Parc du Cinquantenaire à Bruxelles – Marché de services - Procédure ouverte",
         "Direction Infrastructure de Transport",
         "71000000",
-        "Dienstverlening op het gebied van architectuur, bouwkunde, civiele techniek en inspectie",
-        "Services d'architecture, services de construction, services d'ingénierie et services d'inspection",
+        "Architectural, construction, engineering and inspection services",
         "Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen",
-        "Architectural, construction, engineering and inspection services"
+        "Services d'architecture, services de construction, services d'ingénierie et services d'inspection",
+        "Dienstverlening op het gebied van architectuur, bouwkunde, civiele techniek en inspectie"
       ],
       "firstSeenAt": "2026-09-10T09:52:54.151Z"
     },
@@ -2914,7 +3052,7 @@
       "publicationReferenceNumbersBDA": [
         "2026_PropCom_Consultation_001_pub01"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/6938874d-ac2b-4272-9bef-3c5a5776a1b4/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/6938874d-ac2b-4272-9bef-3c5a5776a1b4/documents",
@@ -2959,10 +3097,10 @@
         "Consultation préalable du marché relatif à la construction et à l'exploitation de logements à vocation sociale et d'un parking destiné aux riverains.",
         "Uccle",
         "45000000",
-        "Bauarbeiten",
         "Bouwwerkzaamheden",
+        "Travaux de construction",
         "Construction work",
-        "Travaux de construction"
+        "Bauarbeiten"
       ],
       "firstSeenAt": "2026-10-28T11:26:54.012Z"
     },
@@ -2978,7 +3116,7 @@
       "publicationReferenceNumbersBDA": [
         "TVL/2026/2029/OOP/VAS_pub01"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/69f71857-5d9d-4ab0-a429-b465ac6cf59c/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/69f71857-5d9d-4ab0-a429-b465ac6cf59c/documents",
@@ -3022,10 +3160,10 @@
         "Ondersteuning in valorisatie van 2 sites (Commanderie in Sint-Pieters-Voeren en Kasteeldomein Vilain XIIII in Leut)",
         "VisitFlanders",
         "71000000",
-        "Dienstverlening op het gebied van architectuur, bouwkunde, civiele techniek en inspectie",
-        "Services d'architecture, services de construction, services d'ingénierie et services d'inspection",
+        "Architectural, construction, engineering and inspection services",
         "Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen",
-        "Architectural, construction, engineering and inspection services"
+        "Services d'architecture, services de construction, services d'ingénierie et services d'inspection",
+        "Dienstverlening op het gebied van architectuur, bouwkunde, civiele techniek en inspectie"
       ],
       "firstSeenAt": "2026-11-11T12:50:23.684Z"
     },
@@ -3041,7 +3179,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP009-3672/6479/2026/028aa_001"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/f05ab410-ead9-4f18-acd9-dd038f57abf3/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/f05ab410-ead9-4f18-acd9-dd038f57abf3/documents",
@@ -3085,10 +3223,10 @@
         "Hazel: Design en Build van een kinderopvang, buitenschoolse opvang en lokaal academie",
         "Sint-Niklaas",
         "45000000",
-        "Bauarbeiten",
         "Bouwwerkzaamheden",
+        "Travaux de construction",
         "Construction work",
-        "Travaux de construction"
+        "Bauarbeiten"
       ],
       "firstSeenAt": "2026-11-09T14:05:36.682Z"
     },
@@ -3104,7 +3242,7 @@
       "publicationReferenceNumbersBDA": [
         "RWT-2026/107_pub01"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/dda1737e-2917-4bcf-ac2e-cc01393e6edd/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/dda1737e-2917-4bcf-ac2e-cc01393e6edd/documents",
@@ -3149,10 +3287,10 @@
         "Conception et réalisation de travaux de rénovation énergétique concernant l'école communale de Lommersweiler de la Commune de Saint-Vith",
         "BEFIN",
         "45000000",
-        "Bauarbeiten",
         "Bouwwerkzaamheden",
+        "Travaux de construction",
         "Construction work",
-        "Travaux de construction"
+        "Bauarbeiten"
       ],
       "firstSeenAt": "2026-11-07T11:49:35.266Z"
     },
@@ -3170,7 +3308,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP07I-3012/6621/ERE/351 W2607 337_001"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/88cd0106-8aa2-4912-adc0-1a6005069741/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/88cd0106-8aa2-4912-adc0-1a6005069741/documents",
@@ -3217,8 +3355,8 @@
         "Roeselare",
         "71221000",
         "Diensten door architectenbureaus voor gebouwen",
-        "Dienstleistungen von Architekturbüros bei Gebäuden",
         "Services d'architecte pour les bâtiments",
+        "Dienstleistungen von Architekturbüros bei Gebäuden",
         "Architectural services for buildings"
       ],
       "firstSeenAt": "2026-10-28T11:26:54.012Z"
@@ -3235,7 +3373,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP0BB-2115/6124/2026-1953_001"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/286fc047-f99d-45ee-9d78-91e7a9cd244f/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/286fc047-f99d-45ee-9d78-91e7a9cd244f/documents",
@@ -3280,10 +3418,10 @@
         "Conception et réalisation d'un hall pour le Service des Travaux",
         "Couvin",
         "45000000",
-        "Bauarbeiten",
         "Bouwwerkzaamheden",
+        "Travaux de construction",
         "Construction work",
-        "Travaux de construction"
+        "Bauarbeiten"
       ],
       "firstSeenAt": "2026-11-05T14:49:56.043Z"
     },
@@ -3299,7 +3437,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP0VJ-983/6724/2026/EE/NUC/067_001"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/79528141-c964-4077-a819-88ca6755128d/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/79528141-c964-4077-a819-88ca6755128d/documents",
@@ -3343,10 +3481,10 @@
         "Levering, plaatsing en indienstelling van PET CT",
         "AZORG vzw",
         "33100000",
-        "Medical equipments",
-        "Équipements médicaux",
+        "Medizinische Geräte",
         "Medische apparatuur",
-        "Medizinische Geräte"
+        "Medical equipments",
+        "Équipements médicaux"
       ],
       "firstSeenAt": "2026-11-06T13:03:51.363Z"
     },
@@ -3362,7 +3500,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP0KC-2773/6978/2026/20_001"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/5fc837da-dc3c-45a8-afaa-cd72ee722ba1/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/5fc837da-dc3c-45a8-afaa-cd72ee722ba1/documents",
@@ -3409,13 +3547,13 @@
         "CUB Hôpital Erasme",
         "45214631",
         "45215100",
-        "Travaux d'installation de salles blanches",
-        "Installation works of cleanrooms",
         "Installatiewerkzaamheden voor steriele ruimten",
         "Einbau von Reinräumen",
-        "Travaux de construction de bâtiments liés à la santé",
+        "Travaux d'installation de salles blanches",
+        "Installation works of cleanrooms",
         "Gebouwen voor de gezondheidszorg",
         "Construction work for buildings relating to health",
+        "Travaux de construction de bâtiments liés à la santé",
         "Bauarbeiten für Gebäude im Gesundheitswesen"
       ],
       "firstSeenAt": "2026-11-05T14:49:56.043Z"
@@ -3436,7 +3574,7 @@
       "publicationReferenceNumbersBDA": [
         "LAM_NIJL_2026-01_pub01"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/51cd2603-e280-47eb-8f06-644382e97cf3/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/51cd2603-e280-47eb-8f06-644382e97cf3/documents",
@@ -3458,9 +3596,9 @@
       "procedure": "Procedure ouverte",
       "cpv": [
         "71221000",
+        "92522200",
         "92522100",
-        "92522000",
-        "92522200"
+        "92522000"
       ],
       "contractNatures": [
         "SERVICES"
@@ -3485,25 +3623,25 @@
         "Het ontwerpen van restauratie- en premiedossier(s) en het opvolgen van de werken voor de Pastorie Sint-Lambertusparochie te Kessel (Nijlen)",
         "Stichting Kempens Landschap",
         "71221000",
+        "92522200",
         "92522100",
         "92522000",
-        "92522200",
         "Diensten door architectenbureaus voor gebouwen",
-        "Dienstleistungen von Architekturbüros bei Gebäuden",
         "Services d'architecte pour les bâtiments",
+        "Dienstleistungen von Architekturbüros bei Gebäuden",
         "Architectural services for buildings",
+        "Maßnahmen zur Erhaltung von historischen Gebäuden",
+        "Monumentenzorg voor historische gebouwen",
+        "Services de conservation des monuments historiques",
+        "Preservation services of historical buildings",
         "Monumentenzorgdiensten voor historische plaatsen",
-        "Services de conservation des sites historiques",
-        "Maßnahmen zur Erhaltung von historisch bedeutsamen Stätten",
         "Preservation services of historical sites",
-        "Services de conservation des sites et des monuments historiques",
+        "Maßnahmen zur Erhaltung von historisch bedeutsamen Stätten",
+        "Services de conservation des sites historiques",
         "Preservation services of historical sites and buildings",
         "Monumentenzorgdiensten",
-        "Dienstleistungen im Bereich Denkmalschutz",
-        "Preservation services of historical buildings",
-        "Services de conservation des monuments historiques",
-        "Maßnahmen zur Erhaltung von historischen Gebäuden",
-        "Monumentenzorg voor historische gebouwen"
+        "Services de conservation des sites et des monuments historiques",
+        "Dienstleistungen im Bereich Denkmalschutz"
       ],
       "firstSeenAt": "2026-09-28T11:49:25.930Z"
     },
@@ -3519,7 +3657,7 @@
       "publicationReferenceNumbersBDA": [
         "SMO-2026-DK_pub01"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/ba01ff41-f99d-4327-af79-1c6b695b81d9/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/ba01ff41-f99d-4327-af79-1c6b695b81d9/documents",
@@ -3567,14 +3705,14 @@
         "De Lovie vzw",
         "45000000",
         "71200000",
-        "Bauarbeiten",
         "Bouwwerkzaamheden",
-        "Construction work",
         "Travaux de construction",
-        "Dienstleistungen von Architekturbüros",
-        "Architectural and related services",
+        "Construction work",
+        "Bauarbeiten",
         "Services d'architecture",
-        "Dienstverlening op het gebied van architectuur en dergelijke"
+        "Architectural and related services",
+        "Dienstverlening op het gebied van architectuur en dergelijke",
+        "Dienstleistungen von Architekturbüros"
       ],
       "firstSeenAt": "2026-11-05T14:49:56.043Z"
     },
@@ -3591,7 +3729,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP04Q-1443/6252/ODU/1443_001"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/553a2e40-9827-4cb7-8314-1c07bff9e874/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/553a2e40-9827-4cb7-8314-1c07bff9e874/documents",
@@ -3637,9 +3775,9 @@
         "Waremme",
         "45233161",
         "Bau von Fußwegen",
+        "Travaux de construction de chemins piétonniers",
         "Footpath construction work",
-        "Aanleggen van trottoirs",
-        "Travaux de construction de chemins piétonniers"
+        "Aanleggen van trottoirs"
       ],
       "firstSeenAt": "2026-10-20T10:12:26.291Z"
     },
@@ -3655,7 +3793,7 @@
       "publicationReferenceNumbersBDA": [
         "2026-concessie-podium_pub01"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/17a7f248-3033-4b52-9cb7-75443721eac8/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/17a7f248-3033-4b52-9cb7-75443721eac8/documents",
@@ -3677,8 +3815,8 @@
       "procedure": "Procedure ouverte",
       "cpv": [
         "92370000",
-        "51314000",
         "71318100",
+        "51314000",
         "51313000"
       ],
       "contractNatures": [
@@ -3702,25 +3840,25 @@
         "Concessie voor podiumtechnische dienstverlening",
         "Beerse",
         "92370000",
-        "51314000",
         "71318100",
+        "51314000",
         "51313000",
-        "Sound technician",
-        "Dienstleistungen von Tontechnikern",
         "Services prestés par les techniciens du son",
         "Diensten van geluidstechnicus",
-        "Installation services of video equipment",
-        "Services d'installation de matériel vidéo",
-        "Installation von Videogeräten",
-        "Installatie van video-uitrusting",
-        "Services pour les techniques d'éclairage naturel et artificiel",
-        "Dienstleistungen für Lichttechnik und Tageslichttechnik",
+        "Dienstleistungen von Tontechnikern",
+        "Sound technician",
         "Diensten in verband met de uitvoering van verlichtings- en daglichtvoorzieningsprojecten",
+        "Dienstleistungen für Lichttechnik und Tageslichttechnik",
+        "Services pour les techniques d'éclairage naturel et artificiel",
         "Artificial and natural lighting engineering services for buildings",
-        "Services d'installation de matériel audio",
-        "Installation von Audiogeräten",
+        "Services d'installation de matériel vidéo",
+        "Installatie van video-uitrusting",
+        "Installation von Videogeräten",
+        "Installation services of video equipment",
         "Installatie van audio-uitrusting",
-        "Installation services of sound equipment"
+        "Installation von Audiogeräten",
+        "Installation services of sound equipment",
+        "Services d'installation de matériel audio"
       ],
       "firstSeenAt": "2026-11-04T13:07:17.848Z"
     },
@@ -3739,7 +3877,7 @@
       "publicationReferenceNumbersBDA": [
         "RWT-2026/105_pub01"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/aa95ead2-eeb1-43a4-b547-73d8bdddd1f4/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/aa95ead2-eeb1-43a4-b547-73d8bdddd1f4/documents",
@@ -3784,10 +3922,10 @@
         "Conception et réalisation de travaux de rénovation énergétique (Equipements HVAC+ panneaux photovoltaïques) pour plusieurs bâtiments de la Commune de TELLIN",
         "BEFIN",
         "45300000",
-        "Travaux d'équipement du bâtiment",
-        "Building installation work",
         "Installatiewerkzaamheden in de bouw",
-        "Bauinstallationsarbeiten"
+        "Travaux d'équipement du bâtiment",
+        "Bauinstallationsarbeiten",
+        "Building installation work"
       ],
       "firstSeenAt": "2026-10-20T10:12:26.291Z"
     },
@@ -3803,7 +3941,7 @@
       "publicationReferenceNumbersBDA": [
         "430104 Andenne PPP_pub01"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/9f5d3fb7-ca3b-43c8-8e13-b4c67332efca/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/9f5d3fb7-ca3b-43c8-8e13-b4c67332efca/documents",
@@ -3850,14 +3988,14 @@
         "Société Wallonne du Logement",
         "45000000",
         "70000000",
-        "Bauarbeiten",
         "Bouwwerkzaamheden",
-        "Construction work",
         "Travaux de construction",
-        "Services immobiliers",
+        "Construction work",
+        "Bauarbeiten",
         "Makelaarsdiensten",
-        "Immobiliendienste",
-        "Real estate services"
+        "Services immobiliers",
+        "Real estate services",
+        "Immobiliendienste"
       ],
       "firstSeenAt": "2026-10-30T11:28:42.924Z"
     },
@@ -3873,7 +4011,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP06T-35260/6232/2027 D 7_001"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/6079062b-fa73-4f79-b012-4298c928c55a/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/6079062b-fa73-4f79-b012-4298c928c55a/documents",
@@ -3904,7 +4042,7 @@
       "publishedAt": "2026-11-02",
       "deadline": "2026-12-03",
       "status": "Avis BOSA reel",
-      "risk": "Faible",
+      "risk": "Moyen",
       "matchBase": 82,
       "summary": "aanstellen van een ontwerpteam voor de volledige studieopdracht voor restauratie van fort 4 en voor een scenario-onderzoek herbestemming van site fort 4 (2 percelen) Donnees issues de BOSA e-Procurement. Montants travaux et honoraires non transmis par la recherche publique: a determiner.",
       "keywords": [
@@ -3919,10 +4057,10 @@
         "aanstellen van een ontwerpteam voor de volledige studieopdracht voor restauratie van fort 4 en voor een scenario-onderzoek herbestemming van site fort 4 (2 percelen)",
         "Mortsel",
         "71200000",
-        "Dienstleistungen von Architekturbüros",
-        "Architectural and related services",
         "Services d'architecture",
-        "Dienstverlening op het gebied van architectuur en dergelijke"
+        "Architectural and related services",
+        "Dienstverlening op het gebied van architectuur en dergelijke",
+        "Dienstleistungen von Architekturbüros"
       ],
       "firstSeenAt": "2026-11-02T13:40:52.812Z"
     },
@@ -3938,7 +4076,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP001-2537/6556/2026-PM-1637_001"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/04456867-eb8c-4c68-bf8a-cde9318a85ad/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/04456867-eb8c-4c68-bf8a-cde9318a85ad/documents",
@@ -3969,7 +4107,7 @@
       "publishedAt": "2026-10-30",
       "deadline": "2026-12-03",
       "status": "Avis PPP reel",
-      "risk": "Faible",
+      "risk": "Moyen",
       "matchBase": 88,
       "summary": "KDV Roosendaelveld - Aanstelling van een bouwteampartner voor ontwerpbegeleiding en uitvoering van de werken Pertinence a verifier: la mission de conception ou le role accessible a une agence reste a confirmer. Donnees issues de BOSA e-Procurement. Avis integre par la veille PPP/developpement car le CPV principal peut etre travaux, concession ou services generaux. Montants travaux et honoraires non transmis par la recherche publique: a determiner.",
       "keywords": [
@@ -3982,10 +4120,10 @@
         "KDV Roosendaelveld - Aanstelling van een bouwteampartner voor ontwerpbegeleiding en uitvoering van de werken",
         "Mechelen",
         "45000000",
-        "Bauarbeiten",
         "Bouwwerkzaamheden",
+        "Travaux de construction",
         "Construction work",
-        "Travaux de construction"
+        "Bauarbeiten"
       ],
       "firstSeenAt": "2026-10-30T11:28:42.924Z"
     },
@@ -4002,7 +4140,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP092-2077/6158/2026-107_001"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/74bbf8b5-ae56-420e-9ebf-c5be83dbc0a8/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/74bbf8b5-ae56-420e-9ebf-c5be83dbc0a8/documents",
@@ -4047,8 +4185,8 @@
         "Rénovation de l'aire de jeux de l'école d'Antheit",
         "Commune de Wanze",
         "45112723",
-        "Landscaping work for playgrounds",
         "Landschappelijk ontwerp voor speelterreinen",
+        "Landscaping work for playgrounds",
         "Travaux d'aménagement paysager de terrains de jeux",
         "Landschaftsgärtnerische Bauleistungen für Spielplätze"
       ],
@@ -4066,7 +4204,7 @@
       "publicationReferenceNumbersBDA": [
         "2026 Ontwerpen en bouwen van een modulaire Buitenschoolse Opvang en Activiteiten (BOA) in Menen_pub01"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/4f9f1835-d3c1-4889-af72-3345714f2139/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/4f9f1835-d3c1-4889-af72-3345714f2139/documents",
@@ -4111,10 +4249,10 @@
         "Ontwerpen en bouwen van een modulaire Buitenschoolse Opvang en Activiteiten (BOA) in Menen (design and build)",
         "OCMW Menen",
         "45000000",
-        "Bauarbeiten",
         "Bouwwerkzaamheden",
+        "Travaux de construction",
         "Construction work",
-        "Travaux de construction"
+        "Bauarbeiten"
       ],
       "firstSeenAt": "2026-10-30T11:28:42.924Z"
     },
@@ -4130,7 +4268,7 @@
       "publicationReferenceNumbersBDA": [
         "Viv 1348 - Aanstellen multidisciplinair ontwerpteam_pub01"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/1ef19eb3-0367-4db3-aa36-82d6967cd88f/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/1ef19eb3-0367-4db3-aa36-82d6967cd88f/documents",
@@ -4176,10 +4314,10 @@
         "Aanstellen van een multidisciplinair ontwerpteam voor de herontwikkeling van de site  Papenplein Te Sint-Pieters, Brugge",
         "Vivendo",
         "71200000",
-        "Dienstleistungen von Architekturbüros",
-        "Architectural and related services",
         "Services d'architecture",
-        "Dienstverlening op het gebied van architectuur en dergelijke"
+        "Architectural and related services",
+        "Dienstverlening op het gebied van architectuur en dergelijke",
+        "Dienstleistungen von Architekturbüros"
       ],
       "firstSeenAt": "2026-10-30T11:28:42.924Z"
     },
@@ -4195,7 +4333,7 @@
       "publicationReferenceNumbersBDA": [
         "2025/28_pub01"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/ab3f9631-29ca-4dbb-b65f-235c0c4fea96/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/ab3f9631-29ca-4dbb-b65f-235c0c4fea96/documents",
@@ -4241,8 +4379,8 @@
         "45212221",
         "Bouwwerkzaamheden voor installaties voor sportterrein",
         "Construction work in connection with structures for sports ground",
-        "Travaux de construction d'ouvrages pour terrain de sports",
-        "Bauarbeiten für Sportplätze"
+        "Bauarbeiten für Sportplätze",
+        "Travaux de construction d'ouvrages pour terrain de sports"
       ],
       "firstSeenAt": "2026-10-28T11:26:54.012Z"
     },
@@ -4258,7 +4396,7 @@
       "publicationReferenceNumbersBDA": [
         "TO/INV/RUP/4 – DWV-TLP.RPL-PPS-01_pub01"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/f8858f6b-8214-41eb-a55b-659cf85ec150/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/f8858f6b-8214-41eb-a55b-659cf85ec150/documents",
@@ -4305,14 +4443,14 @@
         "De Werkvennootschap NV van publiek recht",
         "45000000",
         "45221247",
-        "Bauarbeiten",
         "Bouwwerkzaamheden",
-        "Construction work",
         "Travaux de construction",
-        "Tunnelbauarbeiten",
+        "Construction work",
+        "Bauarbeiten",
         "Tunnelbouwwerkzaamheden",
+        "Tunnelling works",
         "Percement de tunnels",
-        "Tunnelling works"
+        "Tunnelbauarbeiten"
       ],
       "firstSeenAt": "2026-10-28T11:26:54.012Z"
     },
@@ -4329,7 +4467,7 @@
       "publicationReferenceNumbersBDA": [
         "HERON-2026-010LW_pub01"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/edece2ac-6bf5-41d3-8246-d285ba41a3c1/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/edece2ac-6bf5-41d3-8246-d285ba41a3c1/documents",
@@ -4375,10 +4513,10 @@
         "HERON - Désignation d’un auteur de projet pour une mission d’élaboration d’une stratégie d’intervention suivie de l’étude et du suivi de l’exécution des travaux de rénovation et d’extension des écoles communales de Surlemez et Waret-l'Evêque",
         "Héron",
         "71200000",
-        "Dienstleistungen von Architekturbüros",
-        "Architectural and related services",
         "Services d'architecture",
-        "Dienstverlening op het gebied van architectuur en dergelijke"
+        "Architectural and related services",
+        "Dienstverlening op het gebied van architectuur en dergelijke",
+        "Dienstleistungen von Architekturbüros"
       ],
       "firstSeenAt": "2026-10-07T11:52:25.258Z"
     },
@@ -4394,7 +4532,7 @@
       "publicationReferenceNumbersBDA": [
         "31.02.01-002 Bis_pub01"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/982a837a-26e6-4a81-b3e0-cb8ed758dff7/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/982a837a-26e6-4a81-b3e0-cb8ed758dff7/documents",
@@ -4440,73 +4578,9 @@
         "Direction générale des Infrastructures et du Développement Durable",
         "45223800",
         "Assemblage et montage de structures préfabriquées",
-        "Montage und Errichtung von Fertigkonstruktionen",
         "Assembly and erection of prefabricated structures",
+        "Montage und Errichtung von Fertigkonstruktionen",
         "Monteren en bouwen van prefabconstructies"
-      ],
-      "firstSeenAt": "2026-10-21T10:21:29.368Z"
-    },
-    {
-      "id": "BOSA-3052e87a-0728-4cd9-89af-aa2553d3927c",
-      "realNotice": true,
-      "sourceId": "bosa",
-      "noticeId": "e0b5549f-3141-424c-9e58-8954aab0da20",
-      "noticeIds": [
-        "e0b5549f-3141-424c-9e58-8954aab0da20"
-      ],
-      "publicationWorkspaceId": "3052e87a-0728-4cd9-89af-aa2553d3927c",
-      "publicationReferenceNumbersBDA": [
-        "PPP0UX-545/6097/AB-510_001"
-      ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
-      "retrievalMethod": "BOSA e-Procurement Search API",
-      "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/3052e87a-0728-4cd9-89af-aa2553d3927c/general",
-      "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/3052e87a-0728-4cd9-89af-aa2553d3927c/documents",
-      "authenticatedUrl": "https://www.publicprocurement.be/supplier/enterprises/0/tendering-workspaces/publication-workspace-detail/3052e87a-0728-4cd9-89af-aa2553d3927c",
-      "authenticationMode": "BOSA supplier portal login",
-      "language": "NL/FR",
-      "title": "DBFMO – Piscine Site Abattoir",
-      "buyer": "Société d'aménagement urbain, société anonyme de droit public",
-      "buyerGroupId": "regions-provinces",
-      "region": "Bruxelles",
-      "serviceType": "PPP / Developpement",
-      "relevance": {
-        "version": "2026-10-20.1",
-        "category": "design-build",
-        "decision": "include",
-        "reason": "explicit-design-and-build"
-      },
-      "requiresRelevanceReview": false,
-      "procedure": "Procedure negociee",
-      "cpv": [
-        "45212212"
-      ],
-      "contractNatures": [
-        "WORKS"
-      ],
-      "worksAmount": null,
-      "feeAmount": null,
-      "publishedAt": "2026-10-21",
-      "deadline": "2026-12-03",
-      "status": "Avis PPP reel",
-      "risk": "Faible",
-      "matchBase": 88,
-      "summary": "La Région de Bruxelles-Capitale souhaite développer en collaboration avec la VGC (la Vlaamse Gemeenschapscommissie, la Commission communautaire flamande) et la Commune d’Anderlecht une infrastructure de natation combinée sur le site Abattoirs à Anderlecht. Pour les détails de cet coopération, il est fait référence à la définition du projet.  L’objet du Marché est exposé dans la Définition du projet ci-jointe (Annexe 3 du Guide de sélection) et sera complété et affiné dans la partie B du Guide de soumission. Donnees issues de BOSA e-Procurement. Avis integre par la veille PPP/developpement car le CPV principal peut etre travaux, concession ou services generaux. Montants travaux et honoraires non transmis par la recherche publique: a determiner.",
-      "keywords": [
-        "PPP / Developpement",
-        "Bruxelles",
-        "NL/FR",
-        "BOSA",
-        "e-Procurement",
-        "marches publics",
-        "design build",
-        "DBFMO – Piscine Site Abattoir",
-        "Société d'aménagement urbain, société anonyme de droit public",
-        "45212212",
-        "Bouwwerkzaamheden voor zwembad",
-        "Travaux de construction de piscines",
-        "Bauarbeiten für Schwimmbäder",
-        "Construction work for swimming pool"
       ],
       "firstSeenAt": "2026-10-21T10:21:29.368Z"
     },
@@ -4522,7 +4596,7 @@
       "publicationReferenceNumbersBDA": [
         "MV-ZWALUWNEST-2026._pub01"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/9a39b182-161c-4bba-8fd6-d41d5f0962b0/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/9a39b182-161c-4bba-8fd6-d41d5f0962b0/documents",
@@ -4566,10 +4640,10 @@
         "Informatieve marktverkenning voor de toekomstige invulling van site Zwaluwnest te Edegem",
         "Edegem",
         "70123200",
-        "Verkopen van niet voor bewoning bestemd onroerend goed",
         "Sale of non-residential estate",
+        "Vente de biens immobiliers à usage non résidentiel",
         "Verkauf von Nichtwohnimmobilien",
-        "Vente de biens immobiliers à usage non résidentiel"
+        "Verkopen van niet voor bewoning bestemd onroerend goed"
       ],
       "firstSeenAt": "2026-10-20T10:12:26.291Z"
     },
@@ -4585,7 +4659,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP001-2538/6503/2026-PM-1638_001"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/47e405d4-aa98-4bc9-aaa4-2dee383a70ba/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/47e405d4-aa98-4bc9-aaa4-2dee383a70ba/documents",
@@ -4629,10 +4703,10 @@
         "CUHA 2 Minderbroederskerk - Aanstelling van een bouwteampartner voor ontwerpbegeleiding en uitvoering van de restauratie- en renovatiewerken",
         "Mechelen",
         "45000000",
-        "Bauarbeiten",
         "Bouwwerkzaamheden",
+        "Travaux de construction",
         "Construction work",
-        "Travaux de construction"
+        "Bauarbeiten"
       ],
       "firstSeenAt": "2026-10-16T09:57:40.931Z"
     },
@@ -4648,7 +4722,7 @@
       "publicationReferenceNumbersBDA": [
         "2026 - Commune de Marchin - Concession de travaux- Dix Bonniers_pub01"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/5cfc9ad9-9302-47c9-8f04-bfddb7e5a9e5/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/5cfc9ad9-9302-47c9-8f04-bfddb7e5a9e5/documents",
@@ -4692,10 +4766,10 @@
         "Appel à partenaire - Concession de travaux - Dix Bonniers",
         "Marchin",
         "45000000",
-        "Bauarbeiten",
         "Bouwwerkzaamheden",
+        "Travaux de construction",
         "Construction work",
-        "Travaux de construction"
+        "Bauarbeiten"
       ],
       "firstSeenAt": "2026-10-13T12:48:38.011Z"
     },
@@ -4711,7 +4785,7 @@
       "publicationReferenceNumbersBDA": [
         "2026 AGILIS - Concession de travaux - Dix Bonniers_pub01"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/e853ee1c-8f29-410a-b3e8-182943527198/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/e853ee1c-8f29-410a-b3e8-182943527198/documents",
@@ -4755,10 +4829,10 @@
         "APPEL A PARTENAIRE - Concession de travaux - Dix Bonniers",
         "Agilis - Gestion Immobilière Publique",
         "45000000",
-        "Bauarbeiten",
         "Bouwwerkzaamheden",
+        "Travaux de construction",
         "Construction work",
-        "Travaux de construction"
+        "Bauarbeiten"
       ],
       "firstSeenAt": "2026-10-13T12:48:38.011Z"
     },
@@ -4774,7 +4848,7 @@
       "publicationReferenceNumbersBDA": [
         "PPS Herentals - Sportcomplex_pub01"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/989255cd-80ac-476c-90d7-debed589787b/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/989255cd-80ac-476c-90d7-debed589787b/documents",
@@ -4821,14 +4895,14 @@
         "Agentschap Sport Vlaanderen",
         "45212000",
         "45000000",
-        "Travaux de construction de bâtiments destinés aux loisirs, aux sports, à la culture, à l'hébergement et de restaurants",
         "Gebouwen voor vrijetijdsbesteding, sport, cultuur, logies en restaurant",
-        "Bauarbeiten für Gebäude, die der Freizeitgestaltung, dem Sport, der Kultur, der Unterbringung und Verpflegung dienen",
         "Construction work for buildings relating to leisure, sports, culture, lodging and restaurants",
-        "Bauarbeiten",
+        "Travaux de construction de bâtiments destinés aux loisirs, aux sports, à la culture, à l'hébergement et de restaurants",
+        "Bauarbeiten für Gebäude, die der Freizeitgestaltung, dem Sport, der Kultur, der Unterbringung und Verpflegung dienen",
         "Bouwwerkzaamheden",
+        "Travaux de construction",
         "Construction work",
-        "Travaux de construction"
+        "Bauarbeiten"
       ],
       "firstSeenAt": "2026-10-13T12:48:38.011Z"
     },
@@ -4844,7 +4918,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP06Z-1419/6086/2026-35-SG-QC_001"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/eb585628-aec7-4814-9546-287504e336fd/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/eb585628-aec7-4814-9546-287504e336fd/documents",
@@ -4889,9 +4963,9 @@
         "Marché de conception et réalisation (Design&Build) - Démolition et construction de trois classes préfabriquées au droit de l’école communale d’Erbisœul.",
         "Jurbise",
         "45214200",
-        "Construction work for school buildings",
         "Travaux de construction de bâtiments scolaires",
         "Schoolgebouwen",
+        "Construction work for school buildings",
         "Bauarbeiten für Schulgebäude"
       ],
       "firstSeenAt": "2026-09-30T11:14:28.898Z"
@@ -4908,7 +4982,7 @@
       "publicationReferenceNumbersBDA": [
         "23379B/1_pub01"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/40107ff6-a709-4421-b4a5-bf91ae9120b9/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/40107ff6-a709-4421-b4a5-bf91ae9120b9/documents",
@@ -4953,10 +5027,10 @@
         "Project 23.379B/1 - Design & Build, RWZI Geel Slibdensificatie",
         "Aquafin NV - Directie Projectmanagement",
         "45232420",
-        "Travaux de construction de stations d'épuration des eaux usées",
         "Sewage work",
-        "Bauarbeiten für Abwasserbeseitigungsanlagen",
-        "Bouwwerkzaamheden voor rioolwaterzuiveringsinstallaties"
+        "Travaux de construction de stations d'épuration des eaux usées",
+        "Bouwwerkzaamheden voor rioolwaterzuiveringsinstallaties",
+        "Bauarbeiten für Abwasserbeseitigungsanlagen"
       ],
       "firstSeenAt": "2026-10-20T10:12:26.291Z"
     },
@@ -4972,7 +5046,7 @@
       "publicationReferenceNumbersBDA": [
         "CHULG/26.082_pub01"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/d06d858b-2103-46d1-9233-56b5dffc9440/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/d06d858b-2103-46d1-9233-56b5dffc9440/documents",
@@ -5017,10 +5091,10 @@
         "LA TRANSFORMATION, L’EXTENSION ET LA MODERNISATION DES SERVICES D’IMAGERIE MÉDICALE ET DES URGENCES DU CHU DE LIÈGE – SITE DU SART TILMAN : MARCHÉ DE TRAVAUX COMPRENANT LA CONCEPTION ET LA RÉALISATION DE L’OUVRAGE (DESIGN & BUILD)",
         "Centre Hospitalier Universitaire de Liège",
         "45000000",
-        "Bauarbeiten",
         "Bouwwerkzaamheden",
+        "Travaux de construction",
         "Construction work",
-        "Travaux de construction"
+        "Bauarbeiten"
       ],
       "firstSeenAt": "2026-10-20T10:12:26.291Z"
     },
@@ -5036,7 +5110,7 @@
       "publicationReferenceNumbersBDA": [
         "2026_ninove_TD_pub01"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/ee356cbc-9dbd-407f-8a40-bb91bb3e03e1/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/ee356cbc-9dbd-407f-8a40-bb91bb3e03e1/documents",
@@ -5060,8 +5134,8 @@
         "45000000"
       ],
       "contractNatures": [
-        "SERVICES",
         "SUPPLIES",
+        "SERVICES",
         "WORKS"
       ],
       "worksAmount": null,
@@ -5083,10 +5157,10 @@
         "“DESIGN AND BUILD: Nieuwe infrastructuur voor de Technische Dienst”",
         "Ninove",
         "45000000",
-        "Bauarbeiten",
         "Bouwwerkzaamheden",
+        "Travaux de construction",
         "Construction work",
-        "Travaux de construction"
+        "Bauarbeiten"
       ],
       "firstSeenAt": "2026-10-20T10:12:26.291Z"
     },
@@ -5102,7 +5176,7 @@
       "publicationReferenceNumbersBDA": [
         "WO | 00760 | PPS Koekelare - Da Vinci_pub01"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/789b2ef7-e9d2-43a4-b244-c91128c79ab6/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/789b2ef7-e9d2-43a4-b244-c91128c79ab6/documents",
@@ -5146,10 +5220,10 @@
         "Selectieleidraad PPS - ontwikkeling DA VINCI Koekelare",
         "WVI_WONEN",
         "45000000",
-        "Bauarbeiten",
         "Bouwwerkzaamheden",
+        "Travaux de construction",
         "Construction work",
-        "Travaux de construction"
+        "Bauarbeiten"
       ],
       "firstSeenAt": "2026-09-21T10:52:17.140Z"
     },
@@ -5166,7 +5240,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP06X-4616/6175/059-2026 Rénovation urbaine\\Stadsvernieuwing_001"
       ],
-      "retrievedAt": "2026-11-12T13:52:42.594Z",
+      "retrievedAt": "2026-11-13T13:15:39.735Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/a84d88b2-2d0b-4a95-863c-1ba6c3f79041/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/a84d88b2-2d0b-4a95-863c-1ba6c3f79041/documents",
@@ -5214,8 +5288,8 @@
         "Evere",
         "71221000",
         "Diensten door architectenbureaus voor gebouwen",
-        "Dienstleistungen von Architekturbüros bei Gebäuden",
         "Services d'architecte pour les bâtiments",
+        "Dienstleistungen von Architekturbüros bei Gebäuden",
         "Architectural services for buildings"
       ],
       "firstSeenAt": "2026-10-05T12:24:49.525Z"
@@ -5225,7 +5299,7 @@
       "realNotice": true,
       "sourceId": "bma",
       "noticeId": "piscine-sur-le-toit-de-manufakture",
-      "retrievedAt": "2026-11-12T13:52:52.408Z",
+      "retrievedAt": "2026-11-13T13:15:47.315Z",
       "retrievalMethod": "BMA Appels HTML detail page",
       "noticeUrl": "https://bma.brussels/piscine-sur-le-toit-de-manufakture/",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/3052e87a-0728-4cd9-89af-aa2553d3927c/general?searchTerm=PPP0UX-545%2F6097%2FAB-510",
@@ -5242,7 +5316,7 @@
       "publishedAt": null,
       "deadline": "2026-12-03",
       "status": "Appel BMA reel",
-      "risk": "Faible",
+      "risk": "Moyen",
       "matchBase": 84,
       "summary": "Piscine sur le toit de Manufakture. Donnees issues de la page detail BMA. Montant des travaux non transmis: a determiner.",
       "keywords": [
@@ -5262,7 +5336,7 @@
       "realNotice": true,
       "sourceId": "bma",
       "noticeId": "la-maison-tilleul",
-      "retrievedAt": "2026-11-12T13:52:52.408Z",
+      "retrievedAt": "2026-11-13T13:15:47.315Z",
       "retrievalMethod": "BMA Appels HTML detail page",
       "noticeUrl": "https://bma.brussels/la-maison-tilleul/",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/a84d88b2-2d0b-4a95-863c-1ba6c3f79041/general",
@@ -5300,7 +5374,7 @@
       "realNotice": true,
       "sourceId": "vlaams",
       "noticeId": "OAG2620",
-      "retrievedAt": "2026-11-12T13:53:05.238Z",
+      "retrievedAt": "2026-11-13T13:15:58.677Z",
       "retrievalMethod": "Vlaams Bouwmeester HTML detail page",
       "noticeUrl": "https://www.vlaamsbouwmeester.be/nl/projecten/oag2620-turnhout-toekomstplan-stedelijke-administratie",
       "documentsUrl": null,
