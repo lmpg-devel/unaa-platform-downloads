@@ -1,20 +1,19 @@
 {
   "schemaVersion": "market-opportunity.v1",
   "moduleId": "veille-archi-marches",
-  "generatedAt": "2026-11-13T13:15:58.677Z",
-  "exportedAt": "2026-11-13T13:16:00.000Z",
+  "generatedAt": "2026-11-14T12:20:41.709Z",
+  "exportedAt": "2026-11-14T12:20:43.338Z",
   "count": 82,
   "changes": {
     "baselineAvailable": true,
-    "added": 2,
+    "added": 1,
     "removed": 1,
-    "updated": 67,
+    "updated": 12,
     "addedKeys": [
-      "bosa:bf5957c8-d437-4f62-aaf5-24cb77bfd0fb",
-      "bosa:b07daf8a-ac84-440c-ab2b-661196d79ad0"
+      "bosa:f32c760c-832e-4cd1-a64a-e4b5a0ef3394"
     ],
     "removedKeys": [
-      "bosa:46d30fdd-ffc2-411a-a512-c584f7f6b261"
+      "bosa:356caf59-a8b1-4aae-891f-70466347badf"
     ]
   },
   "sourceCounts": {
@@ -31,7 +30,7 @@
       "noticeId": "722881-2026",
       "noticeIdentifier": "ad4e1255-289d-42a8-8f4b-1cde242d1770",
       "publicationNumber": "722881-2026",
-      "retrievedAt": "2026-11-13T13:15:38.179Z",
+      "retrievedAt": "2026-11-14T12:20:17.927Z",
       "retrievalMethod": "TED Search API v3",
       "noticeUrl": "https://ted.europa.eu/fr/notice/-/detail/722881-2026",
       "rawHtmlUrl": "https://ted.europa.eu/fr/notice/722881-2026/html",
@@ -73,7 +72,7 @@
       "noticeId": "734783-2026",
       "noticeIdentifier": "58e2370c-e7a3-4f0d-b90b-efe31dc0d7aa",
       "publicationNumber": "734783-2026",
-      "retrievedAt": "2026-11-13T13:15:38.179Z",
+      "retrievedAt": "2026-11-14T12:20:17.927Z",
       "retrievalMethod": "TED Search API v3",
       "noticeUrl": "https://ted.europa.eu/fr/notice/-/detail/734783-2026",
       "rawHtmlUrl": "https://ted.europa.eu/fr/notice/734783-2026/html",
@@ -117,7 +116,7 @@
       "noticeId": "738968-2026",
       "noticeIdentifier": "724a8118-c476-4de9-8f1b-cf04d26510e3",
       "publicationNumber": "738968-2026",
-      "retrievedAt": "2026-11-13T13:15:38.179Z",
+      "retrievedAt": "2026-11-14T12:20:17.927Z",
       "retrievalMethod": "TED Search API v3",
       "noticeUrl": "https://ted.europa.eu/fr/notice/-/detail/738968-2026",
       "rawHtmlUrl": "https://ted.europa.eu/fr/notice/738968-2026/html",
@@ -161,7 +160,7 @@
       "noticeId": "743413-2026",
       "noticeIdentifier": "8669bdfb-0baf-41fa-b27e-5d9aa48bf6f1",
       "publicationNumber": "743413-2026",
-      "retrievedAt": "2026-11-13T13:15:38.179Z",
+      "retrievedAt": "2026-11-14T12:20:17.927Z",
       "retrievalMethod": "TED Search API v3",
       "noticeUrl": "https://ted.europa.eu/fr/notice/-/detail/743413-2026",
       "rawHtmlUrl": "https://ted.europa.eu/fr/notice/743413-2026/html",
@@ -181,7 +180,7 @@
       "publishedAt": "2026-10-27",
       "deadline": "2026-11-23",
       "status": "Avis TED reel",
-      "risk": "Moyen",
+      "risk": "Eleve",
       "matchBase": 80,
       "summary": "Avis TED 743413-2026, publie le 2026-10-27. Donnees issues de TED Search API v3. Montant des travaux non transmis par TED: a determiner.",
       "keywords": [
@@ -203,7 +202,7 @@
       "noticeId": "744444-2026",
       "noticeIdentifier": "6b923207-6bb8-4fd2-9e0b-90ef42c59626",
       "publicationNumber": "744444-2026",
-      "retrievedAt": "2026-11-13T13:15:38.179Z",
+      "retrievedAt": "2026-11-14T12:20:17.927Z",
       "retrievalMethod": "TED Search API v3",
       "noticeUrl": "https://ted.europa.eu/fr/notice/-/detail/744444-2026",
       "rawHtmlUrl": "https://ted.europa.eu/fr/notice/744444-2026/html",
@@ -223,7 +222,7 @@
       "publishedAt": "2026-10-27",
       "deadline": "2026-11-23",
       "status": "Avis TED reel",
-      "risk": "Moyen",
+      "risk": "Eleve",
       "matchBase": 80,
       "summary": "Avis TED 744444-2026, publie le 2026-10-27. Donnees issues de TED Search API v3. Montant des travaux non transmis par TED: a determiner.",
       "keywords": [
@@ -245,7 +244,7 @@
       "noticeId": "760661-2026",
       "noticeIdentifier": "4c0c001d-b0bb-4a36-ad1e-e4b5958baf47",
       "publicationNumber": "760661-2026",
-      "retrievedAt": "2026-11-13T13:15:38.179Z",
+      "retrievedAt": "2026-11-14T12:20:17.927Z",
       "retrievalMethod": "TED Search API v3",
       "noticeUrl": "https://ted.europa.eu/fr/notice/-/detail/760661-2026",
       "rawHtmlUrl": "https://ted.europa.eu/fr/notice/760661-2026/html",
@@ -265,7 +264,7 @@
       "publishedAt": "2026-11-03",
       "deadline": "2026-12-04",
       "status": "Avis TED reel",
-      "risk": "Faible",
+      "risk": "Moyen",
       "matchBase": 80,
       "summary": "Avis TED 760661-2026, publie le 2026-11-03. Donnees issues de TED Search API v3. Montant des travaux non transmis par TED: a determiner.",
       "keywords": [
@@ -287,7 +286,7 @@
       "noticeId": "767737-2026",
       "noticeIdentifier": "b3b93723-87d3-477c-8925-78c1f1ea899f",
       "publicationNumber": "767737-2026",
-      "retrievedAt": "2026-11-13T13:15:38.179Z",
+      "retrievedAt": "2026-11-14T12:20:17.927Z",
       "retrievalMethod": "TED Search API v3",
       "noticeUrl": "https://ted.europa.eu/fr/notice/-/detail/767737-2026",
       "rawHtmlUrl": "https://ted.europa.eu/fr/notice/767737-2026/html",
@@ -329,7 +328,7 @@
       "noticeId": "767854-2026",
       "noticeIdentifier": "6efe404d-0a34-47b3-97b5-381ff876d52e",
       "publicationNumber": "767854-2026",
-      "retrievedAt": "2026-11-13T13:15:38.179Z",
+      "retrievedAt": "2026-11-14T12:20:17.927Z",
       "retrievalMethod": "TED Search API v3",
       "noticeUrl": "https://ted.europa.eu/fr/notice/-/detail/767854-2026",
       "rawHtmlUrl": "https://ted.europa.eu/fr/notice/767854-2026/html",
@@ -371,7 +370,7 @@
       "noticeId": "770895-2026",
       "noticeIdentifier": "80e598c8-0859-4849-bfc9-7d1b3f918d0f",
       "publicationNumber": "770895-2026",
-      "retrievedAt": "2026-11-13T13:15:38.179Z",
+      "retrievedAt": "2026-11-14T12:20:17.927Z",
       "retrievalMethod": "TED Search API v3",
       "noticeUrl": "https://ted.europa.eu/fr/notice/-/detail/770895-2026",
       "rawHtmlUrl": "https://ted.europa.eu/fr/notice/770895-2026/html",
@@ -419,7 +418,7 @@
       "noticeId": "785758-2026",
       "noticeIdentifier": "38fd698b-94e9-42fe-b50c-c058c46fb42b",
       "publicationNumber": "785758-2026",
-      "retrievedAt": "2026-11-13T13:15:38.179Z",
+      "retrievedAt": "2026-11-14T12:20:17.927Z",
       "retrievalMethod": "TED Search API v3",
       "noticeUrl": "https://ted.europa.eu/fr/notice/-/detail/785758-2026",
       "rawHtmlUrl": "https://ted.europa.eu/fr/notice/785758-2026/html",
@@ -439,7 +438,7 @@
       "publishedAt": "2026-11-11",
       "deadline": "2026-11-23",
       "status": "Avis TED reel",
-      "risk": "Moyen",
+      "risk": "Eleve",
       "matchBase": 80,
       "summary": "Avis TED 785758-2026, publie le 2026-11-11. Donnees issues de TED Search API v3. Montant des travaux non transmis par TED: a determiner.",
       "keywords": [
@@ -461,7 +460,7 @@
       "noticeId": "787902-2026",
       "noticeIdentifier": "f00fa7fa-0f66-44c2-b69c-27bcc2572b5c",
       "publicationNumber": "787902-2026",
-      "retrievedAt": "2026-11-13T13:15:38.179Z",
+      "retrievedAt": "2026-11-14T12:20:17.927Z",
       "retrievalMethod": "TED Search API v3",
       "noticeUrl": "https://ted.europa.eu/fr/notice/-/detail/787902-2026",
       "rawHtmlUrl": "https://ted.europa.eu/fr/notice/787902-2026/html",
@@ -508,7 +507,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP0HR-1423/6053/2026008_001"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/143c3b29-0ad4-4149-ba84-67c8d9602dcb/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/143c3b29-0ad4-4149-ba84-67c8d9602dcb/documents",
@@ -568,6 +567,131 @@
       "firstSeenAt": "2026-11-13T13:15:39.735Z"
     },
     {
+      "id": "BOSA-4a95ce88-8ea1-4213-b784-60622f267178",
+      "realNotice": true,
+      "sourceId": "bosa",
+      "noticeId": "f32c760c-832e-4cd1-a64a-e4b5a0ef3394",
+      "noticeIds": [
+        "f32c760c-832e-4cd1-a64a-e4b5a0ef3394"
+      ],
+      "publicationWorkspaceId": "4a95ce88-8ea1-4213-b784-60622f267178",
+      "publicationReferenceNumbersBDA": [
+        "PPP0KI-1453/6129/FM/2026/065_001"
+      ],
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
+      "retrievalMethod": "BOSA e-Procurement Search API",
+      "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/4a95ce88-8ea1-4213-b784-60622f267178/general",
+      "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/4a95ce88-8ea1-4213-b784-60622f267178/documents",
+      "authenticatedUrl": "https://www.publicprocurement.be/supplier/enterprises/0/tendering-workspaces/publication-workspace-detail/4a95ce88-8ea1-4213-b784-60622f267178",
+      "authenticationMode": "BOSA supplier portal login",
+      "language": "NL",
+      "title": "Campus Heiveld - Masterplan: studieopdracht",
+      "buyer": "OCMW Gent",
+      "buyerGroupId": "communes-cpas",
+      "region": "Flandre",
+      "serviceType": "Paysage",
+      "relevance": {
+        "version": "2026-10-20.1",
+        "category": "design",
+        "decision": "include",
+        "reason": "architectural-or-planning-cpv"
+      },
+      "requiresRelevanceReview": false,
+      "procedure": "Procedure negociee",
+      "cpv": [
+        "71200000",
+        "71240000",
+        "71410000",
+        "71241000",
+        "71421000",
+        "71250000",
+        "71420000",
+        "71000000",
+        "71400000",
+        "71222000",
+        "79311000"
+      ],
+      "contractNatures": [
+        "SERVICES"
+      ],
+      "worksAmount": null,
+      "feeAmount": null,
+      "publishedAt": "2026-11-13",
+      "deadline": "2027-01-13",
+      "status": "Avis BOSA reel",
+      "risk": "Faible",
+      "matchBase": 82,
+      "summary": "Campus Heiveld - Masterplan: studieopdracht Donnees issues de BOSA e-Procurement. Montants travaux et honoraires non transmis par la recherche publique: a determiner.",
+      "keywords": [
+        "Paysage",
+        "Flandre",
+        "NL",
+        "BOSA",
+        "e-Procurement",
+        "marches publics",
+        "architecture",
+        "architectuur",
+        "Campus Heiveld - Masterplan: studieopdracht",
+        "OCMW Gent",
+        "71200000",
+        "71240000",
+        "71410000",
+        "71241000",
+        "71421000",
+        "71250000",
+        "71420000",
+        "71000000",
+        "71400000",
+        "71222000",
+        "79311000",
+        "Services d'architecture",
+        "Architectural and related services",
+        "Dienstverlening op het gebied van architectuur en dergelijke",
+        "Dienstleistungen von Architekturbüros",
+        "Services d'architecture, d'ingénierie et de planification",
+        "Dienstverlening op het gebied van architectuur, bouwkunde en planning",
+        "Architectural, engineering and planning services",
+        "Dienstleistungen von Architektur- und Ingenieurbüros sowie planungsbezogene Leistungen",
+        "Stedenbouw",
+        "Urban planning services",
+        "Stadtplanung",
+        "Services d'urbanisme",
+        "Haalbaarheidsstudie, adviesverlening, analyse",
+        "Études de faisabilité, service de conseil, analyse",
+        "Durchführbarkeitsstudie, Beratung, Analyse",
+        "Feasibility study, advisory service, analysis",
+        "Landscape gardening services",
+        "Landschaftsgärtnerische Gestaltung",
+        "Landschaps- en tuinaanlegdiensten",
+        "Services d'architecture des jardins",
+        "Dienstverlening van architecten en bouwkundigen, en controles",
+        "Services d'architecture, d'ingénierie et de métrage",
+        "Dienstleistungen von Architektur- und Ingenieurbüros sowie Vermessungsdienste",
+        "Architectural, engineering and surveying services",
+        "Landscape architectural services",
+        "Services d'architecture paysagère",
+        "Landschapsarchitectuurdiensten",
+        "Landschaftsgestaltung",
+        "Architectural, construction, engineering and inspection services",
+        "Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen",
+        "Services d'architecture, services de construction, services d'ingénierie et services d'inspection",
+        "Dienstverlening op het gebied van architectuur, bouwkunde, civiele techniek en inspectie",
+        "Services d'urbanisme et d'architecture paysagère",
+        "Dienstverlening op het gebied van stedenbouw en landschapsarchitectuur",
+        "Stadtplanung und Landschaftsgestaltung",
+        "Urban planning and landscape architectural services",
+        "Diensten door architectenbureaus voor buitenvoorzieningen",
+        "Services d'architecte pour la conception d'ouvrages extérieurs",
+        "Dienstleistungen von Architekturbüros bei Freianlagen",
+        "Architectural services for outdoor areas",
+        "Uitvoeren van studies",
+        "Umfragen",
+        "Services d'études",
+        "Survey services"
+      ],
+      "firstSeenAt": "2026-11-14T12:20:19.643Z"
+    },
+    {
       "id": "BOSA-7b7379be-037c-4570-a5b4-b372172cee4b",
       "realNotice": true,
       "sourceId": "bosa",
@@ -579,7 +703,7 @@
       "publicationReferenceNumbersBDA": [
         "Toremansmolen_architectuuropdracht_pub01"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/7b7379be-037c-4570-a5b4-b372172cee4b/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/7b7379be-037c-4570-a5b4-b372172cee4b/documents",
@@ -612,7 +736,7 @@
       "publishedAt": "2026-11-12",
       "deadline": "2026-12-04",
       "status": "Avis BOSA reel",
-      "risk": "Faible",
+      "risk": "Moyen",
       "matchBase": 82,
       "summary": "Stichting Kempens landschap wenst, in samenwerking met gemeente Arendonk, de Toremansmolen te restaureren. Er wordt een ontwerper gezocht om een restauratiedossier, vermoedelijk in de vorm van meerdere onderhoudsdossiers, waarvan enkele wel samen kunnen uitgevoerd worden, op te maken en de werkzaamheden in goede banen te leiden. De Toremansmolen is een beschermd monument.   Voor meer info: zie bestek. Donnees issues de BOSA e-Procurement. Montants travaux et honoraires non transmis par la recherche publique: a determiner.",
       "keywords": [
@@ -657,7 +781,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP011-874/6065/2026/136_001"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/748aa097-a150-417e-9b0a-e2807b22fafe/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/748aa097-a150-417e-9b0a-e2807b22fafe/documents",
@@ -735,7 +859,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP0CX-675/6170/2027.04/POM_001"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/cd76123f-915e-4023-a564-7ea7b4b6e56e/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/cd76123f-915e-4023-a564-7ea7b4b6e56e/documents",
@@ -823,7 +947,7 @@
       "publicationReferenceNumbersBDA": [
         "2026-RPAST-REET_pub01"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/6b61fe81-1e7f-4376-9ccc-2fd863b6e9b3/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/6b61fe81-1e7f-4376-9ccc-2fd863b6e9b3/documents",
@@ -912,7 +1036,7 @@
       "publicationReferenceNumbersBDA": [
         "2026-047-OD_pub01"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/aafcd3a2-242e-4a61-988f-dfce60de94e8/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/aafcd3a2-242e-4a61-988f-dfce60de94e8/documents",
@@ -981,7 +1105,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP0A2-1070/6158/20260025COM_001"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/8fe832a3-f712-4a9d-8505-9ea16b71c127/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/8fe832a3-f712-4a9d-8505-9ea16b71c127/documents",
@@ -1012,7 +1136,7 @@
       "publishedAt": "2026-11-05",
       "deadline": "2026-12-04",
       "status": "Avis BOSA reel",
-      "risk": "Faible",
+      "risk": "Moyen",
       "matchBase": 82,
       "summary": "Désignation d'un auteur de projet pour la révision totale du schéma de développement communal global Donnees issues de BOSA e-Procurement. Montants travaux et honoraires non transmis par la recherche publique: a determiner.",
       "keywords": [
@@ -1035,76 +1159,6 @@
       "firstSeenAt": "2026-11-05T14:49:56.043Z"
     },
     {
-      "id": "BOSA-68d36b51-5fa2-45cf-8e89-2bfd03d5008e",
-      "realNotice": true,
-      "sourceId": "bosa",
-      "noticeId": "356caf59-a8b1-4aae-891f-70466347badf",
-      "noticeIds": [
-        "356caf59-a8b1-4aae-891f-70466347badf",
-        "9091049e-a9a1-4b61-a533-38591a443653"
-      ],
-      "publicationWorkspaceId": "68d36b51-5fa2-45cf-8e89-2bfd03d5008e",
-      "publicationReferenceNumbersBDA": [
-        "HER/ARW/2026/AAN/002_pub01"
-      ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
-      "retrievalMethod": "BOSA e-Procurement Search API",
-      "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/68d36b51-5fa2-45cf-8e89-2bfd03d5008e/general",
-      "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/68d36b51-5fa2-45cf-8e89-2bfd03d5008e/documents",
-      "authenticatedUrl": "https://www.publicprocurement.be/supplier/enterprises/0/tendering-workspaces/publication-workspace-detail/68d36b51-5fa2-45cf-8e89-2bfd03d5008e",
-      "authenticationMode": "BOSA supplier portal login",
-      "language": "NL",
-      "title": "Abdij Roosenberg - Heraanleg binnentuin en rioleringswerken",
-      "buyer": "HERITA VZW",
-      "buyerGroupId": "regions-provinces",
-      "region": "Flandre",
-      "serviceType": "Prescripteur public",
-      "relevance": {
-        "version": "2026-10-20.1",
-        "category": "review",
-        "decision": "review",
-        "reason": "works-with-possible-design-lot"
-      },
-      "requiresRelevanceReview": true,
-      "procedure": "Procedure negociee",
-      "cpv": [
-        "45232440",
-        "71421000"
-      ],
-      "contractNatures": [
-        "WORKS"
-      ],
-      "worksAmount": null,
-      "feeAmount": null,
-      "publishedAt": "2026-11-04",
-      "deadline": "2026-11-13",
-      "status": "Avis BOSA reel",
-      "risk": "Eleve",
-      "matchBase": 82,
-      "summary": "De huidige opdracht betreft de heraanleg van de binnentuin van de abdij van Roosenberg. De intentie is om de tuin terug dichter te brengen tot de plannen van Dom Hans van der Laan. De opdracht omvat: Rooien van de taxushaag (incl. wortels) en de overige beplanting, Afschrapen van grond en grasmatten, Uitbreken en verwijderen van de verharding: betonklinkers en grind - Inzaaien van grasland, Nazicht van de regenwaterafvoerleidingen, Rioleringswerken met aanleg van een IBA systeem en regenwaterbuffering. De vijf valse Christusdoorn bomen blijven behouden en de bomen krijgen de nodige beschermingsmaatregelen. Pertinence a verifier: la mission de conception ou le role accessible a une agence reste a confirmer. Donnees issues de BOSA e-Procurement. Montants travaux et honoraires non transmis par la recherche publique: a determiner.",
-      "keywords": [
-        "Prescripteur public",
-        "Flandre",
-        "NL",
-        "BOSA",
-        "e-Procurement",
-        "marches publics",
-        "Abdij Roosenberg - Heraanleg binnentuin en rioleringswerken",
-        "HERITA VZW",
-        "45232440",
-        "71421000",
-        "Construction work for sewage pipes",
-        "Bauarbeiten für Abwasserrohre",
-        "Aanleggen van rioleringsbuizen",
-        "Travaux de construction de conduites d'eaux d'égouts",
-        "Landscape gardening services",
-        "Landschaftsgärtnerische Gestaltung",
-        "Landschaps- en tuinaanlegdiensten",
-        "Services d'architecture des jardins"
-      ],
-      "firstSeenAt": "2026-10-10T12:48:30.771Z"
-    },
-    {
       "id": "BOSA-58a25d4d-18ca-4095-abc2-c7ac151214f4",
       "realNotice": true,
       "sourceId": "bosa",
@@ -1116,7 +1170,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP0ZT-5283/6060/5283_CSC_Stratégie de stockage d’énergie_001"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/58a25d4d-18ca-4095-abc2-c7ac151214f4/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/58a25d4d-18ca-4095-abc2-c7ac151214f4/documents",
@@ -1181,7 +1235,7 @@
       "publicationReferenceNumbersBDA": [
         "FAC-3454_pub01"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/5e50b6fb-30a8-4f08-9d0c-f42ec414aae1/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/5e50b6fb-30a8-4f08-9d0c-f42ec414aae1/documents",
@@ -1246,7 +1300,7 @@
       "publicationReferenceNumbersBDA": [
         "DGEM/BioGov/LS/26087_pub01"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/95acb614-ea29-4c74-9c11-8bf57d8dec8f/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/95acb614-ea29-4c74-9c11-8bf57d8dec8f/documents",
@@ -1277,7 +1331,7 @@
       "publishedAt": "2026-11-03",
       "deadline": "2026-11-23",
       "status": "Avis BOSA reel",
-      "risk": "Moyen",
+      "risk": "Eleve",
       "matchBase": 82,
       "summary": "Le présent marché porte sur le rapport d'impact environnemental sur la base des montants supplémentaires (ou « taps ») en 2026, 2027 et 2028 pour les OLO vertes belges: OLO86 et OLO96. Le projet s'étend donc sur plusieurs années. Trois rapports d'impact environnemental doivent être remis (un par an). Donnees issues de BOSA e-Procurement. Montants travaux et honoraires non transmis par la recherche publique: a determiner.",
       "keywords": [
@@ -1311,7 +1365,7 @@
       "publicationReferenceNumbersBDA": [
         "VGC2026/DFBA/Aankoop/BD/28_pub01"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/323271bf-2a1b-4ad8-8432-d8bc966435ad/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/323271bf-2a1b-4ad8-8432-d8bc966435ad/documents",
@@ -1376,7 +1430,7 @@
       "publicationReferenceNumbersBDA": [
         "Viv 5672 Aanstellen ontwerpteam_pub01"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/856aebfc-2752-4aad-b45f-20384981c4ac/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/856aebfc-2752-4aad-b45f-20384981c4ac/documents",
@@ -1442,7 +1496,7 @@
       "publicationReferenceNumbersBDA": [
         "2026-064_pub01"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/99ef04c2-4cf1-4b7c-9352-98a1b54004c0/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/99ef04c2-4cf1-4b7c-9352-98a1b54004c0/documents",
@@ -1519,7 +1573,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP0M2-271/6052/2026/099_001"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/0fa36e8c-e686-463e-a0ba-f6c3e45bca5a/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/0fa36e8c-e686-463e-a0ba-f6c3e45bca5a/documents",
@@ -1585,7 +1639,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP02R-1725/6064/NJ2026D02_001"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/0b118534-e185-4a50-8f55-8e44f28d8eb2/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/0b118534-e185-4a50-8f55-8e44f28d8eb2/documents",
@@ -1678,7 +1732,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP03B-4039/6378/2026/398_001"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/d9d5904a-2071-4611-80ea-1eb0d662a15b/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/d9d5904a-2071-4611-80ea-1eb0d662a15b/documents",
@@ -1743,7 +1797,7 @@
       "publicationReferenceNumbersBDA": [
         "WWV/INV/N34/5/S1_pub01"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/867a58c2-65d6-49ac-a36a-b82dfb534b74/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/867a58c2-65d6-49ac-a36a-b82dfb534b74/documents",
@@ -1920,7 +1974,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP0H0-922/6136/20260023_001"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/678cdb9e-c6a9-4aa3-bca7-3fccd0041195/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/678cdb9e-c6a9-4aa3-bca7-3fccd0041195/documents",
@@ -1985,7 +2039,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP0IE-3112/6200/2026-0166_001"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/fc6ac4f3-25bd-43e3-a7fb-ad3eed0396df/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/fc6ac4f3-25bd-43e3-a7fb-ad3eed0396df/documents",
@@ -2050,7 +2104,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP05A-1343/6115/ST-MD-24/26_001"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/7f4255eb-6857-4d85-85e5-4aac8b0fe4e8/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/7f4255eb-6857-4d85-85e5-4aac8b0fe4e8/documents",
@@ -2116,7 +2170,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP0B1-627/6061/2026-026_001"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/3d464fb7-ccf9-43c6-97dd-54e641b17836/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/3d464fb7-ccf9-43c6-97dd-54e641b17836/documents",
@@ -2181,7 +2235,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP06V-2392/6497/2026304_001"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/6dedc187-6480-4fc1-9370-95f83d2eb7ee/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/6dedc187-6480-4fc1-9370-95f83d2eb7ee/documents",
@@ -2258,7 +2312,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP0DC-15169/6109/2026-15169_001"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/98fc040a-357a-4086-8cc6-195767e48c64/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/98fc040a-357a-4086-8cc6-195767e48c64/documents",
@@ -2323,7 +2377,7 @@
       "publicationReferenceNumbersBDA": [
         "FbINFRA.NvA/04.01-00.5561/26.684_pub01"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/39d44437-5cbe-4fa2-886e-3e5a3af6ea5c/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/39d44437-5cbe-4fa2-886e-3e5a3af6ea5c/documents",
@@ -2396,7 +2450,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP0YB-416/6165/INFRA/26/05/416_001"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/30c30fec-6b4b-4956-93fc-9de5507063bb/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/30c30fec-6b4b-4956-93fc-9de5507063bb/documents",
@@ -2461,7 +2515,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP00T-4140/6735/2026123_001"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/ad2bfdd0-f6cf-4427-8c2c-4e3de23a1a7e/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/ad2bfdd0-f6cf-4427-8c2c-4e3de23a1a7e/documents",
@@ -2526,7 +2580,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP0CS-2959/6446/2026-1122_001"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/3b81ba48-e9f4-4d6f-9c05-5ba699c7f209/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/3b81ba48-e9f4-4d6f-9c05-5ba699c7f209/documents",
@@ -2611,7 +2665,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP0BT-458/6085/2026458_001"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/0f27e12e-14df-42cf-91b0-4c0d848157c6/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/0f27e12e-14df-42cf-91b0-4c0d848157c6/documents",
@@ -2649,7 +2703,7 @@
       "publishedAt": "2026-10-09",
       "deadline": "2026-11-23",
       "status": "Avis BOSA reel",
-      "risk": "Moyen",
+      "risk": "Eleve",
       "matchBase": 82,
       "summary": "Aanstellen studiebureau technieken renovatie gemeentehuis Pertinence a verifier: la mission de conception ou le role accessible a une agence reste a confirmer. Donnees issues de BOSA e-Procurement. Montants travaux et honoraires non transmis par la recherche publique: a determiner.",
       "keywords": [
@@ -2716,7 +2770,7 @@
       "publicationReferenceNumbersBDA": [
         "2026-AANSTELLING ONTWERPTEAM ASSENEDE=SINT BERNARDUS FASE III (BLIJ LEVEN)_pub01"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/1f04b6e9-c13a-4983-bbbe-9623b06e1d2f/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/1f04b6e9-c13a-4983-bbbe-9623b06e1d2f/documents",
@@ -2782,7 +2836,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP01B-855/6137/855_001"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/c126db38-07e9-49f8-8c17-0029c4aae5df/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/c126db38-07e9-49f8-8c17-0029c4aae5df/documents",
@@ -2813,7 +2867,7 @@
       "publishedAt": "2026-09-28",
       "deadline": "2026-11-23",
       "status": "Avis BOSA reel",
-      "risk": "Moyen",
+      "risk": "Eleve",
       "matchBase": 82,
       "summary": "Aanstellen ontwerper dossier “GBS De Negensprong: vernieuwing turnzaal, sanitair, extra klaslokalen en lift Donnees issues de BOSA e-Procurement. Montants travaux et honoraires non transmis par la recherche publique: a determiner.",
       "keywords": [
@@ -2847,7 +2901,7 @@
       "publicationReferenceNumbersBDA": [
         "03.02.00.00A-26-2920_pub01"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/832a43e9-080c-4903-805a-92ed92e740a9/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/832a43e9-080c-4903-805a-92ed92e740a9/documents",
@@ -2918,7 +2972,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP0UX-545/6097/AB-510_001"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/3052e87a-0728-4cd9-89af-aa2553d3927c/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/3052e87a-0728-4cd9-89af-aa2553d3927c/documents",
@@ -2984,7 +3038,7 @@
       "publicationReferenceNumbersBDA": [
         "Beliris-6.25.1.9_pub01"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/3ffc8455-2c7d-4e80-92ea-5b533ba9188f/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/3ffc8455-2c7d-4e80-92ea-5b533ba9188f/documents",
@@ -3052,7 +3106,7 @@
       "publicationReferenceNumbersBDA": [
         "2026_PropCom_Consultation_001_pub01"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/6938874d-ac2b-4272-9bef-3c5a5776a1b4/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/6938874d-ac2b-4272-9bef-3c5a5776a1b4/documents",
@@ -3116,7 +3170,7 @@
       "publicationReferenceNumbersBDA": [
         "TVL/2026/2029/OOP/VAS_pub01"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/69f71857-5d9d-4ab0-a429-b465ac6cf59c/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/69f71857-5d9d-4ab0-a429-b465ac6cf59c/documents",
@@ -3179,7 +3233,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP009-3672/6479/2026/028aa_001"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/f05ab410-ead9-4f18-acd9-dd038f57abf3/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/f05ab410-ead9-4f18-acd9-dd038f57abf3/documents",
@@ -3242,7 +3296,7 @@
       "publicationReferenceNumbersBDA": [
         "RWT-2026/107_pub01"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/dda1737e-2917-4bcf-ac2e-cc01393e6edd/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/dda1737e-2917-4bcf-ac2e-cc01393e6edd/documents",
@@ -3308,7 +3362,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP07I-3012/6621/ERE/351 W2607 337_001"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/88cd0106-8aa2-4912-adc0-1a6005069741/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/88cd0106-8aa2-4912-adc0-1a6005069741/documents",
@@ -3373,7 +3427,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP0BB-2115/6124/2026-1953_001"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/286fc047-f99d-45ee-9d78-91e7a9cd244f/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/286fc047-f99d-45ee-9d78-91e7a9cd244f/documents",
@@ -3437,7 +3491,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP0VJ-983/6724/2026/EE/NUC/067_001"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/79528141-c964-4077-a819-88ca6755128d/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/79528141-c964-4077-a819-88ca6755128d/documents",
@@ -3500,7 +3554,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP0KC-2773/6978/2026/20_001"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/5fc837da-dc3c-45a8-afaa-cd72ee722ba1/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/5fc837da-dc3c-45a8-afaa-cd72ee722ba1/documents",
@@ -3574,7 +3628,7 @@
       "publicationReferenceNumbersBDA": [
         "LAM_NIJL_2026-01_pub01"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/51cd2603-e280-47eb-8f06-644382e97cf3/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/51cd2603-e280-47eb-8f06-644382e97cf3/documents",
@@ -3657,7 +3711,7 @@
       "publicationReferenceNumbersBDA": [
         "SMO-2026-DK_pub01"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/ba01ff41-f99d-4327-af79-1c6b695b81d9/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/ba01ff41-f99d-4327-af79-1c6b695b81d9/documents",
@@ -3729,7 +3783,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP04Q-1443/6252/ODU/1443_001"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/553a2e40-9827-4cb7-8314-1c07bff9e874/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/553a2e40-9827-4cb7-8314-1c07bff9e874/documents",
@@ -3760,7 +3814,7 @@
       "publishedAt": "2026-11-03",
       "deadline": "2026-11-23",
       "status": "Avis PPP reel",
-      "risk": "Moyen",
+      "risk": "Eleve",
       "matchBase": 88,
       "summary": "Le présent marché a pour objet la réalisation des travaux d'aménagement d'un espace de loisirs et de détente et d'une voie cyclo-piétonne rue des Prés à Waremme. Le marché comprend trois lots : le Lot 1 porte sur l'aménagement de l'espace vert et de la voie cyclo-piétonne (démolition, voirie, égouttage, clôture, passerelle, luminaires, plaine de jeux, voie cyclo-piétonne le long du Geer, espace de convivialité et street workout, chemin et parc canin) ; le Lot 2 porte sur la conception-réalisation d'un pumptrack/kidstrack ; le Lot 3 porte sur la conception-réalisation d'un skatepark. Le projet s'inscrit dans une logique d'ouverture du site vers le quartier rue des Prés et d'appropriation par les habitants, avec une attention particulière portée à la biodiversité, à la perméabilité des sols et à l'accessibilité. Les travaux à réaliser comprennent notamment : • Les travaux de démolition sélective des revêtements existants et de désimperméabilisation des surfaces (Lot 1) ; • L'exécution des revêtements piétons et cyclables, de la voirie et des chemins (Lot 1) ; • Les travaux d'égouttage, de clôture, la réalisation d'une passerelle et l'installation de luminaires (Lot 1) ; • La réalisation d'une plaine de jeux, dont un module central en tranche conditionnelle (Lot 1) ; • La réalisation d'une voie cyclo-piétonne le long du Geer (Lot 1) ; • L'aménagement d'un espace de convivialité et d'une zone de street workout, avec un kiosque en tranche conditionnelle (Lot 1) ; • L'aménagement d'un chemin et d'un parc canin, en tranche conditionnelle (Lot 1) ; • La conception et la réalisation d'un pumptrack/kidstrack (Lot 2) ; • La conception et la réalisation d'un skatepark (Lot 3). Tous les travaux, fournitures, transports, main d'oeuvre, pose, moyens d'exécution, évacuation des décombres et déchets quelconques, services et sujétions diverses faisant partie du marché Sont énoncés au présent cahier spécial des charges et métrés, représentés aux plans et épurés en se conformant aux indications données en cours d'exécution par l'Auteur de projet ou son délégué, et repris dans tous autres documents contractuels. Le marché comprend en outre, l’entretien et la protection de tous les ouvrages existants, y compris les arbres et essences naturelles à maintenir suivant le plan d’aménagement et réalisés jusqu’à la réception provisoire et ensuite, suivant stipulations du CSC, jusqu’à l’expiration des délais de garantie, toutes fournitures et main-d’oeuvre comprises. Tous les travaux, fournitures, frais non repris dans le cahier spécial des charges ou sur les plans, mais dérivant directement ou indirectement de ceux décrits dans le cahier spécial des charges et ses annexes, tels que frais divers, les mesures de signalisation et de sécurité, la remise en état et l’entretien des ouvrages durant la période de garantie, le remplacement des fournitures défectueuses, etc. Les travaux décrits ci-dessus ne sont pas exhaustifs, le détail des travaux est repris dans les clauses techniques et le métré récapitulatif annexés au présent cahier spécial des charges. Dans le cadre du présent marché, le pouvoir adjudicateur entend lutter contre le dumping social et la fraude sociale. Important Le présent marché a pour objet la réalisation d'un nouvel espace vert public, bénéficiant de subventions (développement urbain de la Région wallonne). Les travaux seront exécutés dans le respect des délais et conditions imposées par l'octroi de ladite subvention. La mise en oeuvre du présent marché pourra donc être phasée de manière à garantir la bonne réalisation de l’ensemble des opérations. Un phasage précis sera défini en concertation avec le pouvoir adjudicateur. Une première phase d’abattage et de débroussaillage devra obligatoirement être réalisée durant les périodes de non-nidification. Les différentes tranches et phases du marché ne seront pas nécessairement réalisées en même temps. L'adjudicataire ne peut donc pas exiger que des travaux de même nature, répartis sur plusieurs tranches ou phases, soient exécutés en une seule intervention. C'est le cas, par exemple, des chemins en béton coulé, des revêtements, des bordures ou des plantations. Ces travaux peuvent devoir être réalisés en plusieurs fois, selon l'avancement du chantier et l'ordre d'exécution des tranches. Les interventions multiples de l'adjudicataire ou de ses sous-traitants qui en découlent sont réputées comprises dans les prix de l'offre, en ce compris les amenées et replis de matériel et d'équipes, les reprises de joints et les raccords entre les parties exécutées à des moments différents. Elles ne donnent droit à aucun supplément de prix, à aucune indemnité ni à aucune prolongation du délai d'exécution. Justification du fractionnement en tranches Compte tenu des impératifs calendaires lies au maintien du droit aux subsides de revitalisation urbaine, notamment en ce qui concerne les travaux du parc, ainsi que des négociations budgétaires en cours relatives à la tranche 5 : parc canin, le pouvoir adjudicateur se trouve dans l'obligation de recourir à un marché fractionne en tranches, comprenant une tranche ferme et des tranches conditionnelles. Les tranches sont décrites au point 10 de la partie 1 du CSC. Donnees issues de BOSA e-Procurement. Avis integre par la veille PPP/developpement car le CPV principal peut etre travaux, concession ou services generaux. Montants travaux et honoraires non transmis par la recherche publique: a determiner.",
       "keywords": [
@@ -3793,7 +3847,7 @@
       "publicationReferenceNumbersBDA": [
         "2026-concessie-podium_pub01"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/17a7f248-3033-4b52-9cb7-75443721eac8/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/17a7f248-3033-4b52-9cb7-75443721eac8/documents",
@@ -3848,8 +3902,8 @@
         "Dienstleistungen von Tontechnikern",
         "Sound technician",
         "Diensten in verband met de uitvoering van verlichtings- en daglichtvoorzieningsprojecten",
-        "Dienstleistungen für Lichttechnik und Tageslichttechnik",
         "Services pour les techniques d'éclairage naturel et artificiel",
+        "Dienstleistungen für Lichttechnik und Tageslichttechnik",
         "Artificial and natural lighting engineering services for buildings",
         "Services d'installation de matériel vidéo",
         "Installatie van video-uitrusting",
@@ -3877,7 +3931,7 @@
       "publicationReferenceNumbersBDA": [
         "RWT-2026/105_pub01"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/aa95ead2-eeb1-43a4-b547-73d8bdddd1f4/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/aa95ead2-eeb1-43a4-b547-73d8bdddd1f4/documents",
@@ -3941,7 +3995,7 @@
       "publicationReferenceNumbersBDA": [
         "430104 Andenne PPP_pub01"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/9f5d3fb7-ca3b-43c8-8e13-b4c67332efca/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/9f5d3fb7-ca3b-43c8-8e13-b4c67332efca/documents",
@@ -4011,7 +4065,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP06T-35260/6232/2027 D 7_001"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/6079062b-fa73-4f79-b012-4298c928c55a/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/6079062b-fa73-4f79-b012-4298c928c55a/documents",
@@ -4076,7 +4130,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP001-2537/6556/2026-PM-1637_001"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/04456867-eb8c-4c68-bf8a-cde9318a85ad/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/04456867-eb8c-4c68-bf8a-cde9318a85ad/documents",
@@ -4140,7 +4194,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP092-2077/6158/2026-107_001"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/74bbf8b5-ae56-420e-9ebf-c5be83dbc0a8/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/74bbf8b5-ae56-420e-9ebf-c5be83dbc0a8/documents",
@@ -4204,7 +4258,7 @@
       "publicationReferenceNumbersBDA": [
         "2026 Ontwerpen en bouwen van een modulaire Buitenschoolse Opvang en Activiteiten (BOA) in Menen_pub01"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/4f9f1835-d3c1-4889-af72-3345714f2139/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/4f9f1835-d3c1-4889-af72-3345714f2139/documents",
@@ -4268,7 +4322,7 @@
       "publicationReferenceNumbersBDA": [
         "Viv 1348 - Aanstellen multidisciplinair ontwerpteam_pub01"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/1ef19eb3-0367-4db3-aa36-82d6967cd88f/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/1ef19eb3-0367-4db3-aa36-82d6967cd88f/documents",
@@ -4333,7 +4387,7 @@
       "publicationReferenceNumbersBDA": [
         "2025/28_pub01"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/ab3f9631-29ca-4dbb-b65f-235c0c4fea96/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/ab3f9631-29ca-4dbb-b65f-235c0c4fea96/documents",
@@ -4396,7 +4450,7 @@
       "publicationReferenceNumbersBDA": [
         "TO/INV/RUP/4 – DWV-TLP.RPL-PPS-01_pub01"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/f8858f6b-8214-41eb-a55b-659cf85ec150/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/f8858f6b-8214-41eb-a55b-659cf85ec150/documents",
@@ -4467,7 +4521,7 @@
       "publicationReferenceNumbersBDA": [
         "HERON-2026-010LW_pub01"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/edece2ac-6bf5-41d3-8246-d285ba41a3c1/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/edece2ac-6bf5-41d3-8246-d285ba41a3c1/documents",
@@ -4532,7 +4586,7 @@
       "publicationReferenceNumbersBDA": [
         "31.02.01-002 Bis_pub01"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/982a837a-26e6-4a81-b3e0-cb8ed758dff7/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/982a837a-26e6-4a81-b3e0-cb8ed758dff7/documents",
@@ -4596,7 +4650,7 @@
       "publicationReferenceNumbersBDA": [
         "MV-ZWALUWNEST-2026._pub01"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/9a39b182-161c-4bba-8fd6-d41d5f0962b0/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/9a39b182-161c-4bba-8fd6-d41d5f0962b0/documents",
@@ -4659,7 +4713,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP001-2538/6503/2026-PM-1638_001"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/47e405d4-aa98-4bc9-aaa4-2dee383a70ba/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/47e405d4-aa98-4bc9-aaa4-2dee383a70ba/documents",
@@ -4722,7 +4776,7 @@
       "publicationReferenceNumbersBDA": [
         "2026 - Commune de Marchin - Concession de travaux- Dix Bonniers_pub01"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/5cfc9ad9-9302-47c9-8f04-bfddb7e5a9e5/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/5cfc9ad9-9302-47c9-8f04-bfddb7e5a9e5/documents",
@@ -4785,7 +4839,7 @@
       "publicationReferenceNumbersBDA": [
         "2026 AGILIS - Concession de travaux - Dix Bonniers_pub01"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/e853ee1c-8f29-410a-b3e8-182943527198/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/e853ee1c-8f29-410a-b3e8-182943527198/documents",
@@ -4848,7 +4902,7 @@
       "publicationReferenceNumbersBDA": [
         "PPS Herentals - Sportcomplex_pub01"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/989255cd-80ac-476c-90d7-debed589787b/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/989255cd-80ac-476c-90d7-debed589787b/documents",
@@ -4918,7 +4972,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP06Z-1419/6086/2026-35-SG-QC_001"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/eb585628-aec7-4814-9546-287504e336fd/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/eb585628-aec7-4814-9546-287504e336fd/documents",
@@ -4963,8 +5017,8 @@
         "Marché de conception et réalisation (Design&Build) - Démolition et construction de trois classes préfabriquées au droit de l’école communale d’Erbisœul.",
         "Jurbise",
         "45214200",
-        "Travaux de construction de bâtiments scolaires",
         "Schoolgebouwen",
+        "Travaux de construction de bâtiments scolaires",
         "Construction work for school buildings",
         "Bauarbeiten für Schulgebäude"
       ],
@@ -4982,7 +5036,7 @@
       "publicationReferenceNumbersBDA": [
         "23379B/1_pub01"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/40107ff6-a709-4421-b4a5-bf91ae9120b9/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/40107ff6-a709-4421-b4a5-bf91ae9120b9/documents",
@@ -5046,7 +5100,7 @@
       "publicationReferenceNumbersBDA": [
         "CHULG/26.082_pub01"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/d06d858b-2103-46d1-9233-56b5dffc9440/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/d06d858b-2103-46d1-9233-56b5dffc9440/documents",
@@ -5110,7 +5164,7 @@
       "publicationReferenceNumbersBDA": [
         "2026_ninove_TD_pub01"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/ee356cbc-9dbd-407f-8a40-bb91bb3e03e1/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/ee356cbc-9dbd-407f-8a40-bb91bb3e03e1/documents",
@@ -5176,7 +5230,7 @@
       "publicationReferenceNumbersBDA": [
         "WO | 00760 | PPS Koekelare - Da Vinci_pub01"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/789b2ef7-e9d2-43a4-b244-c91128c79ab6/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/789b2ef7-e9d2-43a4-b244-c91128c79ab6/documents",
@@ -5240,7 +5294,7 @@
       "publicationReferenceNumbersBDA": [
         "PPP06X-4616/6175/059-2026 Rénovation urbaine\\Stadsvernieuwing_001"
       ],
-      "retrievedAt": "2026-11-13T13:15:39.735Z",
+      "retrievedAt": "2026-11-14T12:20:19.643Z",
       "retrievalMethod": "BOSA e-Procurement Search API",
       "noticeUrl": "https://www.publicprocurement.be/publication-workspaces/a84d88b2-2d0b-4a95-863c-1ba6c3f79041/general",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/a84d88b2-2d0b-4a95-863c-1ba6c3f79041/documents",
@@ -5299,7 +5353,7 @@
       "realNotice": true,
       "sourceId": "bma",
       "noticeId": "piscine-sur-le-toit-de-manufakture",
-      "retrievedAt": "2026-11-13T13:15:47.315Z",
+      "retrievedAt": "2026-11-14T12:20:28.940Z",
       "retrievalMethod": "BMA Appels HTML detail page",
       "noticeUrl": "https://bma.brussels/piscine-sur-le-toit-de-manufakture/",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/3052e87a-0728-4cd9-89af-aa2553d3927c/general?searchTerm=PPP0UX-545%2F6097%2FAB-510",
@@ -5336,7 +5390,7 @@
       "realNotice": true,
       "sourceId": "bma",
       "noticeId": "la-maison-tilleul",
-      "retrievedAt": "2026-11-13T13:15:47.315Z",
+      "retrievedAt": "2026-11-14T12:20:28.940Z",
       "retrievalMethod": "BMA Appels HTML detail page",
       "noticeUrl": "https://bma.brussels/la-maison-tilleul/",
       "documentsUrl": "https://www.publicprocurement.be/publication-workspaces/a84d88b2-2d0b-4a95-863c-1ba6c3f79041/general",
@@ -5374,7 +5428,7 @@
       "realNotice": true,
       "sourceId": "vlaams",
       "noticeId": "OAG2620",
-      "retrievedAt": "2026-11-13T13:15:58.677Z",
+      "retrievedAt": "2026-11-14T12:20:41.709Z",
       "retrievalMethod": "Vlaams Bouwmeester HTML detail page",
       "noticeUrl": "https://www.vlaamsbouwmeester.be/nl/projecten/oag2620-turnhout-toekomstplan-stedelijke-administratie",
       "documentsUrl": null,
